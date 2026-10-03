@@ -1,0 +1,279 @@
+
+FourOfKind.png
+size: 961,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light1
+  rotate: false
+  xy: 728, 138
+  size: 214, 68
+  orig: 214, 68
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: true
+  xy: 95, 57
+  size: 149, 98
+  orig: 149, 98
+  offset: 0, 0
+  index: -1
+Poke01
+  rotate: false
+  xy: 728, 28
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Poke02
+  rotate: true
+  xy: 877, 15
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+Poke03
+  rotate: true
+  xy: 877, 75
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+Poke04
+  rotate: false
+  xy: 803, 56
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+TEXT
+  rotate: true
+  xy: 2, 43
+  size: 163, 91
+  orig: 163, 91
+  offset: 0, 0
+  index: -1
+TEXT_00001
+  rotate: true
+  xy: 114, 2
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+TEXT_00002
+  rotate: false
+  xy: 944, 153
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+TEXT_00003
+  rotate: true
+  xy: 169, 5
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+TEXT_00004
+  rotate: false
+  xy: 726, 110
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+TEXT_00005
+  rotate: true
+  xy: 142, 26
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+TEXT_00006
+  rotate: true
+  xy: 86, 7
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+TEXT_00007
+  rotate: true
+  xy: 2, 3
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+TEXT_00008
+  rotate: true
+  xy: 30, 3
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+TEXT_00009
+  rotate: true
+  xy: 58, 6
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+TEXT_00010
+  rotate: true
+  xy: 114, 12
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+TEXT_00011
+  rotate: false
+  xy: 170, 29
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+TEXT_00012
+  rotate: true
+  xy: 142, 4
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+TEXT_00013
+  rotate: false
+  xy: 944, 181
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+TEXT_00014
+  rotate: true
+  xy: 95, 45
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+particles_00000
+  rotate: true
+  xy: 195, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00001
+  rotate: true
+  xy: 197, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00002
+  rotate: true
+  xy: 254, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00003
+  rotate: true
+  xy: 256, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00004
+  rotate: true
+  xy: 313, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00005
+  rotate: true
+  xy: 315, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00006
+  rotate: true
+  xy: 372, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00007
+  rotate: true
+  xy: 374, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00008
+  rotate: true
+  xy: 431, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00009
+  rotate: true
+  xy: 433, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00010
+  rotate: true
+  xy: 490, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00011
+  rotate: true
+  xy: 492, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00012
+  rotate: true
+  xy: 549, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00013
+  rotate: true
+  xy: 551, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00014
+  rotate: true
+  xy: 608, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00015
+  rotate: true
+  xy: 610, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00016
+  rotate: true
+  xy: 667, 106
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+particles_00017
+  rotate: true
+  xy: 669, 4
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1

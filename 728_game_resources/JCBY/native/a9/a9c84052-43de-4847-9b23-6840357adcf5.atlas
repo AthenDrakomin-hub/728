@@ -1,0 +1,27 @@
+
+jinyumantang.png
+size: 211,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinyumantangfs
+  rotate: false
+  xy: 2, 126
+  size: 176, 172
+  orig: 176, 172
+  offset: 0, 0
+  index: -1
+jinyumantangicon
+  rotate: false
+  xy: 2, 2
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+jinyumantangyuanguang
+  rotate: false
+  xy: 124, 38
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1

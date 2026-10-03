@@ -1,0 +1,41 @@
+
+jxlw_gameobjbar.png
+size: 346,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjbar
+  rotate: false
+  xy: 215, 22
+  size: 84, 28
+  orig: 84, 28
+  offset: 0, 0
+  index: -1
+jxlw_gameobjbarfg
+  rotate: false
+  xy: 281, 52
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+jxlw_gameobjbarquan
+  rotate: false
+  xy: 2, 2
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+jxlw_gameobjyuan
+  rotate: false
+  xy: 118, 22
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 215, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

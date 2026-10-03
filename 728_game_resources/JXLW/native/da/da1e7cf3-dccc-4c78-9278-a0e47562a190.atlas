@@ -1,0 +1,34 @@
+
+jxlw_gameobjyingtao.png
+size: 175,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjyingtao1
+  rotate: false
+  xy: 2, 33
+  size: 60, 116
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+jxlw_gameobjyingtao2
+  rotate: true
+  xy: 64, 78
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+jxlw_gameobjyingtaofg
+  rotate: true
+  xy: 64, 2
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+jxlw_gameobjyingtaoye1
+  rotate: true
+  xy: 143, 6
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1

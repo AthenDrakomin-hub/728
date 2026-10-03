@@ -1,0 +1,55 @@
+
+zhangyuguai.png
+size: 248,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangyuguai_idle_jiao1
+  rotate: true
+  xy: 188, 106
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+zhangyuguai_idle_jiao2
+  rotate: false
+  xy: 61, 6
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+zhangyuguai_idle_jiao3
+  rotate: false
+  xy: 183, 32
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+zhangyuguai_idle_jiao4
+  rotate: false
+  xy: 2, 2
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+zhangyuguai_idle_jiao5
+  rotate: false
+  xy: 117, 32
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+zhangyuguai_idle_jiao6
+  rotate: true
+  xy: 100, 111
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+zhangyuguai_idle_tou
+  rotate: false
+  xy: 2, 98
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1

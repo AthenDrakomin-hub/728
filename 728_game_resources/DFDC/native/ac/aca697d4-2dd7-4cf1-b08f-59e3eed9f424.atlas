@@ -1,0 +1,216 @@
+
+dfdc_jiasu_guess_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_01
+  rotate: false
+  xy: 2, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_02
+  rotate: false
+  xy: 2, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_03
+  rotate: false
+  xy: 90, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_04
+  rotate: false
+  xy: 2, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_05
+  rotate: false
+  xy: 90, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_06
+  rotate: false
+  xy: 178, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_07
+  rotate: false
+  xy: 90, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_08
+  rotate: false
+  xy: 178, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_09
+  rotate: false
+  xy: 266, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_10
+  rotate: false
+  xy: 178, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_11
+  rotate: false
+  xy: 266, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_12
+  rotate: false
+  xy: 354, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_13
+  rotate: false
+  xy: 266, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_14
+  rotate: false
+  xy: 354, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_15
+  rotate: false
+  xy: 442, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_16
+  rotate: false
+  xy: 354, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_17
+  rotate: false
+  xy: 442, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_18
+  rotate: false
+  xy: 530, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_19
+  rotate: false
+  xy: 442, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_20
+  rotate: false
+  xy: 530, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_21
+  rotate: false
+  xy: 618, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_22
+  rotate: false
+  xy: 530, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_23
+  rotate: false
+  xy: 618, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_24
+  rotate: false
+  xy: 706, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_25
+  rotate: false
+  xy: 618, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_26
+  rotate: false
+  xy: 706, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_27
+  rotate: false
+  xy: 794, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_28
+  rotate: false
+  xy: 706, 2
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_29
+  rotate: false
+  xy: 794, 81
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+zsyh_gameobj_jsxl/zsyh_gameobj_jsxl_30
+  rotate: false
+  xy: 882, 160
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1

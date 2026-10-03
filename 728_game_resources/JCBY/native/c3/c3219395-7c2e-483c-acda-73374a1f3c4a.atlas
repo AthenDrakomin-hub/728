@@ -1,0 +1,48 @@
+
+buyu7.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyu7-end_0
+  rotate: false
+  xy: 1, 96
+  size: 127, 76
+  orig: 134, 105
+  offset: 1, 0
+  index: -1
+buyu7-idle_6
+  rotate: false
+  xy: 129, 1
+  size: 124, 67
+  orig: 130, 96
+  offset: 4, 13
+  index: -1
+buyu7-idle_18
+  rotate: false
+  xy: 130, 144
+  size: 125, 65
+  orig: 130, 96
+  offset: 3, 14
+  index: -1
+buyu7-idle_0
+  rotate: false
+  xy: 1, 1
+  size: 126, 93
+  orig: 130, 96
+  offset: 3, 1
+  index: -1
+buyu7-end_3
+  rotate: false
+  xy: 130, 70
+  size: 113, 72
+  orig: 134, 105
+  offset: 18, 28
+  index: -1
+buyu7-idle_12
+  rotate: false
+  xy: 1, 174
+  size: 127, 46
+  orig: 130, 96
+  offset: 1, 21
+  index: -1

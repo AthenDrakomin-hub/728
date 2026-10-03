@@ -1,0 +1,41 @@
+
+shz_bidaxiao.png
+size: 732,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shz_bidaxiaojt
+  rotate: false
+  xy: 666, 322
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+shz_bidaxiaolg1
+  rotate: false
+  xy: 2, 16
+  size: 353, 204
+  orig: 355, 206
+  offset: 1, 1
+  index: -1
+shz_bidaxiaolg2
+  rotate: false
+  xy: 357, 2
+  size: 353, 204
+  orig: 355, 206
+  offset: 1, 1
+  index: -1
+shz_bidaxiaolg3
+  rotate: false
+  xy: 2, 222
+  size: 430, 205
+  orig: 432, 207
+  offset: 1, 1
+  index: -1
+shz_bidaxiaotips
+  rotate: false
+  xy: 434, 208
+  size: 230, 219
+  orig: 230, 219
+  offset: 0, 0
+  index: -1

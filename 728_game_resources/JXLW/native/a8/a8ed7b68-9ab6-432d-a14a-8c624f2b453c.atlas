@@ -1,0 +1,27 @@
+
+jxlw_gameobjpinguo.png
+size: 190,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjpinguo
+  rotate: false
+  xy: 2, 13
+  size: 108, 116
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+jxlw_gameobjpinguofg
+  rotate: false
+  xy: 112, 53
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+jxlw_gameobjpinguoye
+  rotate: false
+  xy: 112, 2
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1

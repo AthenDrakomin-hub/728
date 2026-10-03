@@ -1,0 +1,69 @@
+
+slhb_fhb.png
+size: 948,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slhb_kai
+  rotate: true
+  xy: 688, 67
+  size: 266, 258
+  orig: 266, 258
+  offset: 0, 0
+  index: -1
+slhb_kdhbsc
+  rotate: false
+  xy: 2, 10
+  size: 684, 323
+  orig: 684, 323
+  offset: 0, 0
+  index: -1
+slhb_ksidai1
+  rotate: true
+  xy: 691, 614
+  size: 272, 135
+  orig: 272, 135
+  offset: 0, 0
+  index: -1
+slhb_ksidai2
+  rotate: false
+  xy: 691, 451
+  size: 89, 161
+  orig: 89, 161
+  offset: 0, 0
+  index: -1
+slhb_ksidai3
+  rotate: true
+  xy: 688, 13
+  size: 52, 145
+  orig: 52, 145
+  offset: 0, 0
+  index: -1
+slhb_kxhb2
+  rotate: true
+  xy: 835, 2
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+slhb_kxhb3
+  rotate: true
+  xy: 828, 762
+  size: 124, 98
+  orig: 124, 98
+  offset: 0, 0
+  index: -1
+slhb_xhxhb3
+  rotate: true
+  xy: 691, 341
+  size: 108, 66
+  orig: 108, 66
+  offset: 0, 0
+  index: -1
+slhbfhb_dhbbb
+  rotate: false
+  xy: 2, 335
+  size: 687, 551
+  orig: 687, 551
+  offset: 0, 0
+  index: -1

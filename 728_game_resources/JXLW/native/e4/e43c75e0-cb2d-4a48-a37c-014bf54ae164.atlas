@@ -1,0 +1,27 @@
+
+jxlw_gameobjbaoxiangct.png
+size: 285,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest
+  rotate: false
+  xy: 2, 2
+  size: 140, 111
+  orig: 140, 111
+  offset: 0, 0
+  index: -1
+jxlw_gameobjbaoxiangfg2
+  rotate: true
+  xy: 144, 34
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 219, 49
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

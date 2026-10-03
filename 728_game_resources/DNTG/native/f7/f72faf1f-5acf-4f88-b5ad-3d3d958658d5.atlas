@@ -1,0 +1,34 @@
+
+paotai2.png
+size: 310,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dntg_pao3gongjikou
+  rotate: false
+  xy: 2, 2
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+dntg_paoshen3buyu
+  rotate: false
+  xy: 144, 2
+  size: 130, 86
+  orig: 130, 86
+  offset: 0, 0
+  index: -1
+dntg_paotou4abuyu
+  rotate: true
+  xy: 276, 46
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dntg_paotou4bbuyu
+  rotate: true
+  xy: 276, 10
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1

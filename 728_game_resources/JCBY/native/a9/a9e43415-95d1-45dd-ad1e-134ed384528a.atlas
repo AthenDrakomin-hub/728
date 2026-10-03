@@ -1,0 +1,166 @@
+
+effect_transition_water_1_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_transition_water_00002
+  rotate: false
+  xy: 1157, 1405
+  size: 572, 350
+  orig: 572, 350
+  offset: 0, 0
+  index: 0
+effect_transition_water_00005
+  rotate: false
+  xy: 580, 704
+  size: 577, 349
+  orig: 578, 350
+  offset: 1, 0
+  index: 0
+effect_transition_water_00019
+  rotate: false
+  xy: 2, 2
+  size: 592, 349
+  orig: 592, 350
+  offset: 0, 0
+  index: 0
+effect_transition_water_00009
+  rotate: false
+  xy: 1189, 2
+  size: 591, 349
+  orig: 592, 350
+  offset: 1, 0
+  index: 0
+effect_transition_water_00021
+  rotate: false
+  xy: 1183, 703
+  size: 582, 349
+  orig: 582, 350
+  offset: 0, 0
+  index: 0
+effect_transition_water_00007
+  rotate: false
+  xy: 2, 1409
+  size: 566, 349
+  orig: 566, 350
+  offset: 0, 0
+  index: 0
+effect_transition_water_00001
+  rotate: false
+  xy: 596, 2
+  size: 591, 349
+  orig: 592, 350
+  offset: 1, 0
+  index: 0
+effect_transition_water_00000
+  rotate: false
+  xy: 593, 353
+  size: 588, 349
+  orig: 588, 350
+  offset: 0, 0
+  index: 0
+effect_transition_water_00008
+  rotate: false
+  xy: 580, 1055
+  size: 575, 349
+  orig: 576, 350
+  offset: 1, 0
+  index: 0
+effect_transition_water_00018
+  rotate: false
+  xy: 2, 704
+  size: 576, 350
+  orig: 576, 350
+  offset: 0, 0
+  index: 0
+effect_transition_water_00015
+  rotate: false
+  xy: 1159, 1054
+  size: 577, 349
+  orig: 578, 350
+  offset: 1, 0
+  index: 0
+effect_transition_water_00017
+  rotate: false
+  xy: 2, 1056
+  size: 567, 351
+  orig: 568, 352
+  offset: 1, 0
+  index: 0
+effect_transition_water_00011
+  rotate: false
+  xy: 2, 353
+  size: 589, 349
+  orig: 590, 350
+  offset: 1, 0
+  index: 0
+effect_transition_water_00010
+  rotate: false
+  xy: 1183, 353
+  size: 589, 348
+  orig: 590, 348
+  offset: 1, 0
+  index: 0
+effect_transition_water_00012
+  rotate: false
+  xy: 571, 1406
+  size: 572, 347
+  orig: 572, 348
+  offset: 0, 0
+  index: 0
+
+effect_transition_water_1_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_transition_water_00016
+  rotate: false
+  xy: 567, 352
+  size: 555, 350
+  orig: 556, 350
+  offset: 1, 0
+  index: 1
+effect_transition_water_00014
+  rotate: false
+  xy: 2, 2
+  size: 564, 348
+  orig: 564, 348
+  offset: 0, 0
+  index: 1
+effect_transition_water_00004
+  rotate: false
+  xy: 568, 2
+  size: 564, 348
+  orig: 564, 348
+  offset: 0, 0
+  index: 1
+effect_transition_water_00006
+  rotate: false
+  xy: 2, 701
+  size: 555, 348
+  orig: 556, 348
+  offset: 1, 0
+  index: 1
+effect_transition_water_00003
+  rotate: false
+  xy: 2, 352
+  size: 563, 347
+  orig: 564, 348
+  offset: 1, 0
+  index: 1
+effect_transition_water_00020
+  rotate: false
+  xy: 1124, 352
+  size: 493, 350
+  orig: 494, 350
+  offset: 1, 0
+  index: 1
+effect_transition_water_00013
+  rotate: false
+  xy: 1134, 2
+  size: 563, 348
+  orig: 564, 348
+  offset: 1, 0
+  index: 1

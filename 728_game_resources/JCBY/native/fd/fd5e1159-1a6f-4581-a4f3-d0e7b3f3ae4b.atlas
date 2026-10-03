@@ -1,0 +1,34 @@
+
+danaotiangong.png
+size: 429,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+danaotiangong
+  rotate: false
+  xy: 2, 2
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+danaotiangong2
+  rotate: false
+  xy: 192, 65
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+danaotiangong3
+  rotate: false
+  xy: 319, 82
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+danaotiangong_gb
+  rotate: false
+  xy: 192, 5
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

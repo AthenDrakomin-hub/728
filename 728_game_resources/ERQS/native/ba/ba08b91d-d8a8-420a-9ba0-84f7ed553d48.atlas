@@ -1,0 +1,139 @@
+
+erqs_liujutexteffect.png
+size: 494,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_liujutext
+  rotate: true
+  xy: 2, 92
+  size: 173, 109
+  orig: 173, 109
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect0
+  rotate: true
+  xy: 113, 170
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect1
+  rotate: false
+  xy: 113, 99
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect2
+  rotate: true
+  xy: 184, 170
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect3
+  rotate: true
+  xy: 158, 2
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect4
+  rotate: false
+  xy: 210, 99
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect5
+  rotate: true
+  xy: 255, 170
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect6
+  rotate: true
+  xy: 229, 2
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect7
+  rotate: true
+  xy: 300, 2
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect8
+  rotate: false
+  xy: 307, 99
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutexteffect9
+  rotate: true
+  xy: 371, 2
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg10
+  rotate: true
+  xy: 442, 97
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg12
+  rotate: true
+  xy: 442, 12
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg14
+  rotate: true
+  xy: 326, 182
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg16
+  rotate: true
+  xy: 378, 182
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg2
+  rotate: true
+  xy: 2, 7
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg4
+  rotate: true
+  xy: 54, 7
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg6
+  rotate: true
+  xy: 106, 7
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+erqs_liujutextlg8
+  rotate: true
+  xy: 442, 182
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+ermjwineffectb.png
+size: 700,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ermj_jinbi1
+  rotate: true
+  xy: 522, 316
+  size: 291, 157
+  orig: 291, 157
+  offset: 0, 0
+  index: -1
+ermj_jinbi2
+  rotate: true
+  xy: 2, 4
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+ermj_jinbi2gx
+  rotate: false
+  xy: 440, 903
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+ermj_jinbigx
+  rotate: false
+  xy: 352, 2
+  size: 332, 175
+  orig: 332, 175
+  offset: 0, 0
+  index: -1
+ermj_shanzi
+  rotate: false
+  xy: 2, 863
+  size: 436, 182
+  orig: 436, 182
+  offset: 0, 0
+  index: -1
+ermj_winyunl
+  rotate: false
+  xy: 440, 951
+  size: 251, 94
+  orig: 251, 94
+  offset: 0, 0
+  index: -1
+ermj_winyunr
+  rotate: false
+  xy: 2, 46
+  size: 348, 103
+  orig: 348, 103
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_0
+  rotate: false
+  xy: 2, 685
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_1
+  rotate: false
+  xy: 2, 507
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_2
+  rotate: false
+  xy: 2, 329
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_3
+  rotate: false
+  xy: 2, 151
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_4
+  rotate: true
+  xy: 344, 521
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_5
+  rotate: true
+  xy: 344, 179
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1
+ermjxuanzhuangbg_6
+  rotate: true
+  xy: 522, 609
+  size: 340, 176
+  orig: 340, 176
+  offset: 0, 0
+  index: -1

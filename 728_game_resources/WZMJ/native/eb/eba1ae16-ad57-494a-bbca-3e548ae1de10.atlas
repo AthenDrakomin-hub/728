@@ -1,0 +1,34 @@
+
+ermjgangeffect.png
+size: 829,338
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ermj_gang
+  rotate: true
+  xy: 650, 2
+  size: 168, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1
+ermj_gangcy
+  rotate: false
+  xy: 650, 172
+  size: 177, 164
+  orig: 177, 164
+  offset: 0, 0
+  index: -1
+ermj_gangsx
+  rotate: false
+  xy: 2, 9
+  size: 370, 327
+  orig: 370, 327
+  offset: 0, 0
+  index: -1
+ermj_mozi
+  rotate: true
+  xy: 374, 10
+  size: 326, 274
+  orig: 326, 274
+  offset: 0, 0
+  index: -1

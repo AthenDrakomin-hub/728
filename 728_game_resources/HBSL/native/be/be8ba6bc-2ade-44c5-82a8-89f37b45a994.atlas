@@ -1,0 +1,90 @@
+
+slhb_phbtxa_guess_3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slhb_phbtxa0
+  rotate: false
+  xy: 2, 85
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa1
+  rotate: false
+  xy: 89, 168
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa10
+  rotate: false
+  xy: 263, 85
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa11
+  rotate: false
+  xy: 350, 168
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa2
+  rotate: false
+  xy: 2, 2
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa3
+  rotate: false
+  xy: 89, 85
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa4
+  rotate: false
+  xy: 176, 168
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa5
+  rotate: false
+  xy: 89, 2
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa6
+  rotate: false
+  xy: 176, 85
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa7
+  rotate: false
+  xy: 263, 168
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa8
+  rotate: false
+  xy: 176, 2
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+slhb_phbtxa9
+  rotate: false
+  xy: 2, 168
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1

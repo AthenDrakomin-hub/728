@@ -1,0 +1,34 @@
+
+ermjhueffect.png
+size: 775,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ermj_hu
+  rotate: false
+  xy: 619, 2
+  size: 144, 157
+  orig: 144, 157
+  offset: 0, 0
+  index: -1
+ermj_hucy
+  rotate: false
+  xy: 619, 161
+  size: 154, 170
+  orig: 154, 170
+  offset: 0, 0
+  index: -1
+ermj_husx
+  rotate: true
+  xy: 2, 19
+  size: 312, 339
+  orig: 312, 339
+  offset: 0, 0
+  index: -1
+ermj_mozi
+  rotate: true
+  xy: 343, 5
+  size: 326, 274
+  orig: 326, 274
+  offset: 0, 0
+  index: -1

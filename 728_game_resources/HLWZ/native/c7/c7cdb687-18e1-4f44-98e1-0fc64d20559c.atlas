@@ -1,0 +1,83 @@
+
+Flush.png
+size: 396,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HUA
+  rotate: true
+  xy: 2, 4
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+TONG
+  rotate: true
+  xy: 95, 6
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 286, 50
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+flower2
+  rotate: true
+  xy: 185, 24
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+flower3
+  rotate: true
+  xy: 358, 27
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+flower4
+  rotate: false
+  xy: 367, 59
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+flower5
+  rotate: true
+  xy: 325, 56
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+flower6
+  rotate: true
+  xy: 246, 43
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+flower7
+  rotate: false
+  xy: 286, 7
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+flower8
+  rotate: true
+  xy: 246, 2
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+flower9
+  rotate: false
+  xy: 321, 12
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1

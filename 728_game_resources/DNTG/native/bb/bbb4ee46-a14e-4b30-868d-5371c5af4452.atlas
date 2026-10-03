@@ -1,0 +1,158 @@
+
+effect_bg_water_7_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_bg_water_00016
+  rotate: false
+  xy: 1102, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00012
+  rotate: false
+  xy: 2, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00011
+  rotate: false
+  xy: 2, 1206
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00009
+  rotate: false
+  xy: 1102, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00003
+  rotate: false
+  xy: 552, 1206
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00004
+  rotate: false
+  xy: 1102, 1206
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00017
+  rotate: false
+  xy: 2, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00010
+  rotate: false
+  xy: 552, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+effect_bg_water_00000
+  rotate: false
+  xy: 552, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 0
+
+effect_bg_water_7_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_bg_water_00001
+  rotate: false
+  xy: 2, 1206
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00002
+  rotate: false
+  xy: 1102, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00015
+  rotate: false
+  xy: 1102, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00006
+  rotate: false
+  xy: 552, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00013
+  rotate: false
+  xy: 1102, 1206
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00014
+  rotate: false
+  xy: 552, 1206
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00008
+  rotate: false
+  xy: 552, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00019
+  rotate: false
+  xy: 2, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+effect_bg_water_00007
+  rotate: false
+  xy: 2, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 1
+
+effect_bg_water_7_2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_bg_water_00018
+  rotate: false
+  xy: 2, 2
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 2
+effect_bg_water_00005
+  rotate: false
+  xy: 2, 604
+  size: 548, 600
+  orig: 548, 600
+  offset: 0, 0
+  index: 2

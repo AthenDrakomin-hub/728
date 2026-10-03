@@ -1,0 +1,118 @@
+
+sunwukong.png
+size: 393,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_yanzhu
+  rotate: false
+  xy: 313, 11
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+r_yanzhu
+  rotate: false
+  xy: 385, 96
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+sunwukong_idle_body
+  rotate: false
+  xy: 220, 31
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+sunwukong_idle_jingubang
+  rotate: false
+  xy: 176, 2
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+sunwukong_idle_jingubang1
+  rotate: true
+  xy: 106, 96
+  size: 11, 172
+  orig: 11, 172
+  offset: 0, 0
+  index: -1
+sunwukong_idle_pifeng
+  rotate: false
+  xy: 2, 9
+  size: 102, 98
+  orig: 102, 98
+  offset: 0, 0
+  index: -1
+sunwukong_idle_tou
+  rotate: false
+  xy: 106, 2
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+sunwukong_idle_youjian
+  rotate: false
+  xy: 248, 5
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+sunwukong_idle_youjiao
+  rotate: false
+  xy: 358, 62
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+sunwukong_idle_youshoubi
+  rotate: true
+  xy: 337, 16
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+sunwukong_idle_yumao1
+  rotate: false
+  xy: 282, 64
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+sunwukong_idle_yumao2
+  rotate: true
+  xy: 282, 27
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+sunwukong_idle_zuojiao
+  rotate: false
+  xy: 220, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+sunwukong_idle_zuoshou
+  rotate: false
+  xy: 280, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+sunwukong_idle_zuoshoubi
+  rotate: false
+  xy: 357, 43
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+sunwukong_idle_zuoshouzhi
+  rotate: false
+  xy: 357, 30
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1

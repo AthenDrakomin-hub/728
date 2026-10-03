@@ -1,0 +1,174 @@
+
+lhd_vs.png
+size: 1007,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hhdz_gd
+  rotate: false
+  xy: 913, 423
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+hhdz_gt
+  rotate: true
+  xy: 963, 836
+  size: 170, 42
+  orig: 170, 42
+  offset: 0, 0
+  index: -1
+hhdz_pz1
+  rotate: false
+  xy: 619, 101
+  size: 184, 46
+  orig: 184, 46
+  offset: 0, 0
+  index: -1
+hhdz_pz2
+  rotate: false
+  xy: 619, 53
+  size: 184, 46
+  orig: 184, 46
+  offset: 0, 0
+  index: -1
+hhdz_pz3
+  rotate: false
+  xy: 619, 5
+  size: 184, 46
+  orig: 184, 46
+  offset: 0, 0
+  index: -1
+hhdz_pz4
+  rotate: true
+  xy: 835, 6
+  size: 184, 46
+  orig: 184, 46
+  offset: 0, 0
+  index: -1
+hhdz_vshei
+  rotate: false
+  xy: 883, 144
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hhdz_xg4
+  rotate: false
+  xy: 313, 3
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+hhdz_xg5
+  rotate: false
+  xy: 214, 2
+  size: 97, 43
+  orig: 97, 43
+  offset: 0, 0
+  index: -1
+lhd_loong
+  rotate: false
+  xy: 623, 790
+  size: 281, 216
+  orig: 281, 216
+  offset: 0, 0
+  index: -1
+lhd_tigger
+  rotate: true
+  xy: 809, 484
+  size: 300, 162
+  orig: 300, 162
+  offset: 0, 0
+  index: -1
+lhd_vshu
+  rotate: false
+  xy: 417, 325
+  size: 390, 313
+  orig: 390, 313
+  offset: 0, 0
+  index: -1
+lhd_vshudb
+  rotate: false
+  xy: 2, 824
+  size: 619, 182
+  orig: 619, 182
+  offset: 0, 0
+  index: -1
+lhd_vshufire
+  rotate: false
+  xy: 2, 47
+  size: 434, 223
+  orig: 434, 223
+  offset: 0, 0
+  index: -1
+lhd_vshufiretw
+  rotate: true
+  xy: 906, 786
+  size: 220, 55
+  orig: 220, 55
+  offset: 0, 0
+  index: -1
+lhd_vslizi
+  rotate: false
+  xy: 617, 666
+  size: 186, 122
+  orig: 186, 122
+  offset: 0, 0
+  index: -1
+lhd_vslong
+  rotate: false
+  xy: 2, 272
+  size: 413, 366
+  orig: 413, 366
+  offset: 0, 0
+  index: -1
+lhd_vslongdb
+  rotate: false
+  xy: 2, 640
+  size: 613, 182
+  orig: 613, 182
+  offset: 0, 0
+  index: -1
+lhd_vslongld1
+  rotate: false
+  xy: 913, 371
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+lhd_vslongld2
+  rotate: false
+  xy: 809, 360
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+lhd_vslongwater
+  rotate: false
+  xy: 438, 149
+  size: 395, 174
+  orig: 395, 174
+  offset: 0, 0
+  index: -1
+lhd_vslongwatertw
+  rotate: false
+  xy: 2, 2
+  size: 210, 43
+  orig: 210, 43
+  offset: 0, 0
+  index: -1
+lhd_vstexts
+  rotate: true
+  xy: 835, 192
+  size: 166, 165
+  orig: 166, 165
+  offset: 0, 0
+  index: -1
+lhd_vstextv
+  rotate: true
+  xy: 438, 20
+  size: 127, 179
+  orig: 127, 179
+  offset: 0, 0
+  index: -1

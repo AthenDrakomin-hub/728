@@ -1,0 +1,20 @@
+
+shajinghuangjinban.png
+size: 225,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shajinghuangjinban_idle_yu
+  rotate: false
+  xy: 2, 2
+  size: 209, 89
+  orig: 209, 89
+  offset: 0, 0
+  index: -1
+shajinghuangjinban_idle_yubei2
+  rotate: true
+  xy: 213, 54
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1

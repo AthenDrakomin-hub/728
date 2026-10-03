@@ -1,0 +1,146 @@
+
+slwh_userhkeffect.png
+size: 441,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slwh_userhk
+  rotate: true
+  xy: 188, 81
+  size: 185, 94
+  orig: 185, 94
+  offset: 0, 0
+  index: -1
+slwh_userhk0
+  rotate: false
+  xy: 2, 54
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk1
+  rotate: false
+  xy: 2, 28
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk10
+  rotate: false
+  xy: 284, 112
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk11
+  rotate: true
+  xy: 415, 6
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk12
+  rotate: false
+  xy: 284, 86
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk13
+  rotate: false
+  xy: 284, 60
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk14
+  rotate: false
+  xy: 264, 34
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk15
+  rotate: false
+  xy: 133, 28
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk16
+  rotate: false
+  xy: 133, 2
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk17
+  rotate: false
+  xy: 264, 8
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk2
+  rotate: false
+  xy: 2, 2
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk3
+  rotate: false
+  xy: 133, 54
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk4
+  rotate: false
+  xy: 284, 242
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk5
+  rotate: true
+  xy: 415, 137
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk6
+  rotate: false
+  xy: 284, 216
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk7
+  rotate: false
+  xy: 284, 190
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk8
+  rotate: false
+  xy: 284, 164
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhk9
+  rotate: false
+  xy: 284, 138
+  size: 129, 24
+  orig: 129, 24
+  offset: 0, 0
+  index: -1
+slwh_userhkgq
+  rotate: true
+  xy: 2, 80
+  size: 186, 184
+  orig: 186, 184
+  offset: 0, 0
+  index: -1

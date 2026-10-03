@@ -1,0 +1,412 @@
+
+xmllong_long.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xmllong_animation10
+  rotate: true
+  xy: 1300, 817
+  size: 163, 102
+  orig: 321, 278
+  offset: 69, 89
+  index: -1
+xmllong_animation100
+  rotate: false
+  xy: 2, 383
+  size: 284, 277
+  orig: 321, 278
+  offset: 18, 0
+  index: -1
+xmllong_animation102
+  rotate: false
+  xy: 2, 662
+  size: 294, 276
+  orig: 321, 278
+  offset: 12, 0
+  index: -1
+xmllong_animation104
+  rotate: false
+  xy: 2, 940
+  size: 305, 276
+  orig: 321, 278
+  offset: 7, 0
+  index: -1
+xmllong_animation106
+  rotate: false
+  xy: 2, 1218
+  size: 312, 275
+  orig: 321, 278
+  offset: 3, 0
+  index: -1
+xmllong_animation108
+  rotate: false
+  xy: 2, 1771
+  size: 316, 275
+  orig: 321, 278
+  offset: 0, 0
+  index: -1
+xmllong_animation110
+  rotate: false
+  xy: 2, 1495
+  size: 316, 274
+  orig: 321, 278
+  offset: 0, 0
+  index: -1
+xmllong_animation112
+  rotate: false
+  xy: 320, 1772
+  size: 314, 274
+  orig: 321, 278
+  offset: 0, 0
+  index: -1
+xmllong_animation114
+  rotate: false
+  xy: 320, 1496
+  size: 309, 274
+  orig: 321, 278
+  offset: 3, 0
+  index: -1
+xmllong_animation116
+  rotate: false
+  xy: 636, 1772
+  size: 309, 274
+  orig: 321, 278
+  offset: 3, 0
+  index: -1
+xmllong_animation12
+  rotate: false
+  xy: 2, 17
+  size: 164, 84
+  orig: 321, 278
+  offset: 67, 95
+  index: -1
+xmllong_animation14
+  rotate: false
+  xy: 1560, 763
+  size: 153, 105
+  orig: 321, 278
+  offset: 81, 75
+  index: -1
+xmllong_animation16
+  rotate: true
+  xy: 525, 1317
+  size: 177, 104
+  orig: 321, 278
+  offset: 59, 72
+  index: -1
+xmllong_animation18
+  rotate: false
+  xy: 1404, 871
+  size: 161, 117
+  orig: 321, 278
+  offset: 74, 71
+  index: -1
+xmllong_animation2
+  rotate: false
+  xy: 1404, 793
+  size: 154, 76
+  orig: 321, 278
+  offset: 98, 90
+  index: -1
+xmllong_animation20
+  rotate: false
+  xy: 1815, 893
+  size: 183, 177
+  orig: 321, 278
+  offset: 90, 54
+  index: -1
+xmllong_animation22
+  rotate: true
+  xy: 710, 2
+  size: 218, 155
+  orig: 321, 278
+  offset: 90, 72
+  index: -1
+xmllong_animation24
+  rotate: false
+  xy: 527, 836
+  size: 257, 140
+  orig: 321, 278
+  offset: 64, 63
+  index: -1
+xmllong_animation26
+  rotate: false
+  xy: 765, 666
+  size: 251, 152
+  orig: 321, 278
+  offset: 58, 52
+  index: -1
+xmllong_animation28
+  rotate: false
+  xy: 1018, 639
+  size: 235, 159
+  orig: 321, 278
+  offset: 60, 42
+  index: -1
+xmllong_animation30
+  rotate: false
+  xy: 1577, 870
+  size: 219, 160
+  orig: 321, 278
+  offset: 69, 36
+  index: -1
+xmllong_animation32
+  rotate: true
+  xy: 525, 2
+  size: 210, 161
+  orig: 321, 278
+  offset: 77, 36
+  index: -1
+xmllong_animation34
+  rotate: true
+  xy: 710, 222
+  size: 235, 162
+  orig: 321, 278
+  offset: 50, 39
+  index: -1
+xmllong_animation36
+  rotate: false
+  xy: 513, 663
+  size: 250, 171
+  orig: 321, 278
+  offset: 36, 31
+  index: -1
+xmllong_animation38
+  rotate: false
+  xy: 786, 820
+  size: 256, 177
+  orig: 321, 278
+  offset: 30, 24
+  index: -1
+xmllong_animation4
+  rotate: true
+  xy: 1255, 646
+  size: 152, 73
+  orig: 321, 278
+  offset: 87, 90
+  index: -1
+xmllong_animation40
+  rotate: false
+  xy: 1044, 800
+  size: 254, 180
+  orig: 321, 278
+  offset: 31, 20
+  index: -1
+xmllong_animation42
+  rotate: true
+  xy: 525, 214
+  size: 243, 183
+  orig: 321, 278
+  offset: 40, 16
+  index: -1
+xmllong_animation44
+  rotate: false
+  xy: 1577, 1032
+  size: 236, 194
+  orig: 321, 278
+  offset: 45, 12
+  index: -1
+xmllong_animation46
+  rotate: false
+  xy: 524, 459
+  size: 234, 202
+  orig: 321, 278
+  offset: 48, 9
+  index: -1
+xmllong_animation48
+  rotate: true
+  xy: 1815, 1072
+  size: 233, 220
+  orig: 321, 278
+  offset: 50, 4
+  index: -1
+xmllong_animation50
+  rotate: true
+  xy: 1816, 1581
+  size: 232, 230
+  orig: 321, 278
+  offset: 51, 3
+  index: -1
+xmllong_animation52
+  rotate: false
+  xy: 1342, 990
+  size: 233, 236
+  orig: 321, 278
+  offset: 51, 2
+  index: -1
+xmllong_animation54
+  rotate: false
+  xy: 911, 1250
+  size: 233, 247
+  orig: 321, 278
+  offset: 52, 1
+  index: -1
+xmllong_animation56
+  rotate: true
+  xy: 1787, 1815
+  size: 231, 259
+  orig: 321, 278
+  offset: 54, 0
+  index: -1
+xmllong_animation58
+  rotate: false
+  xy: 1146, 1231
+  size: 231, 267
+  orig: 321, 278
+  offset: 54, 0
+  index: -1
+xmllong_animation6
+  rotate: true
+  xy: 1715, 721
+  size: 147, 89
+  orig: 321, 278
+  offset: 105, 78
+  index: -1
+xmllong_animation60
+  rotate: false
+  xy: 911, 1499
+  size: 228, 271
+  orig: 321, 278
+  offset: 57, 0
+  index: -1
+xmllong_animation62
+  rotate: false
+  xy: 1816, 1307
+  size: 225, 272
+  orig: 321, 278
+  offset: 60, 0
+  index: -1
+xmllong_animation64
+  rotate: false
+  xy: 1379, 1228
+  size: 220, 273
+  orig: 321, 278
+  offset: 65, 0
+  index: -1
+xmllong_animation66
+  rotate: false
+  xy: 309, 942
+  size: 216, 274
+  orig: 321, 278
+  offset: 69, 0
+  index: -1
+xmllong_animation68
+  rotate: false
+  xy: 1601, 1232
+  size: 212, 275
+  orig: 321, 278
+  offset: 73, 0
+  index: -1
+xmllong_animation70
+  rotate: false
+  xy: 298, 662
+  size: 213, 276
+  orig: 321, 278
+  offset: 72, 0
+  index: -1
+xmllong_animation72
+  rotate: false
+  xy: 1141, 1500
+  size: 218, 278
+  orig: 321, 278
+  offset: 67, 0
+  index: -1
+xmllong_animation74
+  rotate: false
+  xy: 1361, 1503
+  size: 223, 278
+  orig: 321, 278
+  offset: 62, 0
+  index: -1
+xmllong_animation76
+  rotate: false
+  xy: 1586, 1509
+  size: 228, 278
+  orig: 321, 278
+  offset: 57, 0
+  index: -1
+xmllong_animation78
+  rotate: false
+  xy: 288, 382
+  size: 234, 278
+  orig: 321, 278
+  offset: 51, 0
+  index: -1
+xmllong_animation8
+  rotate: false
+  xy: 1806, 778
+  size: 133, 113
+  orig: 321, 278
+  offset: 105, 72
+  index: -1
+xmllong_animation80
+  rotate: true
+  xy: 631, 1258
+  size: 240, 278
+  orig: 321, 278
+  offset: 45, 0
+  index: -1
+xmllong_animation82
+  rotate: false
+  xy: 280, 102
+  size: 243, 278
+  orig: 321, 278
+  offset: 42, 0
+  index: -1
+xmllong_animation84
+  rotate: true
+  xy: 1062, 982
+  size: 247, 278
+  orig: 321, 278
+  offset: 38, 0
+  index: -1
+xmllong_animation86
+  rotate: true
+  xy: 782, 999
+  size: 249, 278
+  orig: 321, 278
+  offset: 36, 0
+  index: -1
+xmllong_animation88
+  rotate: false
+  xy: 527, 978
+  size: 253, 278
+  orig: 321, 278
+  offset: 32, 0
+  index: -1
+xmllong_animation90
+  rotate: true
+  xy: 1507, 1789
+  size: 257, 278
+  orig: 321, 278
+  offset: 29, 0
+  index: -1
+xmllong_animation92
+  rotate: true
+  xy: 1227, 1783
+  size: 263, 278
+  orig: 321, 278
+  offset: 27, 0
+  index: -1
+xmllong_animation94
+  rotate: true
+  xy: 947, 1780
+  size: 266, 278
+  orig: 321, 278
+  offset: 26, 0
+  index: -1
+xmllong_animation96
+  rotate: true
+  xy: 631, 1500
+  size: 270, 278
+  orig: 321, 278
+  offset: 24, 0
+  index: -1
+xmllong_animation98
+  rotate: false
+  xy: 2, 103
+  size: 276, 278
+  orig: 321, 278
+  offset: 21, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+slhb_fhbmenu_guess_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slhb_fhbmenu
+  rotate: false
+  xy: 2, 366
+  size: 348, 140
+  orig: 348, 140
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg0
+  rotate: false
+  xy: 2, 314
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg1
+  rotate: false
+  xy: 352, 456
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg10
+  rotate: false
+  xy: 2, 158
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg11
+  rotate: false
+  xy: 159, 210
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg12
+  rotate: false
+  xy: 666, 404
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg13
+  rotate: false
+  xy: 823, 456
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg14
+  rotate: false
+  xy: 2, 106
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg15
+  rotate: false
+  xy: 159, 158
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg16
+  rotate: false
+  xy: 823, 404
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg17
+  rotate: false
+  xy: 2, 54
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg18
+  rotate: false
+  xy: 159, 106
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg19
+  rotate: false
+  xy: 2, 2
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg2
+  rotate: false
+  xy: 2, 262
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg20
+  rotate: false
+  xy: 159, 54
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg21
+  rotate: false
+  xy: 159, 2
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg22
+  rotate: false
+  xy: 352, 352
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg23
+  rotate: false
+  xy: 509, 352
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg24
+  rotate: false
+  xy: 666, 352
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg25
+  rotate: false
+  xy: 823, 352
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg26
+  rotate: false
+  xy: 316, 300
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg27
+  rotate: false
+  xy: 316, 248
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg28
+  rotate: false
+  xy: 473, 300
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg29
+  rotate: false
+  xy: 316, 196
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg3
+  rotate: false
+  xy: 159, 314
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg30
+  rotate: false
+  xy: 473, 248
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg31
+  rotate: false
+  xy: 630, 300
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg32
+  rotate: false
+  xy: 316, 144
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg33
+  rotate: false
+  xy: 473, 196
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg34
+  rotate: false
+  xy: 630, 248
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg35
+  rotate: false
+  xy: 787, 300
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg4
+  rotate: false
+  xy: 352, 404
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg5
+  rotate: false
+  xy: 509, 456
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg6
+  rotate: false
+  xy: 2, 210
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg7
+  rotate: false
+  xy: 159, 262
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg8
+  rotate: false
+  xy: 509, 404
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1
+slhb_fhbmenulg9
+  rotate: false
+  xy: 666, 456
+  size: 155, 50
+  orig: 155, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+houtouyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtouyu-idle_24
+  rotate: false
+  xy: 379, 1
+  size: 125, 75
+  orig: 129, 86
+  offset: 2, 10
+  index: -1
+houtouyu-idle_2
+  rotate: false
+  xy: 123, 78
+  size: 126, 74
+  orig: 129, 86
+  offset: 1, 11
+  index: -1
+houtouyu-idle_3
+  rotate: false
+  xy: 118, 154
+  size: 125, 73
+  orig: 129, 86
+  offset: 2, 11
+  index: -1
+houtouyu-idle_0
+  rotate: false
+  xy: 251, 1
+  size: 126, 75
+  orig: 129, 86
+  offset: 1, 10
+  index: -1
+houtouyu-idle_15
+  rotate: false
+  xy: 379, 78
+  size: 113, 81
+  orig: 129, 86
+  offset: 14, 1
+  index: -1
+houtouyu-idle_12
+  rotate: false
+  xy: 371, 161
+  size: 113, 80
+  orig: 129, 86
+  offset: 14, 1
+  index: -1
+houtouyu-idle_18
+  rotate: false
+  xy: 1, 82
+  size: 115, 81
+  orig: 129, 86
+  offset: 12, 2
+  index: -1
+houtouyu-idle_6
+  rotate: false
+  xy: 358, 304
+  size: 122, 73
+  orig: 129, 86
+  offset: 5, 10
+  index: -1
+houtouyu-end_0
+  rotate: false
+  xy: 123, 1
+  size: 126, 75
+  orig: 130, 87
+  offset: 2, 11
+  index: -1
+houtouyu-idle_5
+  rotate: false
+  xy: 115, 229
+  size: 123, 73
+  orig: 129, 86
+  offset: 4, 10
+  index: -1
+houtouyu-idle_21
+  rotate: false
+  xy: 1, 1
+  size: 120, 79
+  orig: 129, 86
+  offset: 7, 5
+  index: -1
+houtouyu-idle_4
+  rotate: false
+  xy: 245, 154
+  size: 124, 73
+  orig: 129, 86
+  offset: 3, 11
+  index: -1
+houtouyu-idle_9
+  rotate: false
+  xy: 240, 229
+  size: 116, 77
+  orig: 129, 86
+  offset: 11, 5
+  index: -1
+houtouyu-idle_1
+  rotate: false
+  xy: 251, 78
+  size: 126, 74
+  orig: 129, 86
+  offset: 1, 11
+  index: -1
+houtouyu-end_3
+  rotate: false
+  xy: 1, 165
+  size: 112, 81
+  orig: 130, 87
+  offset: 16, 1
+  index: -1

@@ -1,0 +1,139 @@
+
+yishisanyu.png
+size: 467,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yishi_diban
+  rotate: false
+  xy: 2, 38
+  size: 219, 242
+  orig: 220, 244
+  offset: 1, 0
+  index: -1
+yishisanyu_guangxiao
+  rotate: false
+  xy: 223, 44
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+yishisanyufg
+  rotate: false
+  xy: 223, 133
+  size: 122, 147
+  orig: 150, 150
+  offset: 17, 2
+  index: -1
+yishisanyulizieffect_0
+  rotate: true
+  xy: 61, 3
+  size: 33, 58
+  orig: 61, 64
+  offset: 26, 0
+  index: -1
+yishisanyulizieffect_10
+  rotate: true
+  xy: 397, 101
+  size: 55, 42
+  orig: 61, 64
+  offset: 3, 21
+  index: -1
+yishisanyulizieffect_12
+  rotate: true
+  xy: 335, 2
+  size: 46, 51
+  orig: 61, 64
+  offset: 2, 13
+  index: -1
+yishisanyulizieffect_14
+  rotate: false
+  xy: 313, 74
+  size: 37, 57
+  orig: 61, 64
+  offset: 1, 7
+  index: -1
+yishisanyulizieffect_16
+  rotate: true
+  xy: 121, 3
+  size: 33, 54
+  orig: 61, 64
+  offset: 0, 5
+  index: -1
+yishisanyulizieffect_18
+  rotate: false
+  xy: 352, 107
+  size: 43, 54
+  orig: 61, 64
+  offset: 0, 3
+  index: -1
+yishisanyulizieffect_2
+  rotate: false
+  xy: 397, 158
+  size: 38, 55
+  orig: 61, 64
+  offset: 22, 4
+  index: -1
+yishisanyulizieffect_20
+  rotate: true
+  xy: 395, 48
+  size: 51, 45
+  orig: 61, 64
+  offset: 0, 2
+  index: -1
+yishisanyulizieffect_22
+  rotate: false
+  xy: 279, 3
+  size: 54, 39
+  orig: 61, 64
+  offset: 1, 2
+  index: -1
+yishisanyulizieffect_24
+  rotate: false
+  xy: 388, 9
+  size: 55, 37
+  orig: 61, 64
+  offset: 2, 1
+  index: -1
+yishisanyulizieffect_26
+  rotate: true
+  xy: 418, 228
+  size: 52, 47
+  orig: 61, 64
+  offset: 7, 0
+  index: -1
+yishisanyulizieffect_28
+  rotate: false
+  xy: 352, 50
+  size: 41, 55
+  orig: 61, 64
+  offset: 18, 0
+  index: -1
+yishisanyulizieffect_4
+  rotate: false
+  xy: 347, 163
+  size: 48, 50
+  orig: 61, 64
+  offset: 13, 11
+  index: -1
+yishisanyulizieffect_6
+  rotate: false
+  xy: 223, 2
+  size: 54, 40
+  orig: 61, 64
+  offset: 7, 22
+  index: -1
+yishisanyulizieffect_8
+  rotate: false
+  xy: 2, 2
+  size: 57, 34
+  orig: 61, 64
+  offset: 4, 29
+  index: -1
+zhongjian_guangxiao
+  rotate: false
+  xy: 347, 215
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+jxlw_gameobjmangguo.png
+size: 212,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjmangguo
+  rotate: false
+  xy: 2, 24
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+jxlw_gameobjmangguofg
+  rotate: true
+  xy: 132, 36
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+jxlw_gameobjmangguoye
+  rotate: false
+  xy: 132, 2
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1

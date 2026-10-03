@@ -1,0 +1,300 @@
+
+guangquan_Animation.png
+size: 814,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangqiu_ditu
+  rotate: true
+  xy: 790, 437
+  size: 335, 22
+  orig: 335, 22
+  offset: 0, 0
+  index: -1
+over_0000
+  rotate: false
+  xy: 2, 732
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0001
+  rotate: false
+  xy: 2, 690
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0002
+  rotate: false
+  xy: 354, 732
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0003
+  rotate: false
+  xy: 2, 648
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0004
+  rotate: false
+  xy: 354, 690
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0005
+  rotate: false
+  xy: 2, 606
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0006
+  rotate: false
+  xy: 354, 648
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0007
+  rotate: false
+  xy: 2, 564
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0008
+  rotate: false
+  xy: 354, 606
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0009
+  rotate: false
+  xy: 2, 522
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0010
+  rotate: false
+  xy: 354, 564
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0011
+  rotate: false
+  xy: 2, 480
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0012
+  rotate: false
+  xy: 354, 522
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0013
+  rotate: false
+  xy: 2, 438
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0014
+  rotate: false
+  xy: 354, 480
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0015
+  rotate: false
+  xy: 2, 396
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0016
+  rotate: false
+  xy: 354, 438
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0017
+  rotate: false
+  xy: 2, 354
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0018
+  rotate: true
+  xy: 2, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0019
+  rotate: true
+  xy: 44, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0020
+  rotate: true
+  xy: 86, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0021
+  rotate: true
+  xy: 128, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0022
+  rotate: true
+  xy: 170, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0023
+  rotate: true
+  xy: 212, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0024
+  rotate: true
+  xy: 254, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0025
+  rotate: true
+  xy: 296, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0026
+  rotate: true
+  xy: 338, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0027
+  rotate: false
+  xy: 354, 396
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0028
+  rotate: false
+  xy: 354, 354
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0029
+  rotate: true
+  xy: 380, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0030
+  rotate: true
+  xy: 422, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0031
+  rotate: true
+  xy: 464, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0032
+  rotate: true
+  xy: 506, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0033
+  rotate: true
+  xy: 548, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0034
+  rotate: true
+  xy: 590, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0035
+  rotate: true
+  xy: 632, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0036
+  rotate: true
+  xy: 674, 2
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0037
+  rotate: true
+  xy: 706, 422
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0038
+  rotate: true
+  xy: 748, 422
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0039
+  rotate: true
+  xy: 716, 70
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1
+over_0040
+  rotate: true
+  xy: 758, 70
+  size: 350, 40
+  orig: 350, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+slwh_xiazhutips.png
+size: 860,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slwh_xiazhutips1
+  rotate: false
+  xy: 368, 2
+  size: 244, 64
+  orig: 244, 64
+  offset: 0, 0
+  index: -1
+slwh_xiazhutips2
+  rotate: false
+  xy: 2, 2
+  size: 364, 64
+  orig: 364, 64
+  offset: 0, 0
+  index: -1
+slwh_xiazhutips3
+  rotate: false
+  xy: 614, 2
+  size: 244, 64
+  orig: 244, 64
+  offset: 0, 0
+  index: -1
+slwh_xiazhutipsdb
+  rotate: false
+  xy: 2, 68
+  size: 836, 140
+  orig: 836, 140
+  offset: 0, 0
+  index: -1

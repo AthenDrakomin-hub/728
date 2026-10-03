@@ -1,0 +1,27 @@
+
+jxlw_gameobjxigua.png
+size: 248,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjxigua1
+  rotate: false
+  xy: 2, 2
+  size: 98, 103
+  orig: 98, 103
+  offset: 0, 0
+  index: -1
+jxlw_gameobjxigua2
+  rotate: true
+  xy: 179, 24
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+jxlw_gameobjxiguafg
+  rotate: false
+  xy: 102, 30
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1

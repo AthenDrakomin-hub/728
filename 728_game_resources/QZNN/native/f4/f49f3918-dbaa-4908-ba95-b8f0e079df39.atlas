@@ -1,0 +1,104 @@
+
+qznnb_niu4_effect.png
+size: 948,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaojixuanchang_0
+  rotate: false
+  xy: 233, 145
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_1
+  rotate: true
+  xy: 233, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_10
+  rotate: true
+  xy: 755, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_11
+  rotate: false
+  xy: 805, 145
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_12
+  rotate: true
+  xy: 842, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_2
+  rotate: true
+  xy: 320, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_3
+  rotate: false
+  xy: 376, 145
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_4
+  rotate: true
+  xy: 407, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_5
+  rotate: true
+  xy: 494, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_6
+  rotate: false
+  xy: 519, 145
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_7
+  rotate: true
+  xy: 581, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_8
+  rotate: false
+  xy: 662, 145
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+gaojixuanchang_9
+  rotate: true
+  xy: 668, 2
+  size: 141, 85
+  orig: 141, 85
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: true
+  xy: 2, 2
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1

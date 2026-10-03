@@ -1,0 +1,15 @@
+{
+  "name": "V-POKER 尊享棋牌竞技平台",
+  "short_name": "V-POKER",
+  "description": "德州 · 金花 · 三公 · 斗牛 真人竞技",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

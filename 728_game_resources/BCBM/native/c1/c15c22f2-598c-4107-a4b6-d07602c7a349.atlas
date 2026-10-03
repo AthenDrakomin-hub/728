@@ -1,0 +1,188 @@
+
+bcbmwinjiesuan.png
+size: 994,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbmwinjiesuanboli1
+  rotate: false
+  xy: 568, 2
+  size: 191, 189
+  orig: 191, 189
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli2
+  rotate: false
+  xy: 761, 52
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli3
+  rotate: true
+  xy: 189, 21
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli4
+  rotate: false
+  xy: 944, 225
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli5
+  rotate: false
+  xy: 472, 44
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli6
+  rotate: true
+  xy: 918, 112
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwincanying1
+  rotate: false
+  xy: 2, 592
+  size: 281, 259
+  orig: 281, 259
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwincanying2
+  rotate: false
+  xy: 2, 331
+  size: 281, 259
+  orig: 281, 259
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwincanying3
+  rotate: false
+  xy: 285, 592
+  size: 281, 259
+  orig: 281, 259
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwincanying4
+  rotate: false
+  xy: 2, 70
+  size: 281, 259
+  orig: 281, 259
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwincanying5
+  rotate: false
+  xy: 285, 331
+  size: 281, 259
+  orig: 281, 259
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwindowng
+  rotate: false
+  xy: 2, 853
+  size: 665, 59
+  orig: 665, 59
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwineffect0
+  rotate: false
+  xy: 285, 143
+  size: 281, 186
+  orig: 281, 186
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwineffect2
+  rotate: false
+  xy: 662, 665
+  size: 281, 186
+  orig: 281, 186
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwineffect4
+  rotate: false
+  xy: 662, 477
+  size: 281, 186
+  orig: 281, 186
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwineffect6
+  rotate: true
+  xy: 568, 193
+  size: 281, 186
+  orig: 281, 186
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwineffect7
+  rotate: true
+  xy: 756, 194
+  size: 281, 186
+  orig: 281, 186
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg1
+  rotate: true
+  xy: 945, 666
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg2
+  rotate: true
+  xy: 945, 479
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg3
+  rotate: true
+  xy: 945, 292
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg4
+  rotate: false
+  xy: 2, 21
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg5
+  rotate: false
+  xy: 285, 94
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg6
+  rotate: false
+  xy: 285, 45
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinsg7
+  rotate: true
+  xy: 869, 7
+  size: 185, 47
+  orig: 185, 47
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwintext
+  rotate: true
+  xy: 568, 476
+  size: 375, 92
+  orig: 375, 92
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwinupg
+  rotate: false
+  xy: 669, 853
+  size: 317, 59
+  orig: 317, 59
+  offset: 0, 0
+  index: -1

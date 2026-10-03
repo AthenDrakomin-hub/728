@@ -1,0 +1,286 @@
+
+dingping.png
+size: 559,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ding
+  rotate: true
+  xy: 2, 23
+  size: 115, 143
+  orig: 115, 143
+  offset: 0, 0
+  index: -1
+dingpingfg1
+  rotate: true
+  xy: 374, 67
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+dingpingfg2
+  rotate: true
+  xy: 433, 67
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+dingpinghanqi_0
+  rotate: true
+  xy: 150, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_1
+  rotate: true
+  xy: 176, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_10
+  rotate: false
+  xy: 408, 41
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_11
+  rotate: false
+  xy: 442, 41
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_12
+  rotate: false
+  xy: 476, 41
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_13
+  rotate: true
+  xy: 492, 106
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_14
+  rotate: true
+  xy: 507, 72
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_15
+  rotate: true
+  xy: 533, 91
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_16
+  rotate: true
+  xy: 533, 57
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_17
+  rotate: false
+  xy: 519, 31
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_2
+  rotate: true
+  xy: 202, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_3
+  rotate: true
+  xy: 228, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_4
+  rotate: true
+  xy: 254, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_5
+  rotate: true
+  xy: 280, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_6
+  rotate: true
+  xy: 306, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_7
+  rotate: true
+  xy: 332, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_8
+  rotate: true
+  xy: 358, 2
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dingpinghanqi_9
+  rotate: false
+  xy: 374, 41
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dpdizuo
+  rotate: false
+  xy: 147, 36
+  size: 225, 102
+  orig: 225, 102
+  offset: 0, 0
+  index: -1
+xuanwoeffect_0
+  rotate: false
+  xy: 2, 8
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_1
+  rotate: false
+  xy: 2, 8
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_10
+  rotate: true
+  xy: 444, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_11
+  rotate: true
+  xy: 459, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_12
+  rotate: true
+  xy: 474, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_13
+  rotate: true
+  xy: 474, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_14
+  rotate: true
+  xy: 489, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_15
+  rotate: true
+  xy: 504, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_16
+  rotate: false
+  xy: 519, 125
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_17
+  rotate: true
+  xy: 492, 69
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_2
+  rotate: false
+  xy: 39, 8
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_3
+  rotate: false
+  xy: 76, 8
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_4
+  rotate: false
+  xy: 113, 8
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_5
+  rotate: true
+  xy: 384, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_6
+  rotate: true
+  xy: 399, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_7
+  rotate: true
+  xy: 399, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_8
+  rotate: true
+  xy: 414, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+xuanwoeffect_9
+  rotate: true
+  xy: 429, 4
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1

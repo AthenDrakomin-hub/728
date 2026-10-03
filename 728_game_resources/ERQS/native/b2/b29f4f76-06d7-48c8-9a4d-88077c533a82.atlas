@@ -1,0 +1,300 @@
+
+erqs_tingtext.png
+size: 1009,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_menutipsgq
+  rotate: false
+  xy: 534, 619
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng1
+  rotate: true
+  xy: 2, 3
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng11
+  rotate: false
+  xy: 443, 186
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng13
+  rotate: false
+  xy: 601, 189
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng15
+  rotate: true
+  xy: 871, 616
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng17
+  rotate: false
+  xy: 534, 534
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng19
+  rotate: false
+  xy: 534, 692
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng3
+  rotate: true
+  xy: 84, 3
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng5
+  rotate: true
+  xy: 166, 3
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng7
+  rotate: true
+  xy: 248, 3
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingliufeng9
+  rotate: false
+  xy: 285, 186
+  size: 156, 80
+  orig: 156, 80
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d0
+  rotate: true
+  xy: 520, 271
+  size: 233, 220
+  orig: 233, 220
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d10
+  rotate: true
+  xy: 692, 598
+  size: 174, 177
+  orig: 174, 177
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d12
+  rotate: false
+  xy: 692, 510
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d14
+  rotate: false
+  xy: 512, 5
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d15
+  rotate: false
+  xy: 330, 2
+  size: 180, 182
+  orig: 180, 182
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d16
+  rotate: false
+  xy: 692, 7
+  size: 177, 180
+  orig: 177, 180
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d17
+  rotate: false
+  xy: 742, 340
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d18
+  rotate: false
+  xy: 871, 514
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d19
+  rotate: true
+  xy: 759, 190
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d2
+  rotate: false
+  xy: 285, 268
+  size: 233, 236
+  orig: 233, 236
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d21
+  rotate: false
+  xy: 912, 415
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d23
+  rotate: true
+  xy: 859, 190
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d29
+  rotate: true
+  xy: 871, 59
+  size: 96, 98
+  orig: 96, 98
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d4
+  rotate: false
+  xy: 285, 506
+  size: 247, 266
+  orig: 247, 266
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d6
+  rotate: true
+  xy: 2, 455
+  size: 317, 281
+  orig: 317, 281
+  offset: 0, 0
+  index: -1
+erqs_tingtext3d8
+  rotate: true
+  xy: 2, 161
+  size: 292, 281
+  orig: 292, 281
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg10
+  rotate: false
+  xy: 742, 288
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg12
+  rotate: false
+  xy: 792, 288
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg14
+  rotate: false
+  xy: 842, 288
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg16
+  rotate: false
+  xy: 892, 288
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg18
+  rotate: false
+  xy: 912, 363
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg2
+  rotate: false
+  xy: 780, 546
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg20
+  rotate: true
+  xy: 942, 313
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg22
+  rotate: false
+  xy: 959, 261
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg24
+  rotate: false
+  xy: 959, 209
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg26
+  rotate: false
+  xy: 959, 157
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg28
+  rotate: false
+  xy: 871, 7
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg4
+  rotate: true
+  xy: 953, 724
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg6
+  rotate: true
+  xy: 953, 674
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtextlg8
+  rotate: true
+  xy: 953, 624
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+erqs_tingtipsgq
+  rotate: false
+  xy: 607, 626
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1

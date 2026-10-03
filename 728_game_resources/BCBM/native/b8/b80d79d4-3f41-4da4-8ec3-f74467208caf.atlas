@@ -1,0 +1,62 @@
+
+bcbmfailjiesuan.png
+size: 902,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbmfailjiesuanwintext
+  rotate: false
+  xy: 2, 135
+  size: 499, 119
+  orig: 499, 119
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli1
+  rotate: false
+  xy: 503, 2
+  size: 254, 252
+  orig: 254, 252
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli2
+  rotate: false
+  xy: 759, 68
+  size: 141, 186
+  orig: 141, 186
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli3
+  rotate: false
+  xy: 238, 59
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli4
+  rotate: true
+  xy: 759, 2
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli5
+  rotate: false
+  xy: 2, 4
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanboli6
+  rotate: false
+  xy: 129, 34
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+bcbmwinjiesuanwindowng
+  rotate: false
+  xy: 2, 256
+  size: 886, 79
+  orig: 886, 79
+  offset: 0, 0
+  index: -1

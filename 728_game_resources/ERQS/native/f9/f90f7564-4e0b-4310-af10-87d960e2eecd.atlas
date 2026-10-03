@@ -1,0 +1,76 @@
+
+erqs_xcnpc.png
+size: 479,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_xcnpczy
+  rotate: false
+  xy: 2, 6
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+hqb3_zcnpc1
+  rotate: false
+  xy: 2, 39
+  size: 217, 406
+  orig: 217, 406
+  offset: 0, 0
+  index: -1
+hqb3_zcnpc2
+  rotate: false
+  xy: 221, 289
+  size: 194, 156
+  orig: 194, 156
+  offset: 0, 0
+  index: -1
+hqb3_zcnpcerhuan
+  rotate: true
+  xy: 70, 20
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+hqb3_zcnpchair
+  rotate: true
+  xy: 340, 5
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+hqb3_zcnpcyoushou1
+  rotate: false
+  xy: 221, 2
+  size: 117, 148
+  orig: 117, 148
+  offset: 0, 0
+  index: -1
+hqb3_zcnpcyoushou2
+  rotate: true
+  xy: 417, 238
+  size: 207, 60
+  orig: 207, 60
+  offset: 0, 0
+  index: -1
+hqb3_zcnpczuoshou1
+  rotate: false
+  xy: 402, 57
+  size: 62, 179
+  orig: 62, 179
+  offset: 0, 0
+  index: -1
+hqb3_zcnpczuoshou2
+  rotate: true
+  xy: 221, 152
+  size: 135, 179
+  orig: 135, 179
+  offset: 0, 0
+  index: -1
+hqb3_zcnpczuoshouzhi
+  rotate: false
+  xy: 340, 81
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1

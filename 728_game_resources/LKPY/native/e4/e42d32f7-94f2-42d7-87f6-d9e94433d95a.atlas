@@ -1,0 +1,27 @@
+
+bkby_paotai1_1_1.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bkby_paotai1_1_3
+  rotate: false
+  xy: 1, 1
+  size: 86, 97
+  orig: 86, 97
+  offset: 0, 0
+  index: -1
+bkby_paotai1_1_2
+  rotate: false
+  xy: 89, 86
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+bkby_paotai1_1_1
+  rotate: false
+  xy: 89, 1
+  size: 79, 83
+  orig: 79, 83
+  offset: 0, 0
+  index: -1

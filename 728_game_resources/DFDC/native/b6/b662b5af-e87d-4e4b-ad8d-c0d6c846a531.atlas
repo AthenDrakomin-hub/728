@@ -1,0 +1,55 @@
+
+dcdf_xcbg.png
+size: 113,46
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dcdf_xcbg_hb1
+  rotate: false
+  xy: 75, 21
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+dcdf_xcbg_hb2
+  rotate: true
+  xy: 50, 3
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dcdf_xcbg_hb3
+  rotate: false
+  xy: 2, 3
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+dcdf_xcbg_hb4
+  rotate: false
+  xy: 92, 27
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dcdf_xcbg_hb5
+  rotate: false
+  xy: 97, 14
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dcdf_xcbg_hb6
+  rotate: false
+  xy: 75, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dcdf_xcbg_hb7
+  rotate: false
+  xy: 50, 22
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1

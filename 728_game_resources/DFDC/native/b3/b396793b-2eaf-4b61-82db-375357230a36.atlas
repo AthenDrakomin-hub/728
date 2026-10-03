@@ -1,0 +1,132 @@
+
+cfxm_firefx_guess_31.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cfxm_firefx0
+  rotate: false
+  xy: 2, 290
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx10
+  rotate: false
+  xy: 2, 182
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx12
+  rotate: false
+  xy: 231, 218
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx14
+  rotate: false
+  xy: 2, 146
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx16
+  rotate: false
+  xy: 231, 182
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx18
+  rotate: false
+  xy: 2, 110
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx2
+  rotate: false
+  xy: 2, 254
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx20
+  rotate: false
+  xy: 231, 146
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx22
+  rotate: false
+  xy: 2, 74
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx24
+  rotate: false
+  xy: 231, 110
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx26
+  rotate: false
+  xy: 2, 38
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx28
+  rotate: false
+  xy: 231, 74
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx30
+  rotate: true
+  xy: 460, 97
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx32
+  rotate: false
+  xy: 2, 2
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx34
+  rotate: false
+  xy: 231, 38
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx4
+  rotate: false
+  xy: 231, 290
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx6
+  rotate: false
+  xy: 2, 218
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1
+cfxm_firefx8
+  rotate: false
+  xy: 231, 254
+  size: 227, 34
+  orig: 227, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jianyu.png
+size: 186,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jianyu_idle_yu
+  rotate: false
+  xy: 2, 2
+  size: 167, 119
+  orig: 167, 119
+  offset: 0, 0
+  index: -1
+jianyu_idle_yubei
+  rotate: true
+  xy: 171, 62
+  size: 59, 13
+  orig: 59, 13
+  offset: 0, 0
+  index: -1

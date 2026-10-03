@@ -1,0 +1,97 @@
+
+longxia.png
+size: 423,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longxia_idle_jiao1
+  rotate: false
+  xy: 244, 17
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao8
+  rotate: false
+  xy: 244, 17
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao2
+  rotate: false
+  xy: 137, 7
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao3
+  rotate: true
+  xy: 366, 5
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao4
+  rotate: true
+  xy: 150, 4
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao5
+  rotate: false
+  xy: 191, 11
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao6
+  rotate: true
+  xy: 295, 12
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+longxia_idle_jiao7
+  rotate: true
+  xy: 366, 19
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+longxia_idle_yanzhu1
+  rotate: true
+  xy: 244, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+longxia_idle_yanzhu2
+  rotate: false
+  xy: 230, 11
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+longxia_idle_yu
+  rotate: false
+  xy: 150, 32
+  size: 143, 44
+  orig: 143, 44
+  offset: 0, 0
+  index: -1
+longxia_idle_yuxu1
+  rotate: false
+  xy: 2, 26
+  size: 146, 50
+  orig: 146, 50
+  offset: 0, 0
+  index: -1
+longxia_idle_yuxu2
+  rotate: false
+  xy: 2, 4
+  size: 133, 20
+  orig: 133, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+shandianliansuo.png
+size: 504,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandianyu_sdt10
+  rotate: false
+  xy: 259, 92
+  size: 242, 14
+  orig: 256, 19
+  offset: 12, 4
+  index: -1
+shandianyu_sdt11
+  rotate: false
+  xy: 2, 28
+  size: 247, 15
+  orig: 256, 19
+  offset: 9, 3
+  index: -1
+shandianyu_sdt12
+  rotate: false
+  xy: 259, 79
+  size: 241, 11
+  orig: 256, 19
+  offset: 12, 4
+  index: -1
+shandianyu_sdt13
+  rotate: false
+  xy: 258, 39
+  size: 241, 11
+  orig: 256, 19
+  offset: 12, 6
+  index: -1
+shandianyu_sdt14
+  rotate: false
+  xy: 2, 2
+  size: 241, 9
+  orig: 256, 19
+  offset: 12, 7
+  index: -1
+shandianyu_sdt15
+  rotate: false
+  xy: 251, 26
+  size: 241, 11
+  orig: 256, 19
+  offset: 11, 6
+  index: -1
+shandianyu_sdt16
+  rotate: false
+  xy: 248, 14
+  size: 241, 10
+  orig: 256, 19
+  offset: 11, 6
+  index: -1
+shandianyu_sdt3
+  rotate: false
+  xy: 2, 45
+  size: 254, 11
+  orig: 256, 19
+  offset: 0, 5
+  index: -1
+shandianyu_sdt4
+  rotate: false
+  xy: 2, 72
+  size: 254, 15
+  orig: 256, 19
+  offset: 1, 1
+  index: -1
+shandianyu_sdt5
+  rotate: false
+  xy: 2, 58
+  size: 254, 12
+  orig: 256, 19
+  offset: 0, 5
+  index: -1
+shandianyu_sdt6
+  rotate: false
+  xy: 2, 89
+  size: 255, 17
+  orig: 256, 19
+  offset: 0, 2
+  index: -1
+shandianyu_sdt7
+  rotate: false
+  xy: 2, 13
+  size: 244, 13
+  orig: 256, 19
+  offset: 11, 4
+  index: -1
+shandianyu_sdt8
+  rotate: false
+  xy: 258, 64
+  size: 244, 13
+  orig: 256, 19
+  offset: 11, 4
+  index: -1
+shandianyu_sdt9
+  rotate: false
+  xy: 258, 52
+  size: 244, 10
+  orig: 256, 19
+  offset: 11, 6
+  index: -1

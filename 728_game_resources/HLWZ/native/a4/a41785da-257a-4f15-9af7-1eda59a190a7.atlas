@@ -1,0 +1,13 @@
+
+RaiseLight.png
+size: 504,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 2, 2
+  size: 500, 250
+  orig: 500, 250
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ermjpengeffect.png
+size: 748,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ermj_mozi
+  rotate: true
+  xy: 313, 52
+  size: 326, 274
+  orig: 326, 274
+  offset: 0, 0
+  index: -1
+ermj_peng
+  rotate: true
+  xy: 589, 22
+  size: 172, 145
+  orig: 172, 145
+  offset: 0, 0
+  index: -1
+ermj_pengcy
+  rotate: true
+  xy: 589, 196
+  size: 182, 157
+  orig: 182, 157
+  offset: 0, 0
+  index: -1
+ermj_pengsx
+  rotate: true
+  xy: 2, 2
+  size: 376, 309
+  orig: 376, 309
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ermjwineffectf.png
+size: 932,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ermj_jinbi3
+  rotate: true
+  xy: 180, 291
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+ermj_jinbi3gx
+  rotate: true
+  xy: 180, 236
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+ermj_winfx
+  rotate: true
+  xy: 2, 232
+  size: 341, 176
+  orig: 341, 176
+  offset: 0, 0
+  index: -1
+ermj_winsg0
+  rotate: true
+  xy: 2, 8
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg1
+  rotate: true
+  xy: 134, 8
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg10
+  rotate: false
+  xy: 708, 311
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg11
+  rotate: false
+  xy: 662, 179
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg12
+  rotate: false
+  xy: 662, 47
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg2
+  rotate: true
+  xy: 180, 351
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg3
+  rotate: true
+  xy: 266, 127
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg4
+  rotate: true
+  xy: 312, 351
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg5
+  rotate: true
+  xy: 398, 127
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg6
+  rotate: true
+  xy: 444, 351
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg7
+  rotate: true
+  xy: 530, 127
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg8
+  rotate: true
+  xy: 576, 351
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_winsg9
+  rotate: false
+  xy: 708, 443
+  size: 222, 130
+  orig: 222, 130
+  offset: 0, 0
+  index: -1
+ermj_wintext
+  rotate: false
+  xy: 266, 2
+  size: 220, 123
+  orig: 220, 123
+  offset: 0, 0
+  index: -1

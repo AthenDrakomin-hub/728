@@ -1,0 +1,265 @@
+
+dfdc_logo_guess_8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfdc_logo
+  rotate: false
+  xy: 2, 795
+  size: 446, 175
+  orig: 446, 175
+  offset: 0, 0
+  index: -1
+dfdc_logolg0
+  rotate: false
+  xy: 450, 875
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg1
+  rotate: false
+  xy: 2, 601
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg10
+  rotate: true
+  xy: 340, 313
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg11
+  rotate: false
+  xy: 2, 116
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg12
+  rotate: false
+  xy: 2, 19
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg13
+  rotate: true
+  xy: 243, 72
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg14
+  rotate: true
+  xy: 340, 72
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg15
+  rotate: false
+  xy: 450, 778
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg16
+  rotate: false
+  xy: 691, 778
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg17
+  rotate: false
+  xy: 437, 681
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg18
+  rotate: false
+  xy: 437, 584
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg19
+  rotate: false
+  xy: 678, 681
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg2
+  rotate: false
+  xy: 691, 875
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg20
+  rotate: false
+  xy: 437, 487
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg21
+  rotate: false
+  xy: 678, 584
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg22
+  rotate: false
+  xy: 437, 390
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg23
+  rotate: false
+  xy: 678, 487
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg24
+  rotate: false
+  xy: 437, 293
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg25
+  rotate: false
+  xy: 678, 390
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg26
+  rotate: false
+  xy: 437, 196
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg27
+  rotate: false
+  xy: 678, 293
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg28
+  rotate: false
+  xy: 437, 99
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg29
+  rotate: false
+  xy: 678, 196
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg3
+  rotate: false
+  xy: 2, 504
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg30
+  rotate: false
+  xy: 678, 99
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg31
+  rotate: false
+  xy: 437, 2
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg32
+  rotate: false
+  xy: 678, 2
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg33
+  rotate: false
+  xy: 2, 698
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg34
+  rotate: true
+  xy: 919, 537
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg35
+  rotate: true
+  xy: 919, 296
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg4
+  rotate: true
+  xy: 243, 554
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg5
+  rotate: false
+  xy: 2, 407
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg6
+  rotate: true
+  xy: 340, 554
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg7
+  rotate: false
+  xy: 2, 310
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg8
+  rotate: true
+  xy: 243, 313
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1
+dfdc_logolg9
+  rotate: false
+  xy: 2, 213
+  size: 239, 95
+  orig: 239, 95
+  offset: 0, 0
+  index: -1

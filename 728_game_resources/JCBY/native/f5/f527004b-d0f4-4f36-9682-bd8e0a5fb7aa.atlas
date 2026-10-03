@@ -1,0 +1,195 @@
+
+foshou_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foshoudeadfsg
+  rotate: false
+  xy: 267, 352
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+foshoubg1
+  rotate: false
+  xy: 386, 427
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+foshoubg2
+  rotate: false
+  xy: 402, 118
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+foshoutext0
+  rotate: false
+  xy: 135, 235
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+foshoutext6
+  rotate: false
+  xy: 237, 1
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshoutext1
+  rotate: false
+  xy: 269, 118
+  size: 131, 115
+  orig: 131, 115
+  offset: 0, 0
+  index: -1
+foshoutext7
+  rotate: false
+  xy: 371, 1
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshoutext2
+  rotate: false
+  xy: 135, 352
+  size: 130, 115
+  orig: 130, 115
+  offset: 0, 0
+  index: -1
+foshoutext8
+  rotate: false
+  xy: 103, 1
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshoutext3
+  rotate: false
+  xy: 1, 395
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshoutext9
+  rotate: false
+  xy: 1, 278
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshoutext4
+  rotate: false
+  xy: 135, 118
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshoutext5
+  rotate: false
+  xy: 1, 161
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+foshou
+  rotate: false
+  xy: 1, 1
+  size: 100, 158
+  orig: 100, 158
+  offset: 0, 0
+  index: -1
+foshoueffect_8
+  rotate: false
+  xy: 103, 118
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+foshoueffect_6
+  rotate: false
+  xy: 267, 467
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+foshoueffect_14
+  rotate: false
+  xy: 268, 292
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+foshoueffect_12
+  rotate: false
+  xy: 463, 118
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+foshoueffect_10
+  rotate: false
+  xy: 328, 467
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+foshoueffect_4
+  rotate: false
+  xy: 402, 178
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+foshoueffect_0
+  rotate: false
+  xy: 298, 467
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+foshoueffect_2
+  rotate: false
+  xy: 268, 235
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+foshoueffect_16
+  rotate: false
+  xy: 456, 427
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+fuhao
+  rotate: false
+  xy: 135, 469
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+foshouksgq
+  rotate: false
+  xy: 459, 178
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+foshoukstw
+  rotate: false
+  xy: 386, 352
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+foshoulianhua
+  rotate: false
+  xy: 325, 235
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1

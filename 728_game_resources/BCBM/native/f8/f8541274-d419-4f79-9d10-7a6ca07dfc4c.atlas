@@ -1,0 +1,20 @@
+
+bcbmcmlight.png
+size: 123,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbmcmlight
+  rotate: false
+  xy: 2, 2
+  size: 103, 69
+  orig: 103, 69
+  offset: 0, 0
+  index: -1
+bcbmcmlight0
+  rotate: true
+  xy: 107, 40
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1

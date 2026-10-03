@@ -1,0 +1,20 @@
+
+dfdc_jinbifktx.png
+size: 395,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cfxm_hdjl1
+  rotate: false
+  xy: 2, 2
+  size: 359, 33
+  orig: 359, 33
+  offset: 0, 0
+  index: -1
+cfxm_hdjlxx
+  rotate: false
+  xy: 363, 6
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

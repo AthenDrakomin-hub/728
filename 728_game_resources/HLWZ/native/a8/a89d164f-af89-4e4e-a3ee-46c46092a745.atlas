@@ -1,0 +1,48 @@
+
+Straight.png
+size: 322,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangkuai
+  rotate: false
+  xy: 253, 4
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+heitao
+  rotate: true
+  xy: 253, 51
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+meihua
+  rotate: false
+  xy: 291, 22
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+shun
+  rotate: false
+  xy: 2, 2
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+taoxin
+  rotate: false
+  xy: 172, 13
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 92, 3
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1

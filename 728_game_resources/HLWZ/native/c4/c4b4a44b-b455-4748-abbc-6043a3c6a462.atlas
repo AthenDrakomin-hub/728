@@ -1,0 +1,48 @@
+
+hlwz_quickstart.png
+size: 243,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlssmxc_ksksdb
+  rotate: true
+  xy: 102, 43
+  size: 462, 98
+  orig: 462, 98
+  offset: 0, 0
+  index: -1
+hlssmxc_ksksdbfg
+  rotate: true
+  xy: 2, 42
+  size: 463, 98
+  orig: 463, 98
+  offset: 0, 0
+  index: -1
+hlssmxc_ksksdbfgd
+  rotate: false
+  xy: 2, 2
+  size: 178, 38
+  orig: 178, 38
+  offset: 0, 0
+  index: -1
+hlssmxc_ksksjt
+  rotate: false
+  xy: 202, 107
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+hlssmxc_kskstextlight
+  rotate: true
+  xy: 202, 326
+  size: 179, 39
+  orig: 179, 39
+  offset: 0, 0
+  index: -1
+hlssmxc_kskstextzz
+  rotate: true
+  xy: 202, 145
+  size: 179, 39
+  orig: 179, 39
+  offset: 0, 0
+  index: -1

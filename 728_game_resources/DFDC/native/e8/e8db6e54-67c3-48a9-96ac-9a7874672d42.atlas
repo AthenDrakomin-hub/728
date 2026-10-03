@@ -1,0 +1,41 @@
+
+dfdc_jbpfkfx.png
+size: 554,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfdc_guangsu
+  rotate: false
+  xy: 260, 52
+  size: 200, 44
+  orig: 200, 44
+  offset: 0, 0
+  index: -1
+dfdc_kuosan
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dfdc_kuosan1
+  rotate: false
+  xy: 260, 98
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+dfdc_kuosan2
+  rotate: false
+  xy: 462, 58
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+dfdc_kuosan3
+  rotate: false
+  xy: 424, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

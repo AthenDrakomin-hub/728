@@ -1,0 +1,27 @@
+
+zhuang.png
+size: 297,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dazhuang
+  rotate: true
+  xy: 194, 99
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+zhuangbao
+  rotate: false
+  xy: 194, 2
+  size: 95, 95
+  orig: 96, 96
+  offset: 1, 1
+  index: -1
+zhuangguanghuan
+  rotate: false
+  xy: 2, 2
+  size: 190, 190
+  orig: 192, 192
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,265 @@
+
+fcs_zbs_ditu_2_guess_7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fcs_zbs_ditu
+  rotate: false
+  xy: 2, 131
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_01
+  rotate: false
+  xy: 86, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_02
+  rotate: false
+  xy: 2, 45
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_03
+  rotate: false
+  xy: 129, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_04
+  rotate: false
+  xy: 2, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_05
+  rotate: false
+  xy: 172, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_06
+  rotate: false
+  xy: 215, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_07
+  rotate: false
+  xy: 258, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_08
+  rotate: false
+  xy: 301, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_09
+  rotate: false
+  xy: 344, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_10
+  rotate: false
+  xy: 387, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_11
+  rotate: false
+  xy: 430, 172
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_12
+  rotate: false
+  xy: 45, 88
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_13
+  rotate: false
+  xy: 45, 45
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_14
+  rotate: false
+  xy: 45, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_15
+  rotate: false
+  xy: 88, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_16
+  rotate: false
+  xy: 88, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_17
+  rotate: false
+  xy: 131, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_18
+  rotate: false
+  xy: 88, 43
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_19
+  rotate: false
+  xy: 131, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_20
+  rotate: false
+  xy: 174, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_21
+  rotate: false
+  xy: 131, 43
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_22
+  rotate: false
+  xy: 174, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_23
+  rotate: false
+  xy: 217, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_24
+  rotate: false
+  xy: 174, 43
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_25
+  rotate: false
+  xy: 217, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_26
+  rotate: false
+  xy: 260, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_27
+  rotate: false
+  xy: 217, 43
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_28
+  rotate: false
+  xy: 260, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_29
+  rotate: false
+  xy: 303, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_30
+  rotate: false
+  xy: 260, 43
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_31
+  rotate: false
+  xy: 303, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_32
+  rotate: false
+  xy: 346, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_33
+  rotate: false
+  xy: 303, 43
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_34
+  rotate: false
+  xy: 346, 86
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_35
+  rotate: false
+  xy: 389, 129
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+fcs_zbstx/fcs_zbs_36
+  rotate: false
+  xy: 2, 88
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

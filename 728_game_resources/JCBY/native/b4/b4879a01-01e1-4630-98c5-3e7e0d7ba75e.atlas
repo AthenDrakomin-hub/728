@@ -1,0 +1,83 @@
+
+jinlong.png
+size: 583,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinlong_idle_dajiao1
+  rotate: false
+  xy: 433, 2
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+jinlong_idle_dajiao2
+  rotate: false
+  xy: 554, 17
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+jinlong_idle_erduo1
+  rotate: false
+  xy: 528, 49
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+jinlong_idle_erduo2
+  rotate: false
+  xy: 528, 23
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+jinlong_idle_huxu1
+  rotate: false
+  xy: 339, 14
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+jinlong_idle_huxu2
+  rotate: false
+  xy: 433, 18
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+jinlong_idle_shenti
+  rotate: false
+  xy: 2, 16
+  size: 335, 59
+  orig: 335, 59
+  offset: 0, 0
+  index: -1
+jinlong_idle_toufa1
+  rotate: false
+  xy: 562, 55
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+jinlong_idle_toufa2
+  rotate: false
+  xy: 562, 33
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+jinlong_idle_xiaojiao1
+  rotate: true
+  xy: 2, 3
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+jinlong_idle_xiaojiao2
+  rotate: true
+  xy: 464, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1

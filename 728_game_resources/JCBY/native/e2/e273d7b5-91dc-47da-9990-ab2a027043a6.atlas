@@ -1,0 +1,27 @@
+
+shayuhuangjinban.png
+size: 298,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shayuhuangjinban_idle_yu
+  rotate: false
+  xy: 2, 2
+  size: 277, 111
+  orig: 277, 111
+  offset: 0, 0
+  index: -1
+shayuhuangjinban_idle_yubei
+  rotate: true
+  xy: 281, 17
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+shayuhuangjinban_idle_yubei2
+  rotate: true
+  xy: 281, 57
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1

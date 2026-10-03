@@ -1,0 +1,34 @@
+
+ermjchieffect.png
+size: 827,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ermj_chi
+  rotate: true
+  xy: 648, 2
+  size: 167, 158
+  orig: 167, 158
+  offset: 0, 0
+  index: -1
+ermj_chicy
+  rotate: false
+  xy: 648, 171
+  size: 177, 171
+  orig: 177, 171
+  offset: 0, 0
+  index: -1
+ermj_chisx
+  rotate: false
+  xy: 2, 3
+  size: 368, 339
+  orig: 368, 339
+  offset: 0, 0
+  index: -1
+ermj_mozi
+  rotate: true
+  xy: 372, 16
+  size: 326, 274
+  orig: 326, 274
+  offset: 0, 0
+  index: -1

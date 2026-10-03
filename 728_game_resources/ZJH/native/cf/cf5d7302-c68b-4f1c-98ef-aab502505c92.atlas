@@ -1,0 +1,167 @@
+
+winyanhua.png
+size: 978,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winyanhua_0
+  rotate: false
+  xy: 2, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_1
+  rotate: false
+  xy: 2, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_10
+  rotate: true
+  xy: 314, 2
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_11
+  rotate: false
+  xy: 490, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_12
+  rotate: false
+  xy: 490, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_13
+  rotate: false
+  xy: 612, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_14
+  rotate: false
+  xy: 612, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_15
+  rotate: true
+  xy: 470, 2
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_16
+  rotate: false
+  xy: 734, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_17
+  rotate: false
+  xy: 734, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_18
+  rotate: true
+  xy: 626, 2
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_19
+  rotate: false
+  xy: 856, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_2
+  rotate: false
+  xy: 124, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_3
+  rotate: false
+  xy: 124, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_4
+  rotate: true
+  xy: 2, 2
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_5
+  rotate: false
+  xy: 246, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_6
+  rotate: false
+  xy: 246, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_7
+  rotate: true
+  xy: 158, 2
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_8
+  rotate: false
+  xy: 368, 280
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+winyanhua_9
+  rotate: false
+  xy: 368, 124
+  size: 120, 154
+  orig: 120, 154
+  offset: 0, 0
+  index: -1
+yszle
+  rotate: false
+  xy: 782, 11
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+yszying
+  rotate: false
+  xy: 856, 167
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1
+yszyou
+  rotate: false
+  xy: 874, 54
+  size: 99, 111
+  orig: 99, 111
+  offset: 0, 0
+  index: -1

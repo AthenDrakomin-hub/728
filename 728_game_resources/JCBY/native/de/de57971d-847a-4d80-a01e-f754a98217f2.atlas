@@ -1,0 +1,13 @@
+
+bianfuyu.png
+size: 211,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianfuyu_idle
+  rotate: false
+  xy: 2, 2
+  size: 207, 225
+  orig: 207, 225
+  offset: 0, 0
+  index: -1

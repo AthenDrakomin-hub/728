@@ -1,0 +1,118 @@
+
+biankuangeffect.png
+size: 465,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yszwanjiatxkeffect_0
+  rotate: true
+  xy: 2, 242
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_10
+  rotate: true
+  xy: 116, 164
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_12
+  rotate: true
+  xy: 230, 164
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_14
+  rotate: true
+  xy: 344, 164
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_16
+  rotate: true
+  xy: 2, 86
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_18
+  rotate: true
+  xy: 116, 86
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_2
+  rotate: true
+  xy: 116, 242
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_20
+  rotate: true
+  xy: 230, 86
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_22
+  rotate: true
+  xy: 344, 86
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_24
+  rotate: true
+  xy: 2, 8
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_26
+  rotate: true
+  xy: 116, 8
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_28
+  rotate: true
+  xy: 230, 8
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_4
+  rotate: true
+  xy: 230, 242
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_6
+  rotate: true
+  xy: 344, 242
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkeffect_8
+  rotate: true
+  xy: 2, 164
+  size: 76, 112
+  orig: 76, 112
+  offset: 0, 0
+  index: -1
+yszwanjiatxkfg
+  rotate: true
+  xy: 344, 2
+  size: 82, 119
+  orig: 82, 119
+  offset: 0, 0
+  index: -1

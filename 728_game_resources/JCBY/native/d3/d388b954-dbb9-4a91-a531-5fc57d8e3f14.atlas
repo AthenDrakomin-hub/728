@@ -1,0 +1,27 @@
+
+zsjian_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wanjia_kuang
+  rotate: false
+  xy: 1, 1
+  size: 412, 152
+  orig: 412, 152
+  offset: 0, 0
+  index: -1
+zaizheli
+  rotate: false
+  xy: 1, 155
+  size: 171, 85
+  orig: 171, 85
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 415, 1
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+slwh_xzgd.png
+size: 448,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slwh_cmlight1
+  rotate: false
+  xy: 228, 24
+  size: 142, 90
+  orig: 142, 90
+  offset: 0, 0
+  index: -1
+slwh_cmlight2
+  rotate: false
+  xy: 2, 2
+  size: 224, 112
+  orig: 224, 112
+  offset: 0, 0
+  index: -1
+slwh_xzgd
+  rotate: true
+  xy: 372, 33
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1

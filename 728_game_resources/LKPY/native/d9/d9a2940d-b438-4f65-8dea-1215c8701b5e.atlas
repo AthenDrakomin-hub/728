@@ -1,0 +1,321 @@
+
+bydh_bosstips.png
+size: 851,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3dby_hdctipsbeishu
+  rotate: false
+  xy: 546, 68
+  size: 171, 32
+  orig: 171, 32
+  offset: 0, 0
+  index: -1
+3dby_hdctipsicon
+  rotate: false
+  xy: 2, 146
+  size: 281, 176
+  orig: 281, 176
+  offset: 0, 0
+  index: -1
+3dby_hdctipstext
+  rotate: true
+  xy: 766, 173
+  size: 149, 61
+  orig: 149, 61
+  offset: 0, 0
+  index: -1
+bydh_bosstips_150to300
+  rotate: false
+  xy: 546, 102
+  size: 171, 32
+  orig: 171, 32
+  offset: 0, 0
+  index: -1
+bydh_bosstips_300
+  rotate: false
+  xy: 433, 30
+  size: 94, 32
+  orig: 94, 32
+  offset: 0, 0
+  index: -1
+bydh_bosstips_dgt
+  rotate: false
+  xy: 288, 127
+  size: 221, 10
+  orig: 221, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstips_diban
+  rotate: false
+  xy: 529, 39
+  size: 120, 21
+  orig: 120, 21
+  offset: 0, 0
+  index: -1
+bydh_bosstips_gt
+  rotate: false
+  xy: 288, 139
+  size: 233, 20
+  orig: 233, 20
+  offset: 0, 0
+  index: -1
+bydh_bosstips_heixian
+  rotate: true
+  xy: 829, 143
+  size: 179, 20
+  orig: 179, 20
+  offset: 0, 0
+  index: -1
+bydh_bosstips_hjctshaiyaotext
+  rotate: false
+  xy: 437, 64
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+bydh_bosstips_hjctszhangyutext
+  rotate: false
+  xy: 288, 4
+  size: 143, 61
+  orig: 143, 61
+  offset: 0, 0
+  index: -1
+bydh_bosstips_hong
+  rotate: false
+  xy: 433, 8
+  size: 77, 20
+  orig: 77, 20
+  offset: 0, 0
+  index: -1
+bydh_bosstips_huang
+  rotate: false
+  xy: 2, 3
+  size: 284, 141
+  orig: 284, 141
+  offset: 0, 0
+  index: -1
+bydh_bosstips_lw30beigt
+  rotate: false
+  xy: 766, 149
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+bydh_bosstips_meidusha
+  rotate: false
+  xy: 575, 136
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+bydh_bosstips_tygt
+  rotate: false
+  xy: 288, 67
+  size: 147, 58
+  orig: 147, 58
+  offset: 0, 0
+  index: -1
+bydh_bosstips_xgt
+  rotate: false
+  xy: 546, 62
+  size: 153, 4
+  orig: 153, 4
+  offset: 0, 0
+  index: -1
+bydh_bosstips_zhangyu
+  rotate: false
+  xy: 285, 161
+  size: 288, 161
+  orig: 288, 161
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg1
+  rotate: true
+  xy: 719, 72
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg10
+  rotate: true
+  xy: 803, 85
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg11
+  rotate: true
+  xy: 815, 109
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg12
+  rotate: false
+  xy: 651, 50
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg13
+  rotate: false
+  xy: 767, 73
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg14
+  rotate: false
+  xy: 767, 61
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg15
+  rotate: false
+  xy: 512, 15
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg16
+  rotate: false
+  xy: 576, 15
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg17
+  rotate: false
+  xy: 512, 3
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg18
+  rotate: false
+  xy: 576, 3
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg19
+  rotate: false
+  xy: 657, 38
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg2
+  rotate: true
+  xy: 731, 72
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg20
+  rotate: false
+  xy: 657, 26
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg21
+  rotate: false
+  xy: 640, 14
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg22
+  rotate: false
+  xy: 640, 2
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg23
+  rotate: true
+  xy: 721, 8
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg24
+  rotate: true
+  xy: 733, 8
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg25
+  rotate: true
+  xy: 745, 8
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg26
+  rotate: false
+  xy: 757, 49
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg27
+  rotate: false
+  xy: 757, 37
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg3
+  rotate: true
+  xy: 743, 72
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg4
+  rotate: true
+  xy: 755, 72
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg5
+  rotate: false
+  xy: 529, 27
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg6
+  rotate: false
+  xy: 593, 27
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg7
+  rotate: true
+  xy: 767, 85
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg8
+  rotate: true
+  xy: 779, 85
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+bydh_bosstipssg9
+  rotate: true
+  xy: 791, 85
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1

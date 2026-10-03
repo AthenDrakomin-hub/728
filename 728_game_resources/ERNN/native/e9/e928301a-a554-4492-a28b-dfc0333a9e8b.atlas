@@ -1,0 +1,153 @@
+
+gamestart.png
+size: 933,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gamestart_cap
+  rotate: false
+  xy: 2, 29
+  size: 140, 79
+  orig: 140, 79
+  offset: 0, 0
+  index: -1
+gamestart_gun1
+  rotate: true
+  xy: 503, 129
+  size: 120, 161
+  orig: 120, 161
+  offset: 0, 0
+  index: -1
+gamestart_gun2
+  rotate: true
+  xy: 666, 129
+  size: 120, 161
+  orig: 120, 161
+  offset: 0, 0
+  index: -1
+gamestart_mu
+  rotate: false
+  xy: 2, 110
+  size: 294, 139
+  orig: 294, 139
+  offset: 0, 0
+  index: -1
+gamestarttext
+  rotate: false
+  xy: 298, 136
+  size: 203, 113
+  orig: 203, 113
+  offset: 0, 0
+  index: -1
+guneffect_0
+  rotate: false
+  xy: 144, 57
+  size: 154, 51
+  orig: 154, 70
+  offset: 0, 6
+  index: -1
+guneffect_1
+  rotate: false
+  xy: 827, 70
+  size: 103, 55
+  orig: 154, 70
+  offset: 5, 2
+  index: -1
+guneffect_10
+  rotate: false
+  xy: 605, 3
+  size: 117, 57
+  orig: 154, 70
+  offset: 25, 10
+  index: -1
+guneffect_11
+  rotate: false
+  xy: 724, 5
+  size: 93, 55
+  orig: 154, 70
+  offset: 25, 12
+  index: -1
+guneffect_12
+  rotate: false
+  xy: 740, 75
+  size: 85, 52
+  orig: 154, 70
+  offset: 21, 12
+  index: -1
+guneffect_13
+  rotate: false
+  xy: 144, 4
+  size: 81, 51
+  orig: 154, 70
+  offset: 33, 12
+  index: -1
+guneffect_14
+  rotate: true
+  xy: 895, 168
+  size: 81, 10
+  orig: 154, 70
+  offset: 33, 12
+  index: -1
+guneffect_15
+  rotate: true
+  xy: 895, 168
+  size: 81, 10
+  orig: 154, 70
+  offset: 33, 12
+  index: -1
+guneffect_2
+  rotate: false
+  xy: 496, 2
+  size: 107, 61
+  orig: 154, 70
+  offset: 10, 1
+  index: -1
+guneffect_3
+  rotate: false
+  xy: 819, 4
+  size: 112, 64
+  orig: 154, 70
+  offset: 12, 0
+  index: -1
+guneffect_4
+  rotate: true
+  xy: 428, 18
+  size: 116, 66
+  orig: 154, 70
+  offset: 13, 1
+  index: -1
+guneffect_5
+  rotate: false
+  xy: 621, 62
+  size: 117, 65
+  orig: 154, 70
+  offset: 15, 4
+  index: -1
+guneffect_6
+  rotate: true
+  xy: 829, 127
+  size: 122, 64
+  orig: 154, 70
+  offset: 15, 5
+  index: -1
+guneffect_7
+  rotate: false
+  xy: 300, 9
+  size: 124, 62
+  orig: 154, 70
+  offset: 15, 7
+  index: -1
+guneffect_8
+  rotate: false
+  xy: 496, 65
+  size: 123, 62
+  orig: 154, 70
+  offset: 19, 8
+  index: -1
+guneffect_9
+  rotate: false
+  xy: 300, 73
+  size: 126, 61
+  orig: 154, 70
+  offset: 19, 9
+  index: -1

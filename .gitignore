@@ -1,0 +1,42 @@
+# Hidden directories (Coze/Grok metadata)
+.coze-drive/
+.skills/
+.tmp/
+.volumes/
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+browser/screenshots/
+
+# APK original
+*.apk
+*.tar.gz
+
+# Mock data (seed data)
+728_platform_src/data/
+
+# Analysis temp
+728_analysis/apk_unpacked/
+
+# Log files
+*.log

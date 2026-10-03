@@ -1,0 +1,83 @@
+
+7qdjbj_stoptx.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7qdlj_pd01
+  rotate: false
+  xy: 26, 19
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+7qdlj_pd02
+  rotate: false
+  xy: 68, 81
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+7qdlj_pd03
+  rotate: false
+  xy: 386, 190
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+7qdlj_pd04
+  rotate: false
+  xy: 386, 211
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+7qdlj_pd05
+  rotate: false
+  xy: 68, 66
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+7qdlj_pd06
+  rotate: false
+  xy: 2, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+7qdlj_pd07
+  rotate: false
+  xy: 407, 216
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+7qdlj_pd08
+  rotate: false
+  xy: 2, 18
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+7qdlj_zg1
+  rotate: false
+  xy: 2, 102
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+7qdlj_zg2
+  rotate: false
+  xy: 260, 104
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+7qdlj_zg3
+  rotate: false
+  xy: 2, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+bydh_ksks.png
+size: 322,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bydh_ksks_di
+  rotate: false
+  xy: 2, 237
+  size: 240, 83
+  orig: 240, 83
+  offset: 0, 0
+  index: -1
+bydh_ksks_jt
+  rotate: false
+  xy: 236, 72
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_00
+  rotate: false
+  xy: 244, 297
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_01
+  rotate: false
+  xy: 2, 187
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_02
+  rotate: false
+  xy: 80, 212
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_03
+  rotate: false
+  xy: 244, 272
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_04
+  rotate: false
+  xy: 2, 162
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_05
+  rotate: false
+  xy: 80, 187
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_06
+  rotate: false
+  xy: 158, 212
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_07
+  rotate: false
+  xy: 244, 247
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_08
+  rotate: false
+  xy: 2, 137
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_09
+  rotate: false
+  xy: 80, 162
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_10
+  rotate: false
+  xy: 158, 187
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_11
+  rotate: false
+  xy: 2, 112
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_12
+  rotate: false
+  xy: 80, 137
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_13
+  rotate: false
+  xy: 158, 162
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_14
+  rotate: false
+  xy: 2, 87
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_15
+  rotate: false
+  xy: 80, 112
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_16
+  rotate: false
+  xy: 158, 137
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_17
+  rotate: false
+  xy: 2, 62
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_18
+  rotate: false
+  xy: 80, 87
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_19
+  rotate: false
+  xy: 158, 112
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_20
+  rotate: false
+  xy: 2, 37
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_21
+  rotate: false
+  xy: 80, 62
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_22
+  rotate: false
+  xy: 158, 87
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_23
+  rotate: false
+  xy: 2, 12
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_24
+  rotate: false
+  xy: 80, 37
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_25
+  rotate: false
+  xy: 158, 62
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_26
+  rotate: false
+  xy: 80, 12
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_27
+  rotate: false
+  xy: 158, 37
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_28
+  rotate: false
+  xy: 158, 12
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_29
+  rotate: false
+  xy: 244, 222
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_30
+  rotate: false
+  xy: 236, 197
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_31
+  rotate: false
+  xy: 236, 172
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_32
+  rotate: false
+  xy: 236, 147
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_33
+  rotate: false
+  xy: 236, 122
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_34
+  rotate: false
+  xy: 236, 97
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+bydh_ksks_sg_35
+  rotate: false
+  xy: 2, 212
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1

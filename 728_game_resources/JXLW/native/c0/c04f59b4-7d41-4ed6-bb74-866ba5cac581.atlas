@@ -1,0 +1,265 @@
+
+jxlw_startmenu.png
+size: 956,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_startmenulg0
+  rotate: true
+  xy: 2, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg1
+  rotate: false
+  xy: 2, 102
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg10
+  rotate: true
+  xy: 202, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg11
+  rotate: true
+  xy: 252, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg12
+  rotate: true
+  xy: 302, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg13
+  rotate: false
+  xy: 310, 102
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg14
+  rotate: false
+  xy: 310, 52
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg15
+  rotate: false
+  xy: 310, 2
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg16
+  rotate: true
+  xy: 352, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg17
+  rotate: true
+  xy: 402, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg18
+  rotate: true
+  xy: 452, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg19
+  rotate: false
+  xy: 464, 102
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg2
+  rotate: false
+  xy: 2, 52
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg20
+  rotate: false
+  xy: 464, 52
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg21
+  rotate: false
+  xy: 464, 2
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg22
+  rotate: true
+  xy: 502, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg23
+  rotate: true
+  xy: 552, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg24
+  rotate: true
+  xy: 602, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg25
+  rotate: false
+  xy: 618, 102
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg26
+  rotate: false
+  xy: 618, 52
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg27
+  rotate: false
+  xy: 618, 2
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg28
+  rotate: true
+  xy: 652, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg29
+  rotate: true
+  xy: 702, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg3
+  rotate: false
+  xy: 2, 2
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg30
+  rotate: true
+  xy: 752, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg31
+  rotate: false
+  xy: 772, 102
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg32
+  rotate: false
+  xy: 772, 52
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg33
+  rotate: false
+  xy: 772, 2
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg34
+  rotate: false
+  xy: 802, 256
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg35
+  rotate: false
+  xy: 802, 206
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg36
+  rotate: false
+  xy: 802, 156
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg4
+  rotate: true
+  xy: 52, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg5
+  rotate: true
+  xy: 102, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg6
+  rotate: true
+  xy: 152, 152
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg7
+  rotate: false
+  xy: 156, 102
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg8
+  rotate: false
+  xy: 156, 52
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+jxlw_startmenulg9
+  rotate: false
+  xy: 156, 2
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1

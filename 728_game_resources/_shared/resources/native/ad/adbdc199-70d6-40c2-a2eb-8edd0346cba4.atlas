@@ -1,0 +1,62 @@
+
+qebdt_selectfx.png
+size: 360,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qeb_cz_zfb0
+  rotate: false
+  xy: 282, 61
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qeb_cz_zfb1
+  rotate: false
+  xy: 282, 35
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qeb_cz_zfb2
+  rotate: false
+  xy: 308, 61
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qeb_cz_zfb3
+  rotate: false
+  xy: 282, 9
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qeb_cz_zfb4
+  rotate: false
+  xy: 308, 35
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qeb_cz_zfb5
+  rotate: false
+  xy: 334, 61
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qeb_cz_zfb6
+  rotate: false
+  xy: 308, 9
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+qebdt_selectk
+  rotate: false
+  xy: 2, 2
+  size: 278, 83
+  orig: 278, 83
+  offset: 0, 0
+  index: -1

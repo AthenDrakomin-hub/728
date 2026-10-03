@@ -1,0 +1,27 @@
+{
+  "name": "728-original-server",
+  "version": "1.0.0",
+  "description": "728 棋牌平台原版服务端协议复刻",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "start": "node dist/index.mjs",
+    "dev": "node --watch dist/index.mjs",
+    "test": "node dist/login.poc.mjs"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "ws": "^8.18.0",
+    "bcrypt": "^6.0.0",
+    "dotenv": "^16.4.5",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.5.0",
+    "@types/ws": "^8.5.12",
+    "@types/bcrypt": "^6.0.0",
+    "@types/cors": "^2.8.17",
+    "esbuild": "^0.24.0"
+  }
+}

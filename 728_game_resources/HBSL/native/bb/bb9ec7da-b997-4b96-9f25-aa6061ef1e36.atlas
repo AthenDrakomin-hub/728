@@ -1,0 +1,132 @@
+
+slhb_shounajdbjdb.png
+size: 344,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slhb_shounajdbgt
+  rotate: false
+  xy: 2, 286
+  size: 192, 96
+  orig: 192, 96
+  offset: 0, 0
+  index: -1
+slhb_shounajdbkuang
+  rotate: true
+  xy: 2, 104
+  size: 180, 34
+  orig: 180, 34
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg10
+  rotate: true
+  xy: 208, 203
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg11
+  rotate: true
+  xy: 208, 22
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg12
+  rotate: true
+  xy: 242, 203
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg13
+  rotate: true
+  xy: 242, 22
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg14
+  rotate: true
+  xy: 276, 203
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg15
+  rotate: true
+  xy: 310, 203
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg16
+  rotate: true
+  xy: 276, 22
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg17
+  rotate: true
+  xy: 310, 22
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg2
+  rotate: false
+  xy: 2, 70
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg3
+  rotate: true
+  xy: 38, 105
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg4
+  rotate: true
+  xy: 72, 105
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg5
+  rotate: true
+  xy: 106, 105
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg6
+  rotate: true
+  xy: 140, 105
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg7
+  rotate: true
+  xy: 174, 105
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg8
+  rotate: false
+  xy: 2, 36
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+slhb_shounajdblg9
+  rotate: false
+  xy: 2, 2
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1

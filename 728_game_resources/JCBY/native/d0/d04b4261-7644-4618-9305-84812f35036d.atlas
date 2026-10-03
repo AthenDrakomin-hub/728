@@ -1,0 +1,69 @@
+
+shenxianchuan.png
+size: 452,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lz1
+  rotate: false
+  xy: 369, 4
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+lz10
+  rotate: true
+  xy: 389, 111
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+lz7
+  rotate: true
+  xy: 385, 59
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+shenxianchuan_idle_chuanshen
+  rotate: true
+  xy: 2, 2
+  size: 276, 280
+  orig: 276, 280
+  offset: 0, 0
+  index: -1
+shenxianchuan_idle_fan1
+  rotate: true
+  xy: 284, 103
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+shenxianchuan_idle_fan2
+  rotate: false
+  xy: 389, 165
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+shenxianchuan_idle_fan3
+  rotate: false
+  xy: 284, 10
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+shenxianchuan_idle_fan4
+  rotate: true
+  xy: 284, 141
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+shenxianchuan_idle_fan5
+  rotate: true
+  xy: 284, 233
+  size: 45, 132
+  orig: 45, 132
+  offset: 0, 0
+  index: -1

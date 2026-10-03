@@ -1,0 +1,34 @@
+
+ermjgangtips.png
+size: 581,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ermj_yxz_tb4gang
+  rotate: false
+  xy: 451, 128
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+ermjgangtipshx
+  rotate: false
+  xy: 2, 2
+  size: 257, 261
+  orig: 257, 261
+  offset: 0, 0
+  index: -1
+ermjgangtipsks
+  rotate: false
+  xy: 261, 75
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+ermjgangtipsxz
+  rotate: true
+  xy: 451, 18
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1

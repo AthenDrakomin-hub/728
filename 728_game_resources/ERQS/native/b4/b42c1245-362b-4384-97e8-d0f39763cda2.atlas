@@ -1,0 +1,13 @@
+
+erqs_guomenu.png
+size: 85,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_guomenugx
+  rotate: false
+  xy: 2, 2
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1

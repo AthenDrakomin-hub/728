@@ -1,0 +1,27 @@
+
+bcbmgamecar.png
+size: 292,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbmgameche
+  rotate: true
+  xy: 164, 29
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+bcbmgamechechongci
+  rotate: true
+  xy: 2, 2
+  size: 75, 160
+  orig: 75, 160
+  offset: 0, 0
+  index: -1
+bcbmgamechedeng
+  rotate: false
+  xy: 243, 14
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1

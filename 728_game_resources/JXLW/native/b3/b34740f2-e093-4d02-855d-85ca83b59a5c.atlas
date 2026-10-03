@@ -1,0 +1,27 @@
+
+jxlw_gameobjputao.png
+size: 295,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjputao
+  rotate: false
+  xy: 2, 9
+  size: 129, 81
+  orig: 129, 81
+  offset: 0, 0
+  index: -1
+jxlw_gameobjputaofg
+  rotate: true
+  xy: 220, 12
+  size: 78, 73
+  orig: 78, 73
+  offset: 0, 0
+  index: -1
+jxlw_gameobjyingtaoye
+  rotate: false
+  xy: 133, 2
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1

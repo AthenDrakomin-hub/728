@@ -1,0 +1,132 @@
+
+jgff_firefx_guess_15.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jgff_firefx0
+  rotate: false
+  xy: 2, 290
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx10
+  rotate: false
+  xy: 2, 182
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx12
+  rotate: false
+  xy: 194, 218
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx14
+  rotate: false
+  xy: 2, 146
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx16
+  rotate: false
+  xy: 194, 182
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx18
+  rotate: false
+  xy: 2, 110
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx2
+  rotate: false
+  xy: 2, 254
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx20
+  rotate: false
+  xy: 194, 146
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx22
+  rotate: false
+  xy: 2, 74
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx24
+  rotate: false
+  xy: 194, 110
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx26
+  rotate: true
+  xy: 386, 134
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx28
+  rotate: false
+  xy: 2, 38
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx30
+  rotate: false
+  xy: 194, 74
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx32
+  rotate: true
+  xy: 422, 134
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx34
+  rotate: false
+  xy: 2, 2
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx4
+  rotate: false
+  xy: 194, 290
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx6
+  rotate: false
+  xy: 2, 218
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1
+jgff_firefx8
+  rotate: false
+  xy: 194, 254
+  size: 190, 34
+  orig: 190, 34
+  offset: 0, 0
+  index: -1

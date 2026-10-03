@@ -1,0 +1,20 @@
+
+shajing.png
+size: 223,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shajing_idle_yu
+  rotate: false
+  xy: 2, 2
+  size: 209, 91
+  orig: 209, 91
+  offset: 0, 0
+  index: -1
+shajing_idle_yubei2
+  rotate: true
+  xy: 213, 55
+  size: 38, 8
+  orig: 38, 8
+  offset: 0, 0
+  index: -1

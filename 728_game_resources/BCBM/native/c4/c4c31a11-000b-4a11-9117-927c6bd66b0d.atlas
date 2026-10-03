@@ -1,0 +1,13 @@
+
+bcbmchedeng.png
+size: 51,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbmgamechedeng
+  rotate: false
+  xy: 2, 2
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1

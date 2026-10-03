@@ -1,0 +1,27 @@
+
+jxlw_gameobj37.png
+size: 245,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobj7
+  rotate: false
+  xy: 2, 2
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+jxlw_gameobj7fg
+  rotate: false
+  xy: 95, 8
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 179, 19
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

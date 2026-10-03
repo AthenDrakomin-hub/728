@@ -1,0 +1,48 @@
+
+fish_jinbi_1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_jinbi4_1
+  rotate: false
+  xy: 1, 1
+  size: 93, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+fish_jinbi4_5
+  rotate: false
+  xy: 1, 93
+  size: 40, 89
+  orig: 40, 89
+  offset: 0, 0
+  index: -1
+fish_jinbi4_4
+  rotate: false
+  xy: 233, 1
+  size: 22, 89
+  orig: 22, 89
+  offset: 0, 0
+  index: -1
+fish_jinbi4_3
+  rotate: false
+  xy: 43, 93
+  size: 38, 90
+  orig: 40, 90
+  offset: 0, 0
+  index: -1
+fish_jinbi4_6
+  rotate: false
+  xy: 167, 1
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+fish_jinbi4_2
+  rotate: false
+  xy: 96, 1
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1

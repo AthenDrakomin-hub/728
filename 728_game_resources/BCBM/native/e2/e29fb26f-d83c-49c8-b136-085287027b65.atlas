@@ -1,0 +1,13 @@
+
+bcbmcheweiqi.png
+size: 84,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bcbmweiqi
+  rotate: false
+  xy: 2, 2
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1

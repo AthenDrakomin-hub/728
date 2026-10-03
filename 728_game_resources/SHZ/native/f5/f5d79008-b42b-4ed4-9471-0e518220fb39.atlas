@@ -1,0 +1,20 @@
+
+shz_bidaxiaozh.png
+size: 488,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shz_bidaxiaozh1
+  rotate: false
+  xy: 245, 2
+  size: 241, 407
+  orig: 241, 407
+  offset: 0, 0
+  index: -1
+shz_bidaxiaozh2
+  rotate: false
+  xy: 2, 2
+  size: 241, 407
+  orig: 241, 407
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+jxlw_chujixuanchang.png
+size: 440,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_chujixclingdang
+  rotate: true
+  xy: 2, 48
+  size: 176, 196
+  orig: 176, 196
+  offset: 0, 0
+  index: -1
+jxlw_chujixclingdangq
+  rotate: false
+  xy: 397, 127
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+jxlw_chujixclingdangyy
+  rotate: false
+  xy: 200, 145
+  size: 95, 79
+  orig: 95, 79
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg1
+  rotate: false
+  xy: 297, 118
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg10
+  rotate: false
+  xy: 346, 72
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg11
+  rotate: false
+  xy: 392, 72
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg12
+  rotate: true
+  xy: 254, 26
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg13
+  rotate: true
+  xy: 308, 26
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg14
+  rotate: true
+  xy: 362, 26
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg15
+  rotate: true
+  xy: 2, 2
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg16
+  rotate: true
+  xy: 56, 2
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg17
+  rotate: true
+  xy: 110, 2
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg2
+  rotate: false
+  xy: 200, 91
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg3
+  rotate: false
+  xy: 246, 91
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg4
+  rotate: true
+  xy: 292, 72
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg5
+  rotate: true
+  xy: 200, 45
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg6
+  rotate: false
+  xy: 343, 172
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg7
+  rotate: true
+  xy: 343, 126
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg8
+  rotate: false
+  xy: 389, 172
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+jxlw_chujixuanchanglg9
+  rotate: false
+  xy: 297, 172
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1

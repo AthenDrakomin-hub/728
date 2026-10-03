@@ -1,0 +1,34 @@
+
+jxlw_gameobjlizhi.png
+size: 182,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjlizhi1
+  rotate: false
+  xy: 93, 90
+  size: 87, 84
+  orig: 87, 84
+  offset: 0, 0
+  index: -1
+jxlw_gameobjlizhi2
+  rotate: false
+  xy: 2, 62
+  size: 89, 112
+  orig: 89, 112
+  offset: 0, 0
+  index: -1
+jxlw_gameobjlizhifg
+  rotate: false
+  xy: 93, 16
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+jxlw_gameobjlizhiye
+  rotate: true
+  xy: 2, 2
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1

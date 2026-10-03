@@ -1,0 +1,27 @@
+
+renx.png
+size: 502,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangtiao1
+  rotate: true
+  xy: 404, 22
+  size: 192, 96
+  orig: 192, 96
+  offset: 0, 0
+  index: -1
+renxgg
+  rotate: false
+  xy: 2, 2
+  size: 203, 212
+  orig: 203, 212
+  offset: 0, 0
+  index: -1
+renxhx
+  rotate: false
+  xy: 207, 17
+  size: 195, 197
+  orig: 195, 197
+  offset: 0, 0
+  index: -1

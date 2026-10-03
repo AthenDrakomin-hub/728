@@ -1,0 +1,97 @@
+
+tbnnrenxeffect.png
+size: 1946,611
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tbnnrenxeffect
+  rotate: false
+  xy: 1712, 410
+  size: 150, 199
+  orig: 150, 199
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_0
+  rotate: false
+  xy: 2, 287
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_1
+  rotate: false
+  xy: 287, 287
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_10
+  rotate: true
+  xy: 1298, 2
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_11
+  rotate: true
+  xy: 1622, 2
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_2
+  rotate: true
+  xy: 2, 2
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_3
+  rotate: false
+  xy: 572, 287
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_4
+  rotate: true
+  xy: 326, 2
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_5
+  rotate: false
+  xy: 857, 287
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_6
+  rotate: true
+  xy: 650, 2
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_7
+  rotate: false
+  xy: 1142, 287
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_8
+  rotate: true
+  xy: 974, 2
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1
+tbnnrenxjizhong_9
+  rotate: false
+  xy: 1427, 287
+  size: 283, 322
+  orig: 283, 322
+  offset: 0, 0
+  index: -1

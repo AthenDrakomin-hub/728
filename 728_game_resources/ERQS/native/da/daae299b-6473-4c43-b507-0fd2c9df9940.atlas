@@ -1,0 +1,20 @@
+
+erqs_paitipseffect.png
+size: 163,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_paitipseffect
+  rotate: true
+  xy: 2, 2
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+erqs_yxz_bc_cp1
+  rotate: false
+  xy: 127, 88
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1

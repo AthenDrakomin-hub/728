@@ -1,0 +1,174 @@
+
+shz_quickstart.png
+size: 693,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shz_quickstartdb
+  rotate: false
+  xy: 2, 99
+  size: 427, 109
+  orig: 427, 109
+  offset: 0, 0
+  index: -1
+shz_quickstartdbfg
+  rotate: false
+  xy: 2, 8
+  size: 374, 89
+  orig: 374, 89
+  offset: 0, 0
+  index: -1
+shz_quickstartjt
+  rotate: false
+  xy: 378, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+shz_quickstartsg11
+  rotate: false
+  xy: 526, 162
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg13
+  rotate: false
+  xy: 431, 114
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg15
+  rotate: false
+  xy: 526, 138
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg17
+  rotate: false
+  xy: 526, 114
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg19
+  rotate: true
+  xy: 621, 115
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg21
+  rotate: true
+  xy: 645, 115
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg23
+  rotate: true
+  xy: 669, 115
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg25
+  rotate: false
+  xy: 433, 90
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg27
+  rotate: false
+  xy: 433, 66
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg29
+  rotate: false
+  xy: 433, 42
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg3
+  rotate: false
+  xy: 431, 186
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg31
+  rotate: false
+  xy: 433, 18
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg33
+  rotate: true
+  xy: 588, 19
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg35
+  rotate: true
+  xy: 612, 19
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg5
+  rotate: false
+  xy: 431, 162
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg7
+  rotate: false
+  xy: 526, 186
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstartsg9
+  rotate: false
+  xy: 431, 138
+  size: 93, 22
+  orig: 93, 22
+  offset: 0, 0
+  index: -1
+shz_quickstarttext1
+  rotate: true
+  xy: 636, 56
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+shz_quickstarttext2
+  rotate: false
+  xy: 528, 56
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+shz_quickstarttext3
+  rotate: false
+  xy: 528, 3
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+shz_quickstarttext4
+  rotate: true
+  xy: 378, 36
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+jxlw_gameobjlingdang.png
+size: 178,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjlingdang
+  rotate: false
+  xy: 2, 30
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1
+jxlw_gameobjlingdangfg
+  rotate: false
+  xy: 108, 77
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+jxlw_gameobjlingdangqiu
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 108, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

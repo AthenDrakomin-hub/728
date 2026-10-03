@@ -1,0 +1,62 @@
+
+jinbishounaeffect.png
+size: 162,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxingdian
+  rotate: false
+  xy: 46, 3
+  size: 39, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+jinbirukuanggl
+  rotate: false
+  xy: 2, 107
+  size: 121, 45
+  orig: 122, 45
+  offset: 0, 0
+  index: -1
+jinbishounaeffect10
+  rotate: false
+  xy: 2, 45
+  size: 54, 60
+  orig: 59, 63
+  offset: 2, 3
+  index: -1
+jinbishounaeffect12
+  rotate: false
+  xy: 87, 6
+  size: 27, 40
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+jinbishounaeffect2
+  rotate: false
+  xy: 125, 118
+  size: 35, 34
+  orig: 59, 63
+  offset: 13, 17
+  index: -1
+jinbishounaeffect4
+  rotate: true
+  xy: 2, 2
+  size: 41, 42
+  orig: 59, 63
+  offset: 10, 12
+  index: -1
+jinbishounaeffect6
+  rotate: false
+  xy: 115, 59
+  size: 45, 46
+  orig: 59, 63
+  offset: 8, 10
+  index: -1
+jinbishounaeffect8
+  rotate: false
+  xy: 58, 48
+  size: 55, 57
+  orig: 59, 63
+  offset: 3, 5
+  index: -1

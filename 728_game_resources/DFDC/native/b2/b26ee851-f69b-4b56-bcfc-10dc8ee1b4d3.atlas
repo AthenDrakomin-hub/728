@@ -1,0 +1,279 @@
+
+dfdczj_5.png
+size: 722,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfdc_game_g
+  rotate: false
+  xy: 100, 11
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dfdc_gameojb1
+  rotate: false
+  xy: 2, 53
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_0
+  rotate: false
+  xy: 163, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_1
+  rotate: false
+  xy: 51, 2
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_10
+  rotate: false
+  xy: 555, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_11
+  rotate: false
+  xy: 604, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_12
+  rotate: false
+  xy: 653, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_13
+  rotate: true
+  xy: 101, 44
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_14
+  rotate: true
+  xy: 163, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_15
+  rotate: true
+  xy: 214, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_16
+  rotate: true
+  xy: 265, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_17
+  rotate: true
+  xy: 316, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_18
+  rotate: true
+  xy: 367, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_19
+  rotate: true
+  xy: 418, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_2
+  rotate: false
+  xy: 212, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_20
+  rotate: true
+  xy: 469, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_21
+  rotate: true
+  xy: 520, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_22
+  rotate: true
+  xy: 571, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_23
+  rotate: true
+  xy: 622, 55
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_24
+  rotate: false
+  xy: 673, 53
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_25
+  rotate: true
+  xy: 152, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_26
+  rotate: true
+  xy: 203, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_27
+  rotate: true
+  xy: 254, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_28
+  rotate: true
+  xy: 305, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_29
+  rotate: true
+  xy: 356, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_3
+  rotate: false
+  xy: 261, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_30
+  rotate: true
+  xy: 407, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_31
+  rotate: true
+  xy: 458, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_32
+  rotate: true
+  xy: 509, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_33
+  rotate: true
+  xy: 560, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_34
+  rotate: true
+  xy: 611, 6
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_35
+  rotate: true
+  xy: 662, 4
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_4
+  rotate: false
+  xy: 310, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_5
+  rotate: false
+  xy: 359, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_6
+  rotate: false
+  xy: 408, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_7
+  rotate: false
+  xy: 457, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_8
+  rotate: false
+  xy: 506, 104
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdc_jb/dfdc_jb_9
+  rotate: false
+  xy: 2, 2
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dfdcdi4
+  rotate: false
+  xy: 101, 93
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

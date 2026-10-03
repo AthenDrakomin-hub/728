@@ -1,0 +1,272 @@
+
+slwh_xiazhumenu.png
+size: 968,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slwh_xiazhumenu
+  rotate: false
+  xy: 2, 467
+  size: 306, 106
+  orig: 306, 106
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg0
+  rotate: false
+  xy: 310, 503
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg1
+  rotate: false
+  xy: 2, 323
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg10
+  rotate: true
+  xy: 252, 289
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg11
+  rotate: true
+  xy: 252, 111
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg12
+  rotate: false
+  xy: 180, 39
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg13
+  rotate: false
+  xy: 324, 431
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg14
+  rotate: false
+  xy: 324, 359
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg15
+  rotate: false
+  xy: 502, 431
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg16
+  rotate: false
+  xy: 324, 287
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg17
+  rotate: false
+  xy: 502, 359
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg18
+  rotate: false
+  xy: 324, 215
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg19
+  rotate: false
+  xy: 502, 287
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg2
+  rotate: false
+  xy: 488, 503
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg20
+  rotate: true
+  xy: 680, 325
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg21
+  rotate: false
+  xy: 324, 143
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg22
+  rotate: false
+  xy: 502, 215
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg23
+  rotate: true
+  xy: 752, 325
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg24
+  rotate: false
+  xy: 502, 143
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg25
+  rotate: true
+  xy: 680, 147
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg26
+  rotate: true
+  xy: 752, 147
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg27
+  rotate: false
+  xy: 358, 71
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg28
+  rotate: false
+  xy: 536, 71
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg29
+  rotate: true
+  xy: 824, 325
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg3
+  rotate: false
+  xy: 2, 251
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg30
+  rotate: true
+  xy: 824, 147
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg31
+  rotate: false
+  xy: 714, 75
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg32
+  rotate: false
+  xy: 714, 3
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg33
+  rotate: true
+  xy: 896, 397
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg34
+  rotate: true
+  xy: 896, 219
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg35
+  rotate: false
+  xy: 2, 395
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg4
+  rotate: true
+  xy: 180, 289
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg5
+  rotate: false
+  xy: 666, 503
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg6
+  rotate: false
+  xy: 2, 179
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg7
+  rotate: false
+  xy: 2, 107
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg8
+  rotate: true
+  xy: 180, 111
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhumenu_lg9
+  rotate: false
+  xy: 2, 35
+  size: 176, 70
+  orig: 176, 70
+  offset: 0, 0
+  index: -1
+slwh_xiazhutext
+  rotate: false
+  xy: 358, 2
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1

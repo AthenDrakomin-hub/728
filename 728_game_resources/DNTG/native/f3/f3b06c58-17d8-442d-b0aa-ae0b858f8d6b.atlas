@@ -1,0 +1,27 @@
+
+paotai1.png
+size: 277,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dntg_pao1gongjiguangxiao
+  rotate: false
+  xy: 2, 2
+  size: 140, 86
+  orig: 140, 86
+  offset: 0, 0
+  index: -1
+dntg_paoshen1buyu
+  rotate: false
+  xy: 144, 5
+  size: 96, 83
+  orig: 96, 83
+  offset: 0, 0
+  index: -1
+dntg_paotou1buyu
+  rotate: true
+  xy: 242, 47
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+shandianxianjie.png
+size: 146,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandianxianjie_1
+  rotate: false
+  xy: 2, 59
+  size: 25, 25
+  orig: 41, 41
+  offset: 8, 8
+  index: -1
+shandianxianjie_11
+  rotate: false
+  xy: 2, 9
+  size: 40, 39
+  orig: 41, 41
+  offset: 0, 1
+  index: -1
+shandianxianjie_13
+  rotate: false
+  xy: 87, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+shandianxianjie_3
+  rotate: false
+  xy: 29, 50
+  size: 35, 34
+  orig: 41, 41
+  offset: 3, 4
+  index: -1
+shandianxianjie_5
+  rotate: false
+  xy: 66, 47
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1
+shandianxianjie_7
+  rotate: false
+  xy: 105, 45
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+shandianxianjie_9
+  rotate: false
+  xy: 44, 4
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

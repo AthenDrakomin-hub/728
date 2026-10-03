@@ -1,0 +1,27 @@
+
+SinglePair.png
+size: 290,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meihua
+  rotate: false
+  xy: 229, 19
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+taoxin
+  rotate: false
+  xy: 167, 19
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 2, 2
+  size: 163, 92
+  orig: 163, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+slwh_daojishi.png
+size: 216,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slwh_number0
+  rotate: false
+  xy: 132, 79
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+slwh_number1
+  rotate: false
+  xy: 132, 26
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+slwh_number2
+  rotate: false
+  xy: 160, 79
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+slwh_number3
+  rotate: false
+  xy: 160, 26
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+slwh_number4
+  rotate: false
+  xy: 188, 79
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+slwh_number5
+  rotate: false
+  xy: 188, 26
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+slwh_tbdjquan
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

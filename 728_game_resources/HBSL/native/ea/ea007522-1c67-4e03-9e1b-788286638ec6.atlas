@@ -1,0 +1,20 @@
+
+slhb_qhbtx.png
+size: 358,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slhb_qhbtxgb3
+  rotate: false
+  xy: 260, 4
+  size: 96, 126
+  orig: 96, 126
+  offset: 0, 0
+  index: -1
+slhb_qhbtxgt
+  rotate: false
+  xy: 2, 2
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

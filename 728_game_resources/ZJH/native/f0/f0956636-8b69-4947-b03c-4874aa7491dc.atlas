@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 982,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yszjskbaidi
+  rotate: false
+  xy: 928, 73
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+yszpkshandian_0
+  rotate: true
+  xy: 696, 34
+  size: 122, 230
+  orig: 154, 239
+  offset: 18, 2
+  index: -1
+yszpkshandian_1
+  rotate: true
+  xy: 241, 13
+  size: 143, 228
+  orig: 154, 239
+  offset: 8, 0
+  index: -1
+yszpkshandian_2
+  rotate: true
+  xy: 471, 2
+  size: 154, 223
+  orig: 154, 239
+  offset: 0, 4
+  index: -1
+yszpkshandian_3
+  rotate: true
+  xy: 2, 8
+  size: 148, 237
+  orig: 154, 239
+  offset: 2, 2
+  index: -1

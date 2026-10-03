@@ -1,0 +1,27 @@
+
+jxlw_gameobjzs.png
+size: 273,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjzs
+  rotate: false
+  xy: 2, 2
+  size: 124, 112
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+jxlw_gameobjzsfg
+  rotate: false
+  xy: 128, 40
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 207, 50
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

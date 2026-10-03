@@ -1,0 +1,181 @@
+
+wenzhoumajiang_NPC.png
+size: 930,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wzmj_npc_back_clothes
+  rotate: true
+  xy: 463, 38
+  size: 41, 140
+  orig: 41, 140
+  offset: 0, 0
+  index: -1
+wzmj_npc_bosom
+  rotate: false
+  xy: 772, 281
+  size: 156, 113
+  orig: 156, 113
+  offset: 0, 0
+  index: -1
+wzmj_npc_eye_close
+  rotate: false
+  xy: 776, 3
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+wzmj_npc_front_clothes
+  rotate: true
+  xy: 772, 120
+  size: 100, 105
+  orig: 100, 105
+  offset: 0, 0
+  index: -1
+wzmj_npc_front_clothes1
+  rotate: true
+  xy: 494, 13
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+wzmj_npc_front_clothes2
+  rotate: true
+  xy: 772, 222
+  size: 57, 147
+  orig: 57, 147
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair1
+  rotate: true
+  xy: 605, 25
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair2
+  rotate: false
+  xy: 883, 52
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair3
+  rotate: false
+  xy: 354, 9
+  size: 84, 37
+  orig: 84, 37
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair4
+  rotate: false
+  xy: 883, 110
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair5
+  rotate: false
+  xy: 887, 6
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair6
+  rotate: false
+  xy: 853, 6
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair7
+  rotate: false
+  xy: 526, 17
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+wzmj_npc_hair8
+  rotate: false
+  xy: 709, 18
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+wzmj_npc_head
+  rotate: false
+  xy: 258, 48
+  size: 203, 153
+  orig: 203, 153
+  offset: 0, 0
+  index: -1
+wzmj_npc_l_arm
+  rotate: true
+  xy: 258, 2
+  size: 44, 94
+  orig: 44, 94
+  offset: 0, 0
+  index: -1
+wzmj_npc_l_forearm
+  rotate: true
+  xy: 463, 81
+  size: 52, 166
+  orig: 52, 166
+  offset: 0, 0
+  index: -1
+wzmj_npc_l_hand
+  rotate: false
+  xy: 776, 43
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+wzmj_npc_l_hand_shadow
+  rotate: true
+  xy: 879, 143
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+wzmj_npc_r_arm
+  rotate: true
+  xy: 463, 135
+  size: 66, 183
+  orig: 66, 183
+  offset: 0, 0
+  index: -1
+wzmj_npc_r_forearm
+  rotate: true
+  xy: 648, 95
+  size: 106, 117
+  orig: 106, 117
+  offset: 0, 0
+  index: -1
+wzmj_npc_r_hand
+  rotate: true
+  xy: 631, 2
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+wzmj_npc_toushi
+  rotate: true
+  xy: 440, 9
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+wzmj_npc_upbody
+  rotate: true
+  xy: 2, 13
+  size: 188, 254
+  orig: 188, 254
+  offset: 0, 0
+  index: -1
+wzmj_npc_xiabody
+  rotate: true
+  xy: 2, 203
+  size: 191, 768
+  orig: 191, 768
+  offset: 0, 0
+  index: -1

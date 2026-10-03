@@ -1,0 +1,13 @@
+
+dianzan.png
+size: 43,37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+relay_fav_on1
+  rotate: false
+  xy: 2, 2
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1

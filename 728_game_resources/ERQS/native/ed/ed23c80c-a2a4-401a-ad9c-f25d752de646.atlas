@@ -1,0 +1,139 @@
+
+erqs_chimenu_guess_4.png
+size: 487,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_chimenugx
+  rotate: false
+  xy: 320, 6
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+erqs_chimenutx0
+  rotate: false
+  xy: 2, 311
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx10
+  rotate: false
+  xy: 196, 311
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx12
+  rotate: false
+  xy: 99, 99
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx14
+  rotate: true
+  xy: 2, 2
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx16
+  rotate: false
+  xy: 196, 205
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx18
+  rotate: false
+  xy: 293, 311
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx2
+  rotate: false
+  xy: 2, 205
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx20
+  rotate: false
+  xy: 196, 99
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx22
+  rotate: true
+  xy: 108, 2
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx24
+  rotate: false
+  xy: 293, 205
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx26
+  rotate: false
+  xy: 390, 311
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx28
+  rotate: false
+  xy: 293, 99
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx30
+  rotate: true
+  xy: 214, 2
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx32
+  rotate: false
+  xy: 390, 205
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx34
+  rotate: false
+  xy: 390, 99
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx4
+  rotate: false
+  xy: 99, 311
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx6
+  rotate: false
+  xy: 2, 99
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+erqs_chimenutx8
+  rotate: false
+  xy: 99, 205
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1

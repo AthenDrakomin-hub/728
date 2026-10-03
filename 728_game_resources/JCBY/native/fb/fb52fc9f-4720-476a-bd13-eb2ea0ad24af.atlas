@@ -1,0 +1,48 @@
+
+shuimuhuangjinban.png
+size: 279,72
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuimuhuangjinban_idle_duzi
+  rotate: true
+  xy: 92, 32
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+shuimuhuangjinban_idle_tou
+  rotate: true
+  xy: 2, 8
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+shuimuhuangjinban_idle_tui1
+  rotate: true
+  xy: 235, 2
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+shuimuhuangjinban_idle_tui2
+  rotate: false
+  xy: 158, 5
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+shuimuhuangjinban_idle_tui3
+  rotate: false
+  xy: 92, 4
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+shuimuhuangjinban_idle_tui4
+  rotate: false
+  xy: 177, 32
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+lhd_tips.png
+size: 975,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lhd_tips_black
+  rotate: false
+  xy: 102, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lhd_tips_could1
+  rotate: false
+  xy: 687, 322
+  size: 286, 130
+  orig: 286, 130
+  offset: 0, 0
+  index: -1
+lhd_tips_could2
+  rotate: true
+  xy: 408, 132
+  size: 320, 119
+  orig: 320, 119
+  offset: 0, 0
+  index: -1
+lhd_tips_could3
+  rotate: false
+  xy: 408, 7
+  size: 319, 123
+  orig: 319, 123
+  offset: 0, 0
+  index: -1
+lhd_tips_could4
+  rotate: true
+  xy: 529, 136
+  size: 316, 156
+  orig: 316, 156
+  offset: 0, 0
+  index: -1
+lhd_tips_could5
+  rotate: true
+  xy: 866, 3
+  size: 200, 97
+  orig: 200, 97
+  offset: 0, 0
+  index: -1
+lhd_tips_could6
+  rotate: false
+  xy: 687, 205
+  size: 270, 115
+  orig: 270, 115
+  offset: 0, 0
+  index: -1
+lhd_tips_couldyy
+  rotate: true
+  xy: 729, 3
+  size: 200, 135
+  orig: 200, 135
+  offset: 0, 0
+  index: -1
+lhd_tips_text1
+  rotate: true
+  xy: 253, 72
+  size: 380, 153
+  orig: 380, 153
+  offset: 0, 0
+  index: -1
+lhd_tips_text2
+  rotate: true
+  xy: 102, 68
+  size: 384, 149
+  orig: 384, 149
+  offset: 0, 0
+  index: -1
+lhd_tips_text3
+  rotate: true
+  xy: 2, 4
+  size: 448, 98
+  orig: 448, 98
+  offset: 0, 0
+  index: -1

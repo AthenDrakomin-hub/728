@@ -1,0 +1,104 @@
+
+longwang.png
+size: 583,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longwang_idle_ruyi
+  rotate: true
+  xy: 449, 63
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+longwang_idle_shenti
+  rotate: true
+  xy: 2, 6
+  size: 116, 159
+  orig: 116, 159
+  offset: 0, 0
+  index: -1
+longwang_idle_tou
+  rotate: true
+  xy: 163, 9
+  size: 113, 177
+  orig: 113, 177
+  offset: 0, 0
+  index: -1
+longwang_idle_youjiao
+  rotate: false
+  xy: 381, 2
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+longwang_idle_youjiao2
+  rotate: false
+  xy: 342, 4
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+longwang_idle_youmeimao
+  rotate: false
+  xy: 569, 71
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+longwang_idle_youxiuzi
+  rotate: true
+  xy: 449, 5
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+longwang_idle_zhuzi1
+  rotate: false
+  xy: 531, 2
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+longwang_idle_zhuzi2
+  rotate: true
+  xy: 342, 19
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+longwang_idle_zuojiao
+  rotate: true
+  xy: 543, 67
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+longwang_idle_zuojiao2
+  rotate: false
+  xy: 381, 28
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+longwang_idle_zuomeimao
+  rotate: true
+  xy: 403, 17
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+longwang_idle_zuoshou
+  rotate: true
+  xy: 543, 88
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+longwang_idle_zuoxiuzi
+  rotate: true
+  xy: 342, 48
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1

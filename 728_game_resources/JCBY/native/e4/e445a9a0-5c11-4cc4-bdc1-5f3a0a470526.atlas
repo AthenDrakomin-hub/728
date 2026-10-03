@@ -1,0 +1,48 @@
+
+yijianshuangdiao.png
+size: 345,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yijianchibang_you
+  rotate: false
+  xy: 257, 2
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+yijianchibang_youfg
+  rotate: false
+  xy: 315, 44
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+yijianshuangdiao
+  rotate: false
+  xy: 2, 3
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+yijianshuangdiaofg
+  rotate: false
+  xy: 172, 7
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+yijianshuangdiaogq
+  rotate: false
+  xy: 172, 86
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+yijianshuangdiaowfg
+  rotate: false
+  xy: 257, 87
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

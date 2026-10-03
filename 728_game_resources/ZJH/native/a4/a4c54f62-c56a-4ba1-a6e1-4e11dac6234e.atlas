@@ -1,0 +1,41 @@
+
+hlssmxc_quickstart.png
+size: 220,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlssmxc_ksksdb
+  rotate: true
+  xy: 98, 97
+  size: 426, 94
+  orig: 426, 94
+  offset: 0, 0
+  index: -1
+hlssmxc_ksksdbfg
+  rotate: true
+  xy: 2, 96
+  size: 427, 94
+  orig: 427, 94
+  offset: 0, 0
+  index: -1
+hlssmxc_ksksdbfgd
+  rotate: false
+  xy: 2, 2
+  size: 209, 44
+  orig: 209, 44
+  offset: 0, 0
+  index: -1
+hlssmxc_ksksjt
+  rotate: false
+  xy: 194, 487
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+hlssmxc_kskstextzz
+  rotate: false
+  xy: 2, 48
+  size: 181, 46
+  orig: 181, 46
+  offset: 0, 0
+  index: -1

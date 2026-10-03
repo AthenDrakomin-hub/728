@@ -1,0 +1,83 @@
+
+erqs_failure.png
+size: 756,663
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_l_b
+  rotate: false
+  xy: 2, 280
+  size: 752, 381
+  orig: 752, 381
+  offset: 0, 0
+  index: -1
+erqs_l_dp
+  rotate: false
+  xy: 2, 2
+  size: 276, 276
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+erqs_l_dpgx
+  rotate: false
+  xy: 280, 21
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1
+erqs_l_q
+  rotate: false
+  xy: 368, 26
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+erqs_l_qq
+  rotate: false
+  xy: 412, 80
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+erqs_l_qr
+  rotate: false
+  xy: 565, 122
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+erqs_l_qy
+  rotate: false
+  xy: 635, 213
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+erqs_l_qy1
+  rotate: false
+  xy: 280, 2
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+erqs_l_qy2
+  rotate: true
+  xy: 609, 176
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+erqs_l_qy3
+  rotate: false
+  xy: 565, 210
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+erqs_l_zt
+  rotate: false
+  xy: 280, 114
+  size: 283, 164
+  orig: 283, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,91 @@
+var n;
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+var r_Config = require("Config");
+var _decorator = cc._decorator;
+var _ccclass = _decorator.ccclass;
+_decorator.property;
+var def_SLWH_Load = function (e) {
+  __extends(t, e);
+  function t() {
+    return null !== e && e.apply(this, arguments) || this;
+  }
+  t.prototype.onLoad = function () {
+    var e = this;
+    var t = r_Config.Config.GamePrefab[wGameData.gameID];
+    wRes.preloadDir(t.prefabUrl, t.enName);
+    wAudioMgr.stopBgMusic();
+    wAudioMgr.playBgMusic(wGameData.getGame().music, wGameData.getGameName());
+    this.scheduleOnce(function () {
+      var t = e.node.getChildByName("spine");
+      try {
+        t && wUIHelp.playSpine(t, "start", function () {
+          wUIHelp.playSpine(t, "idle", function () {
+            t.active = false;
+          }, false);
+        });
+      } catch (t) {}
+      wGEvent.on("Msg_" + wGameData.getGameName() + "_RoomInfo", function () {
+        e.node.runAction(cc.sequence(cc.delayTime(.1), cc.fadeOut(1), cc.callFunc(function () {
+          e.node.destroy();
+        })));
+      }, this);
+      var o = wGEvent.on("Msg_Hall_EnterRoom", function (t) {
+        e.Msg_Hall_EnterRoom(t);
+        wGEvent.off(o);
+        e.unscheduleAllCallbacks();
+        o = null;
+      }, this);
+      
+      // 5秒后检查是否有响应，如果没有则提示
+      var r = e.scheduleOnce(function () {
+        if (o) {
+          wLog.e("进入房间超时(5秒无响应)");
+          wGEvent.off(o);
+          e.unscheduleAllCallbacks();
+          o = null;
+          wGameData.roomID = null;
+          wGameData.isReconnect = false;
+          wUIManager.hideLoadingUI();
+        }
+      }, 5);
+      
+      if (!wNetWork.send("Msg_Hall_EnterRoom", {
+        tableid: 0,
+        gtype: Number(wGameData.gameID),
+        level: 5
+      })) {
+        wLog.e("发送进入房间消息失败");
+        if (o) {
+          wGEvent.off(o);
+          e.unscheduleAllCallbacks();
+          o = null;
+        }
+      }
+    }, .6);
+  };
+  t.prototype.loadGame = function () {
+    var e = r_Config.Config.GamePrefab[wGameData.gameID];
+    wRes.loadRes(e.prefabUrl, function () {}, function (e, t) {
+      if (e) {
+        wLog.e(e);
+      } else {
+        wViewMgr.openGame(t);
+      }
+    }, e.enName);
+  };
+  t.prototype.Msg_Hall_EnterRoom = function (e) {
+    if (1 == e.status) {
+      wGameData.roomID = e.data.rid;
+      this.loadGame();
+    } else {
+      wLog.e("进入房间消息失败");
+      wGameData.roomID = null;
+      wGameData.isReconnect = false;
+      wUIManager.hideLoadingUI();
+    }
+  };
+  return __decorate([_ccclass], t);
+}(cc.Component);
+exports.default = def_SLWH_Load;

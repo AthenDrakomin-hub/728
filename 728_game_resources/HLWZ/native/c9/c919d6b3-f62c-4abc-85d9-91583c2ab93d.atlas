@@ -1,0 +1,20 @@
+
+TwoPairs.png
+size: 306,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Image01
+  rotate: false
+  xy: 2, 56
+  size: 163, 91
+  orig: 163, 91
+  offset: 0, 0
+  index: -1
+Text
+  rotate: true
+  xy: 167, 2
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1

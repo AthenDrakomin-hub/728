@@ -1,0 +1,83 @@
+
+slwh_dancinggs.png
+size: 454,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slwh_dancinggs0
+  rotate: false
+  xy: 2, 232
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs10
+  rotate: false
+  xy: 2, 10
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs12
+  rotate: false
+  xy: 154, 84
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs14
+  rotate: true
+  xy: 306, 154
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs16
+  rotate: false
+  xy: 154, 10
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs18
+  rotate: true
+  xy: 306, 2
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs2
+  rotate: false
+  xy: 2, 158
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs20
+  rotate: true
+  xy: 380, 154
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs4
+  rotate: false
+  xy: 154, 232
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs6
+  rotate: false
+  xy: 2, 84
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+slwh_dancinggs8
+  rotate: false
+  xy: 154, 158
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1

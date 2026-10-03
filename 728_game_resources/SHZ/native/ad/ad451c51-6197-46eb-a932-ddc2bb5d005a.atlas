@@ -1,0 +1,167 @@
+
+shz_startmenu.png
+size: 495,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shz_startmenulg0
+  rotate: false
+  xy: 2, 3
+  size: 118, 41
+  orig: 122, 53
+  offset: 2, 9
+  index: -1
+shz_startmenulg10
+  rotate: false
+  xy: 245, 2
+  size: 118, 52
+  orig: 122, 53
+  offset: 2, 1
+  index: -1
+shz_startmenulg12
+  rotate: false
+  xy: 2, 211
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg14
+  rotate: false
+  xy: 126, 266
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg16
+  rotate: false
+  xy: 2, 156
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg18
+  rotate: false
+  xy: 125, 211
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg2
+  rotate: false
+  xy: 370, 61
+  size: 118, 48
+  orig: 122, 53
+  offset: 2, 3
+  index: -1
+shz_startmenulg20
+  rotate: false
+  xy: 249, 266
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg22
+  rotate: false
+  xy: 2, 101
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg24
+  rotate: false
+  xy: 125, 156
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg26
+  rotate: false
+  xy: 248, 211
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg28
+  rotate: false
+  xy: 372, 266
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg30
+  rotate: false
+  xy: 2, 46
+  size: 121, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg32
+  rotate: false
+  xy: 2, 266
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+shz_startmenulg34
+  rotate: false
+  xy: 125, 103
+  size: 120, 51
+  orig: 122, 53
+  offset: 2, 1
+  index: -1
+shz_startmenulg36
+  rotate: false
+  xy: 248, 158
+  size: 120, 51
+  orig: 122, 53
+  offset: 2, 1
+  index: -1
+shz_startmenulg38
+  rotate: false
+  xy: 371, 213
+  size: 120, 51
+  orig: 122, 53
+  offset: 2, 1
+  index: -1
+shz_startmenulg4
+  rotate: false
+  xy: 369, 9
+  size: 118, 50
+  orig: 122, 53
+  offset: 2, 2
+  index: -1
+shz_startmenulg40
+  rotate: false
+  xy: 248, 107
+  size: 120, 49
+  orig: 122, 53
+  offset: 2, 2
+  index: -1
+shz_startmenulg42
+  rotate: false
+  xy: 247, 56
+  size: 120, 49
+  orig: 122, 53
+  offset: 2, 2
+  index: -1
+shz_startmenulg44
+  rotate: false
+  xy: 371, 164
+  size: 120, 47
+  orig: 122, 53
+  offset: 2, 3
+  index: -1
+shz_startmenulg6
+  rotate: false
+  xy: 370, 111
+  size: 118, 51
+  orig: 122, 53
+  offset: 2, 1
+  index: -1
+shz_startmenulg8
+  rotate: false
+  xy: 125, 49
+  size: 118, 52
+  orig: 122, 53
+  offset: 2, 1
+  index: -1

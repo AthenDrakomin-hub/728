@@ -1,0 +1,153 @@
+
+jxlw_logoqdlg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_logoqddg
+  rotate: false
+  xy: 2, 389
+  size: 300, 50
+  orig: 300, 50
+  offset: 0, 0
+  index: -1
+jxlw_logoqddgs
+  rotate: false
+  xy: 2, 441
+  size: 300, 69
+  orig: 300, 69
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg0
+  rotate: false
+  xy: 304, 410
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg10
+  rotate: false
+  xy: 698, 410
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg12
+  rotate: false
+  xy: 2, 83
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg14
+  rotate: false
+  xy: 304, 308
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg16
+  rotate: false
+  xy: 501, 308
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg18
+  rotate: false
+  xy: 698, 308
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg2
+  rotate: false
+  xy: 2, 287
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg20
+  rotate: true
+  xy: 895, 315
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg22
+  rotate: false
+  xy: 301, 206
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg24
+  rotate: false
+  xy: 498, 206
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg26
+  rotate: false
+  xy: 695, 206
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg28
+  rotate: false
+  xy: 301, 104
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg30
+  rotate: false
+  xy: 199, 2
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg32
+  rotate: false
+  xy: 396, 2
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg34
+  rotate: false
+  xy: 498, 104
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg36
+  rotate: false
+  xy: 593, 2
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg4
+  rotate: false
+  xy: 501, 410
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg6
+  rotate: false
+  xy: 2, 185
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1
+jxlw_logoqdlg8
+  rotate: true
+  xy: 199, 192
+  size: 195, 100
+  orig: 195, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+jgff_wild.png
+size: 651,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jgff_wildds
+  rotate: false
+  xy: 2, 6
+  size: 259, 198
+  orig: 259, 198
+  offset: 0, 0
+  index: -1
+jgff_wildz
+  rotate: true
+  xy: 567, 46
+  size: 158, 82
+  orig: 158, 82
+  offset: 0, 0
+  index: -1
+jgff_wildzm
+  rotate: false
+  xy: 263, 104
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+jgff_wildzm1
+  rotate: true
+  xy: 465, 4
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+jgff_wildzm2
+  rotate: false
+  xy: 263, 2
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1

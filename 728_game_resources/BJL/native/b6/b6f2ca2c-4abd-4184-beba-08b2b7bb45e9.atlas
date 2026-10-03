@@ -1,0 +1,55 @@
+
+hlssm_xiazhutip.png
+size: 541,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hlssm_tips_bg
+  rotate: false
+  xy: 2, 107
+  size: 537, 156
+  orig: 537, 156
+  offset: 0, 0
+  index: -1
+hlssm_tips_ld
+  rotate: false
+  xy: 204, 3
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+hlssm_tips_zj
+  rotate: true
+  xy: 250, 15
+  size: 37, 54
+  orig: 40, 55
+  offset: 1, 1
+  index: -1
+hlssm_tiptext1
+  rotate: false
+  xy: 307, 3
+  size: 199, 50
+  orig: 199, 50
+  offset: 0, 0
+  index: -1
+hlssm_tiptext2
+  rotate: false
+  xy: 2, 2
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1
+hlssm_tiptext3
+  rotate: false
+  xy: 2, 54
+  size: 303, 51
+  orig: 303, 51
+  offset: 0, 0
+  index: -1
+hlssm_tiptext4
+  rotate: false
+  xy: 307, 55
+  size: 200, 50
+  orig: 200, 50
+  offset: 0, 0
+  index: -1

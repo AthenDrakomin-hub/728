@@ -1,0 +1,13 @@
+
+Fold.png
+size: 171,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fold
+  rotate: false
+  xy: 2, 2
+  size: 167, 92
+  orig: 167, 92
+  offset: 0, 0
+  index: -1

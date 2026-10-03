@@ -1,0 +1,41 @@
+
+jxlw_gameobjbaoxiang.png
+size: 232,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjbaoxiang1
+  rotate: false
+  xy: 2, 25
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+jxlw_gameobjbaoxiang2
+  rotate: false
+  xy: 2, 63
+  size: 124, 78
+  orig: 124, 78
+  offset: 0, 0
+  index: -1
+jxlw_gameobjbaoxiangfg
+  rotate: false
+  xy: 128, 68
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+jxlw_gameobjbaoxiangzz
+  rotate: true
+  xy: 196, 21
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 130, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

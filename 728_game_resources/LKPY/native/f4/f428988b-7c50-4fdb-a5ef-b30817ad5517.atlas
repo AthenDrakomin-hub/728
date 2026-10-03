@@ -1,0 +1,188 @@
+
+yuboomceffect.png
+size: 922,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_jinbi_0
+  rotate: false
+  xy: 654, 288
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fish_jinbi_1
+  rotate: false
+  xy: 703, 288
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fish_jinbi_2
+  rotate: false
+  xy: 752, 288
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fish_jinbi_3
+  rotate: false
+  xy: 496, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fish_jinbi_4
+  rotate: false
+  xy: 545, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fish_jinbi_5
+  rotate: false
+  xy: 796, 20
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+yuboomcbao_1
+  rotate: false
+  xy: 822, 396
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+yuboomcbao_2
+  rotate: false
+  xy: 822, 287
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+yuboomcbao_3
+  rotate: false
+  xy: 812, 178
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+yuboomcbao_4
+  rotate: false
+  xy: 812, 69
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+yuboomcbao_5
+  rotate: true
+  xy: 624, 19
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+yuboomcgc
+  rotate: false
+  xy: 496, 51
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+yuboomcgq
+  rotate: false
+  xy: 733, 54
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+yuboomclizi10
+  rotate: true
+  xy: 328, 179
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi11
+  rotate: false
+  xy: 486, 179
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi12
+  rotate: true
+  xy: 654, 119
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi13
+  rotate: false
+  xy: 160, 21
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi14
+  rotate: false
+  xy: 328, 21
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi2
+  rotate: false
+  xy: 2, 347
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi3
+  rotate: false
+  xy: 170, 347
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi4
+  rotate: false
+  xy: 338, 347
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi5
+  rotate: true
+  xy: 506, 337
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi6
+  rotate: true
+  xy: 664, 337
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi7
+  rotate: false
+  xy: 2, 189
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi8
+  rotate: true
+  xy: 170, 179
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+yuboomclizi9
+  rotate: true
+  xy: 2, 21
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1

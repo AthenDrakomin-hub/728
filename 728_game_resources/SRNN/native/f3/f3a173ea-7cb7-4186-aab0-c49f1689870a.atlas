@@ -1,0 +1,125 @@
+
+qidongjiazai.png
+size: 932,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qidongjiazai_hand
+  rotate: false
+  xy: 452, 264
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+qidongjiazai_juese
+  rotate: false
+  xy: 2, 6
+  size: 198, 251
+  orig: 198, 251
+  offset: 0, 0
+  index: -1
+qidongjiazai_sirenniuniu
+  rotate: false
+  xy: 2, 259
+  size: 448, 238
+  orig: 448, 238
+  offset: 0, 0
+  index: -1
+qidongjiazai_youerpuke
+  rotate: false
+  xy: 667, 163
+  size: 125, 160
+  orig: 125, 160
+  offset: 0, 0
+  index: -1
+qidongjiazai_youerpukebg
+  rotate: false
+  xy: 368, 66
+  size: 148, 191
+  orig: 148, 191
+  offset: 0, 0
+  index: -1
+qidongjiazai_youhou
+  rotate: false
+  xy: 798, 2
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+qidongjiazai_youqian
+  rotate: false
+  xy: 798, 69
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+qidongjiazai_youyipuke
+  rotate: false
+  xy: 794, 178
+  size: 131, 153
+  orig: 131, 153
+  offset: 0, 0
+  index: -1
+qidongjiazai_youyipukebg
+  rotate: false
+  xy: 452, 302
+  size: 165, 195
+  orig: 165, 195
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuoerpuke
+  rotate: false
+  xy: 792, 333
+  size: 128, 164
+  orig: 128, 164
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuoerpukebg
+  rotate: false
+  xy: 518, 109
+  size: 147, 191
+  orig: 147, 191
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuohou
+  rotate: true
+  xy: 865, 3
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuohou2
+  rotate: false
+  xy: 202, 12
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuoqian
+  rotate: true
+  xy: 518, 33
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuoyipuke
+  rotate: false
+  xy: 667, 8
+  size: 129, 153
+  orig: 129, 153
+  offset: 0, 0
+  index: -1
+qidongjiazai_zuoyipukebg
+  rotate: false
+  xy: 202, 62
+  size: 164, 195
+  orig: 164, 195
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 619, 325
+  size: 171, 172
+  orig: 171, 172
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,328 @@
+
+erqs_zimotext.png
+size: 2032,1573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erqs_zimotext3d0
+  rotate: true
+  xy: 626, 958
+  size: 206, 199
+  orig: 206, 199
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d10
+  rotate: true
+  xy: 1299, 369
+  size: 372, 248
+  orig: 372, 248
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d12
+  rotate: true
+  xy: 1903, 279
+  size: 179, 121
+  orig: 179, 121
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d14
+  rotate: true
+  xy: 1048, 361
+  size: 375, 249
+  orig: 375, 249
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d15
+  rotate: false
+  xy: 1554, 1317
+  size: 382, 254
+  orig: 382, 254
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d16
+  rotate: false
+  xy: 1554, 1065
+  size: 376, 250
+  orig: 376, 250
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d17
+  rotate: false
+  xy: 827, 942
+  size: 357, 235
+  orig: 357, 235
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d18
+  rotate: true
+  xy: 1551, 703
+  size: 205, 137
+  orig: 205, 137
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d19
+  rotate: false
+  xy: 1722, 579
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d2
+  rotate: true
+  xy: 1722, 714
+  size: 184, 257
+  orig: 184, 257
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d21
+  rotate: true
+  xy: 1684, 379
+  size: 198, 131
+  orig: 198, 131
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d23
+  rotate: true
+  xy: 1048, 738
+  size: 202, 134
+  orig: 202, 134
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d29
+  rotate: true
+  xy: 1549, 377
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d4
+  rotate: false
+  xy: 511, 353
+  size: 535, 583
+  orig: 535, 583
+  offset: 0, 0
+  index: -1
+erqs_zimotext3d6
+  rotate: false
+  xy: 2, 938
+  size: 622, 633
+  orig: 622, 635
+  offset: 0, 2
+  index: -1
+erqs_zimotext3d8
+  rotate: true
+  xy: 2, 328
+  size: 608, 507
+  orig: 608, 507
+  offset: 0, 0
+  index: -1
+erqs_zimotextfire10
+  rotate: true
+  xy: 2, 5
+  size: 321, 178
+  orig: 408, 192
+  offset: 30, 3
+  index: -1
+erqs_zimotextfire12
+  rotate: true
+  xy: 1722, 25
+  size: 352, 179
+  orig: 408, 192
+  offset: 17, 3
+  index: -1
+erqs_zimotextfire14
+  rotate: true
+  xy: 1361, 812
+  size: 371, 188
+  orig: 408, 192
+  offset: 13, 0
+  index: -1
+erqs_zimotextfire16
+  rotate: true
+  xy: 997, 1180
+  size: 391, 185
+  orig: 408, 192
+  offset: 7, 2
+  index: -1
+erqs_zimotextfire18
+  rotate: true
+  xy: 626, 1166
+  size: 405, 183
+  orig: 408, 192
+  offset: 2, 5
+  index: -1
+erqs_zimotextfire20
+  rotate: true
+  xy: 811, 1179
+  size: 392, 184
+  orig: 408, 192
+  offset: 13, 5
+  index: -1
+erqs_zimotextfire22
+  rotate: true
+  xy: 182, 12
+  size: 314, 179
+  orig: 408, 192
+  offset: 47, 12
+  index: -1
+erqs_zimotextfire6
+  rotate: false
+  xy: 1722, 900
+  size: 271, 163
+  orig: 408, 192
+  offset: 47, 6
+  index: -1
+erqs_zimotextfire8
+  rotate: true
+  xy: 1186, 888
+  size: 295, 173
+  orig: 408, 192
+  offset: 39, 3
+  index: -1
+erqs_zimotextksg2
+  rotate: false
+  xy: 1551, 910
+  size: 166, 153
+  orig: 259, 225
+  offset: 40, 37
+  index: -1
+erqs_zimotextlg10
+  rotate: false
+  xy: 1932, 1213
+  size: 98, 65
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+erqs_zimotextlg12
+  rotate: true
+  xy: 1938, 1335
+  size: 98, 69
+  orig: 102, 69
+  offset: 4, 0
+  index: -1
+erqs_zimotextlg14
+  rotate: false
+  xy: 1938, 1502
+  size: 83, 69
+  orig: 102, 69
+  offset: 19, 0
+  index: -1
+erqs_zimotextlg16
+  rotate: true
+  xy: 1938, 1280
+  size: 53, 69
+  orig: 102, 69
+  offset: 49, 0
+  index: -1
+erqs_zimotextlg18
+  rotate: false
+  xy: 1298, 743
+  size: 48, 67
+  orig: 102, 69
+  offset: 54, 2
+  index: -1
+erqs_zimotextlg20
+  rotate: true
+  xy: 1184, 741
+  size: 36, 62
+  orig: 102, 69
+  offset: 66, 7
+  index: -1
+erqs_zimotextlg22
+  rotate: true
+  xy: 1248, 753
+  size: 24, 48
+  orig: 102, 69
+  offset: 77, 21
+  index: -1
+erqs_zimotextlg24
+  rotate: false
+  xy: 363, 2
+  size: 13, 23
+  orig: 102, 69
+  offset: 83, 43
+  index: -1
+erqs_zimotextlg4
+  rotate: false
+  xy: 1348, 763
+  size: 31, 47
+  orig: 102, 69
+  offset: 0, 3
+  index: -1
+erqs_zimotextlg6
+  rotate: false
+  xy: 1299, 822
+  size: 57, 64
+  orig: 102, 69
+  offset: 0, 1
+  index: -1
+erqs_zimotextlg8
+  rotate: false
+  xy: 1938, 1435
+  size: 77, 65
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+erqs_zimotextxiqi10
+  rotate: true
+  xy: 1361, 7
+  size: 360, 359
+  orig: 399, 368
+  offset: 7, 8
+  index: -1
+erqs_zimotextxiqi12
+  rotate: false
+  xy: 363, 27
+  size: 326, 299
+  orig: 399, 368
+  offset: 31, 63
+  index: -1
+erqs_zimotextxiqi2
+  rotate: true
+  xy: 1184, 1185
+  size: 386, 368
+  orig: 399, 368
+  offset: 5, 0
+  index: -1
+erqs_zimotextxiqi6
+  rotate: false
+  xy: 986, 11
+  size: 373, 340
+  orig: 399, 368
+  offset: 12, 8
+  index: -1
+erqs_zimotextxiqi8
+  rotate: true
+  xy: 691, 6
+  size: 345, 293
+  orig: 399, 368
+  offset: 26, 35
+  index: -1
+erqs_zimotextyq10
+  rotate: true
+  xy: 1903, 460
+  size: 117, 123
+  orig: 128, 138
+  offset: 1, 8
+  index: -1
+erqs_zimotextyq12
+  rotate: false
+  xy: 1903, 144
+  size: 121, 133
+  orig: 128, 138
+  offset: 0, 2
+  index: -1
+erqs_zimotextyq14
+  rotate: false
+  xy: 1549, 579
+  size: 123, 122
+  orig: 128, 138
+  offset: 1, 16
+  index: -1
+erqs_zimotextyq8
+  rotate: false
+  xy: 1184, 779
+  size: 112, 107
+  orig: 128, 138
+  offset: 4, 19
+  index: -1

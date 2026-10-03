@@ -1,0 +1,13 @@
+
+dfdc_ptjl.png
+size: 905,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dfdc_ptjl_db
+  rotate: false
+  xy: 2, 2
+  size: 901, 266
+  orig: 901, 266
+  offset: 0, 0
+  index: -1

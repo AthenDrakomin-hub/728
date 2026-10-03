@@ -1,0 +1,48 @@
+
+HighCard.png
+size: 338,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Image01
+  rotate: true
+  xy: 269, 5
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+Image02
+  rotate: true
+  xy: 182, 6
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: -1
+Image03
+  rotate: false
+  xy: 269, 41
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Image04
+  rotate: false
+  xy: 307, 58
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Text01
+  rotate: true
+  xy: 2, 2
+  size: 83, 90
+  orig: 83, 90
+  offset: 0, 0
+  index: -1
+Text02
+  rotate: true
+  xy: 94, 2
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+fcs_zbs_ditu_4_guess_41.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jgff_fcs
+  rotate: false
+  xy: 2, 417
+  size: 101, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+jgff_fcsfx0
+  rotate: false
+  xy: 2, 334
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx10
+  rotate: false
+  xy: 309, 421
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx12
+  rotate: false
+  xy: 2, 85
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx14
+  rotate: false
+  xy: 2, 2
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx16
+  rotate: true
+  xy: 411, 402
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx18
+  rotate: false
+  xy: 105, 338
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx2
+  rotate: false
+  xy: 105, 421
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx20
+  rotate: false
+  xy: 207, 338
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx22
+  rotate: false
+  xy: 309, 338
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx24
+  rotate: false
+  xy: 104, 255
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx26
+  rotate: false
+  xy: 104, 172
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx28
+  rotate: false
+  xy: 206, 255
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx30
+  rotate: false
+  xy: 104, 89
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx32
+  rotate: false
+  xy: 206, 172
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx34
+  rotate: false
+  xy: 308, 255
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx4
+  rotate: false
+  xy: 2, 251
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx6
+  rotate: false
+  xy: 207, 421
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+jgff_fcsfx8
+  rotate: false
+  xy: 2, 168
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1

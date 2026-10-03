@@ -1,0 +1,125 @@
+
+qznnb_niu4.png
+size: 301,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jb
+  rotate: false
+  xy: 193, 82
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+jb1
+  rotate: true
+  xy: 248, 465
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+jb2
+  rotate: true
+  xy: 262, 106
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+mtz
+  rotate: false
+  xy: 2, 374
+  size: 244, 149
+  orig: 244, 149
+  offset: 0, 0
+  index: -1
+nn_js4_body
+  rotate: false
+  xy: 2, 8
+  size: 107, 148
+  orig: 107, 148
+  offset: 0, 0
+  index: -1
+nn_js4_jianbing
+  rotate: true
+  xy: 248, 410
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+nn_js4_jianwei
+  rotate: false
+  xy: 164, 222
+  size: 135, 74
+  orig: 135, 74
+  offset: 0, 0
+  index: -1
+nn_js4_niutou
+  rotate: false
+  xy: 2, 158
+  size: 160, 138
+  orig: 160, 138
+  offset: 0, 0
+  index: -1
+nn_js4_toufa
+  rotate: true
+  xy: 262, 57
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+nn_js4_youpaozi
+  rotate: true
+  xy: 164, 163
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+nn_js4_youshoubi
+  rotate: true
+  xy: 248, 369
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+nn_js4_yuoer
+  rotate: false
+  xy: 239, 301
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+nn_js4_zoupaozi
+  rotate: false
+  xy: 111, 69
+  size: 80, 87
+  orig: 80, 87
+  offset: 0, 0
+  index: -1
+nn_js4_zuoer
+  rotate: false
+  xy: 239, 328
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+nn_js4_zuojianbang
+  rotate: false
+  xy: 111, 11
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+nn_js4_zuoshou
+  rotate: false
+  xy: 193, 2
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+xxp
+  rotate: false
+  xy: 2, 298
+  size: 235, 74
+  orig: 235, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+jxlw_gameobjboluo.png
+size: 233,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jxlw_gameobjboluo
+  rotate: false
+  xy: 2, 2
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+jxlw_gameobjboluofg
+  rotate: false
+  xy: 88, 15
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+jxlw_gameobjboluoye
+  rotate: true
+  xy: 162, 14
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1

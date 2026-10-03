@@ -1,0 +1,279 @@
+
+mjhj_czshop.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hqb2_dt_cztextlg0
+  rotate: false
+  xy: 2, 22
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg1
+  rotate: false
+  xy: 176, 104
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg10
+  rotate: false
+  xy: 280, 56
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg11
+  rotate: false
+  xy: 332, 80
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg12
+  rotate: false
+  xy: 384, 104
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg13
+  rotate: false
+  xy: 332, 56
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg14
+  rotate: false
+  xy: 384, 80
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg15
+  rotate: false
+  xy: 436, 104
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg16
+  rotate: true
+  xy: 488, 76
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg17
+  rotate: false
+  xy: 436, 80
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg18
+  rotate: false
+  xy: 384, 56
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg19
+  rotate: false
+  xy: 436, 56
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg2
+  rotate: false
+  xy: 176, 80
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg20
+  rotate: true
+  xy: 488, 24
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg21
+  rotate: false
+  xy: 88, 30
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg22
+  rotate: true
+  xy: 140, 2
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg23
+  rotate: true
+  xy: 164, 2
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg24
+  rotate: false
+  xy: 188, 32
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg25
+  rotate: false
+  xy: 188, 8
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg26
+  rotate: false
+  xy: 240, 32
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg27
+  rotate: false
+  xy: 240, 8
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg28
+  rotate: false
+  xy: 292, 32
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg29
+  rotate: false
+  xy: 292, 8
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg3
+  rotate: false
+  xy: 228, 104
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg30
+  rotate: false
+  xy: 344, 32
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg31
+  rotate: false
+  xy: 344, 8
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg32
+  rotate: false
+  xy: 396, 32
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg33
+  rotate: false
+  xy: 396, 8
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg34
+  rotate: true
+  xy: 448, 4
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg35
+  rotate: false
+  xy: 85, 6
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg4
+  rotate: false
+  xy: 176, 56
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg5
+  rotate: false
+  xy: 228, 80
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg6
+  rotate: false
+  xy: 280, 104
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg7
+  rotate: false
+  xy: 228, 56
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg8
+  rotate: false
+  xy: 280, 80
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+hqb2_dt_cztextlg9
+  rotate: false
+  xy: 332, 104
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+mjhj_rk_czchoptext
+  rotate: false
+  xy: 88, 54
+  size: 86, 72
+  orig: 86, 72
+  offset: 0, 0
+  index: -1
+mjhj_rk_czshopche
+  rotate: false
+  xy: 2, 46
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+mjhj_rk_cztxx
+  rotate: false
+  xy: 54, 15
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

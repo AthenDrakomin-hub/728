@@ -1,0 +1,258 @@
+
+ysz_xuanchang.png
+size: 956,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ysz_xuanchanglg0
+  rotate: false
+  xy: 2, 250
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg1
+  rotate: false
+  xy: 161, 312
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg10
+  rotate: false
+  xy: 2, 64
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg11
+  rotate: false
+  xy: 161, 126
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg12
+  rotate: false
+  xy: 320, 188
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg13
+  rotate: false
+  xy: 479, 250
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg14
+  rotate: false
+  xy: 638, 312
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg15
+  rotate: false
+  xy: 797, 312
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg16
+  rotate: false
+  xy: 2, 2
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg17
+  rotate: false
+  xy: 161, 64
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg18
+  rotate: false
+  xy: 320, 126
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg19
+  rotate: false
+  xy: 479, 188
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg2
+  rotate: false
+  xy: 2, 188
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg20
+  rotate: false
+  xy: 638, 250
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg21
+  rotate: false
+  xy: 797, 250
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg22
+  rotate: false
+  xy: 161, 2
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg23
+  rotate: false
+  xy: 320, 64
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg24
+  rotate: false
+  xy: 479, 126
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg25
+  rotate: false
+  xy: 638, 188
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg26
+  rotate: false
+  xy: 797, 188
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg27
+  rotate: false
+  xy: 320, 2
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg28
+  rotate: false
+  xy: 479, 64
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg29
+  rotate: false
+  xy: 638, 126
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg3
+  rotate: false
+  xy: 161, 250
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg30
+  rotate: false
+  xy: 797, 126
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg31
+  rotate: false
+  xy: 479, 2
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg32
+  rotate: false
+  xy: 638, 64
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg33
+  rotate: false
+  xy: 797, 64
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg34
+  rotate: false
+  xy: 638, 2
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg35
+  rotate: false
+  xy: 797, 2
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg4
+  rotate: false
+  xy: 320, 312
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg5
+  rotate: false
+  xy: 2, 126
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg6
+  rotate: false
+  xy: 161, 188
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg7
+  rotate: false
+  xy: 320, 250
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg8
+  rotate: false
+  xy: 479, 312
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1
+ysz_xuanchanglg9
+  rotate: false
+  xy: 2, 312
+  size: 157, 60
+  orig: 157, 60
+  offset: 0, 0
+  index: -1

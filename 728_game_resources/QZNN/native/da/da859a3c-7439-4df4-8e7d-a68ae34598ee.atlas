@@ -1,0 +1,132 @@
+
+qznnb_logo.png
+size: 877,658
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tbnn_logodiban
+  rotate: true
+  xy: 2, 162
+  size: 494, 239
+  orig: 494, 239
+  offset: 0, 0
+  index: -1
+tbnn_logotext
+  rotate: false
+  xy: 2, 2
+  size: 428, 158
+  orig: 428, 158
+  offset: 0, 0
+  index: -1
+tbnn_nn
+  rotate: true
+  xy: 432, 467
+  size: 189, 275
+  orig: 189, 275
+  offset: 0, 0
+  index: -1
+tbnn_sunshine2
+  rotate: false
+  xy: 426, 334
+  size: 245, 131
+  orig: 245, 131
+  offset: 0, 0
+  index: -1
+tbnn_xingdian2
+  rotate: false
+  xy: 618, 2
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+tbnn_ypuke1
+  rotate: true
+  xy: 243, 322
+  size: 126, 161
+  orig: 126, 161
+  offset: 0, 0
+  index: -1
+tbnn_ypuke2
+  rotate: false
+  xy: 243, 164
+  size: 132, 155
+  orig: 132, 155
+  offset: 0, 0
+  index: -1
+tbnn_ysnb
+  rotate: false
+  xy: 432, 17
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+tbnn_ysnb2
+  rotate: false
+  xy: 674, 9
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+tbnn_yxnb
+  rotate: true
+  xy: 508, 14
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+tbnn_zpuke1
+  rotate: true
+  xy: 709, 526
+  size: 130, 166
+  orig: 130, 166
+  offset: 0, 0
+  index: -1
+tbnn_zpuke1diban
+  rotate: false
+  xy: 709, 321
+  size: 164, 203
+  orig: 164, 203
+  offset: 0, 0
+  index: -1
+tbnn_zpuke2
+  rotate: false
+  xy: 377, 164
+  size: 131, 155
+  orig: 131, 155
+  offset: 0, 0
+  index: -1
+tbnn_zpuke2diban
+  rotate: false
+  xy: 510, 126
+  size: 180, 206
+  orig: 180, 206
+  offset: 0, 0
+  index: -1
+tbnn_zpuke3diban
+  rotate: false
+  xy: 692, 117
+  size: 164, 202
+  orig: 164, 202
+  offset: 0, 0
+  index: -1
+tbnn_zpuke4diban
+  rotate: false
+  xy: 243, 450
+  size: 181, 206
+  orig: 181, 206
+  offset: 0, 0
+  index: -1
+tbnn_zsnb
+  rotate: true
+  xy: 618, 60
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+tbnn_zxnb
+  rotate: false
+  xy: 432, 84
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1

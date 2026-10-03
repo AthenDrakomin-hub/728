@@ -1,0 +1,132 @@
+
+ernn_js4.png
+size: 668,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ernn_js4_lian
+  rotate: true
+  xy: 2, 2
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+ernn_js4_maozi
+  rotate: false
+  xy: 147, 11
+  size: 143, 96
+  orig: 143, 96
+  offset: 0, 0
+  index: -1
+ernn_js4_maozi houmian
+  rotate: false
+  xy: 384, 273
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+ernn_js4_shenti
+  rotate: true
+  xy: 384, 327
+  size: 200, 282
+  orig: 200, 282
+  offset: 0, 0
+  index: -1
+ernn_js4_weijin
+  rotate: false
+  xy: 526, 97
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+ernn_js4_weijin houmian
+  rotate: true
+  xy: 487, 266
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+ernn_js4_xingxing
+  rotate: true
+  xy: 520, 11
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+ernn_js4_yanpi
+  rotate: true
+  xy: 315, 53
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+ernn_js4_yaodai
+  rotate: true
+  xy: 104, 3
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+ernn_js4_you toufa
+  rotate: true
+  xy: 147, 109
+  size: 45, 196
+  orig: 45, 196
+  offset: 0, 0
+  index: -1
+ernn_js4_you toufa houmian
+  rotate: false
+  xy: 147, 263
+  size: 235, 264
+  orig: 235, 264
+  offset: 0, 0
+  index: -1
+ernn_js4_you toufa zuobian
+  rotate: false
+  xy: 292, 9
+  size: 21, 98
+  orig: 21, 98
+  offset: 0, 0
+  index: -1
+ernn_js4_you toufa1
+  rotate: false
+  xy: 591, 101
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+ernn_js4_youshou bi
+  rotate: true
+  xy: 345, 46
+  size: 108, 173
+  orig: 108, 173
+  offset: 0, 0
+  index: -1
+ernn_js4_youshou zhang
+  rotate: false
+  xy: 520, 57
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+ernn_js4_youtui
+  rotate: false
+  xy: 2, 86
+  size: 143, 441
+  orig: 143, 441
+  offset: 0, 0
+  index: -1
+ernn_js4_zuoshou
+  rotate: false
+  xy: 526, 162
+  size: 126, 163
+  orig: 126, 163
+  offset: 0, 0
+  index: -1
+ernn_js4_zuotui
+  rotate: true
+  xy: 147, 156
+  size: 105, 377
+  orig: 105, 377
+  offset: 0, 0
+  index: -1

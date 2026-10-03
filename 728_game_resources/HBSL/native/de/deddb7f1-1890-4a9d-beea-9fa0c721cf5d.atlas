@@ -1,0 +1,97 @@
+
+slhb_hbcfktips.png
+size: 386,385
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slhb_fhbcgx0
+  rotate: false
+  xy: 2, 110
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx1
+  rotate: false
+  xy: 97, 331
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx10
+  rotate: false
+  xy: 183, 7
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx11
+  rotate: false
+  xy: 2, 2
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx2
+  rotate: false
+  xy: 97, 277
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx3
+  rotate: false
+  xy: 97, 223
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx4
+  rotate: false
+  xy: 97, 169
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx5
+  rotate: false
+  xy: 183, 115
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx6
+  rotate: true
+  xy: 278, 204
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx7
+  rotate: true
+  xy: 332, 204
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx8
+  rotate: false
+  xy: 183, 61
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbcgx9
+  rotate: false
+  xy: 2, 56
+  size: 179, 52
+  orig: 179, 52
+  offset: 0, 0
+  index: -1
+slhb_fhbkk_0
+  rotate: true
+  xy: 2, 164
+  size: 219, 93
+  orig: 219, 93
+  offset: 0, 0
+  index: -1

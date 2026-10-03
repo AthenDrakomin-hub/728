@@ -1,0 +1,19 @@
+{
+  "name": "728-platform-server",
+  "version": "1.0.0",
+  "description": "728棋牌平台 - 信用分代理制后端服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "init-db": "node src/db/init.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "express": "^4.21.0",
+    "socket.io": "^4.7.0",
+    "uuid": "^10.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "bcryptjs": "^2.4.3"
+  }
+}

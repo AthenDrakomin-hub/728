@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-10-03",
+  "games": {
+    "WZMJ": { "name": "温州麻将", "category": "mahjong", "maxSeats": 4, "baseScore": 10, "totalRounds": 8, "enabled": true },
+    "MJHJ": { "name": "麻将胡了", "category": "mahjong", "maxSeats": 4, "baseScore": 5, "totalRounds": 4, "enabled": true },
+    "HLWZ": { "name": "红中五子", "category": "mahjong", "maxSeats": 4, "baseScore": 10, "totalRounds": 8, "enabled": true },
+    "BRNN": { "name": "百人牛牛", "category": "niuniu", "maxSeats": 5, "baseBet": 10, "enabled": true },
+    "ERNN": { "name": "二人牛牛", "category": "niuniu", "maxSeats": 2, "baseBet": 10, "enabled": true },
+    "QZNN": { "name": "抢庄牛牛", "category": "niuniu", "maxSeats": 5, "baseBet": 10, "allowQiangZhuang": true, "enabled": true },
+    "SRNN": { "name": "四人牛牛", "category": "niuniu", "maxSeats": 4, "baseBet": 10, "enabled": true },
+    "TBNN": { "name": "通比牛牛", "category": "niuniu", "maxSeats": 5, "baseBet": 10, "enabled": true },
+    "ZJH": { "name": "炸金花", "category": "poker", "maxSeats": 5, "baseBet": 5, "enabled": true },
+    "SHZ": { "name": "三张牌", "category": "poker", "maxSeats": 5, "baseBet": 5, "enabled": true },
+    "DZPK": { "name": "德州扑克", "category": "poker", "maxSeats": 6, "baseBet": 10, "enabled": true },
+    "SDB": { "name": "三公", "category": "poker", "maxSeats": 5, "baseBet": 10, "enabled": true },
+    "ERQS": { "name": "二人抢庄", "category": "poker", "maxSeats": 2, "baseBet": 10, "enabled": true },
+    "BJL": { "name": "百家乐", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 20, "enabled": true },
+    "LHD": { "name": "龙虎斗", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 15, "enabled": true },
+    "BCBM": { "name": "奔驰宝马", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 20, "enabled": true },
+    "FQZS": { "name": "飞禽走兽", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 20, "enabled": true },
+    "JXLW": { "name": "金鲨银鲨", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 20, "enabled": true },
+    "DNTG": { "name": "大闹天宫", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 20, "enabled": true },
+    "DFDC": { "name": "东方明珠", "category": "arcade", "minBet": 10, "maxBet": 10000, "betDuration": 20, "enabled": true },
+    "HBSL": { "name": "红包扫雷", "category": "arcade", "minBet": 10, "maxBet": 5000, "betDuration": 15, "enabled": true }
+  },
+  "global": {
+    "defaultGold": 100000,
+    "benefitAmount": 5000,
+    "benefitCooldown": 3600,
+    "wsHeartbeatInterval": 20000,
+    "roomIdleTimeout": 1800
+  }
+}

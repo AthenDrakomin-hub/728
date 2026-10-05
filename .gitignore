@@ -84,3 +84,11 @@ reference/
 *.7z
 python*/
 tools/excel2ts/python*
+
+# 728原始素材（独立管理，不进git）
+assets-728/
+728_original/client/cocos-project/assets/resources/728-games/
+
+# 临时测试脚本
+*.cjs
+test-output.txt

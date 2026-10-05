@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { adminUsers, users, rooms, gameConfigs } from "../db/schema.js";
+import { adminUsers, users, rooms, gameConfigs, chipTransactions } from "../db/schema.js";
 import { verifyPassword, hashPassword } from "../lib/auth.js";
 import { sendLegacy } from "../middleware/legacyResponse.js";
 
@@ -134,6 +134,69 @@ router.post("/games/config", async (req, res) => {
     gameConfigs.update({ enabled: !!enabled, maintenance: !!maintenance })
       .where((c) => c.id === Number(id));
     return sendLegacy(res, { ok: true });
+  } catch (err: any) {
+    return sendLegacy(res, {}, 50000, err.message);
+  }
+});
+
+// GET /terrace/rooms — 房间列表
+router.get("/rooms", async (req, res) => {
+  try {
+    const page = Number(req.query.page) || 1;
+    const pageSize = Number(req.query.pageSize) || 50;
+    const all = rooms.all();
+    const start = (page - 1) * pageSize;
+    const list = all.slice(start, start + pageSize).map((r) => ({
+      id: r.id, roomNo: r.roomNo, gameType: r.gameType, status: r.status,
+      currentRound: r.currentRound, totalRounds: r.totalRounds, maxSeats: r.maxSeats,
+      agentId: r.agentId, totalFlow: r.totalFlow, createdAt: r.createdAt,
+    }));
+    return sendLegacy(res, { list, total: all.length, page, pageSize });
+  } catch (err: any) {
+    return sendLegacy(res, {}, 50000, err.message);
+  }
+});
+
+// POST /terrace/rooms/dismiss — 解散房间
+router.post("/rooms/dismiss", async (req, res) => {
+  try {
+    const { id } = req.body || {};
+    rooms.delete().where((r) => r.id === Number(id));
+    return sendLegacy(res, { ok: true });
+  } catch (err: any) {
+    return sendLegacy(res, {}, 50000, err.message);
+  }
+});
+
+// GET /terrace/gold/transactions — 金币流水
+router.get("/gold/transactions", async (req, res) => {
+  try {
+    const userId = Number(req.query.userId) || 0;
+    const page = Number(req.query.page) || 1;
+    const pageSize = Number(req.query.pageSize) || 50;
+    let all = chipTransactions.all();
+    if (userId) all = all.filter((t) => t.userId === userId);
+    all = all.sort((a, b) => (b.createdAt || 0) - (a.createdAt || 0));
+    const start = (page - 1) * pageSize;
+    const list = all.slice(start, start + pageSize);
+    return sendLegacy(res, { list, total: all.length, page, pageSize });
+  } catch (err: any) {
+    return sendLegacy(res, {}, 50000, err.message);
+  }
+});
+
+// GET /terrace/monitor — 服务器监控
+router.get("/monitor", async (_req, res) => {
+  try {
+    const mem = process.memoryUsage();
+    return sendLegacy(res, {
+      uptime: Math.floor(process.uptime()),
+      memory: { rss: Math.round(mem.rss / 1024 / 1024), heapUsed: Math.round(mem.heapUsed / 1024 / 1024) },
+      totalUsers: users.count(),
+      totalRooms: rooms.count(),
+      activeRooms: rooms.countWhere((r) => r.status === 1),
+      timestamp: Date.now(),
+    });
   } catch (err: any) {
     return sendLegacy(res, {}, 50000, err.message);
   }

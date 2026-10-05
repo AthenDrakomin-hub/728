@@ -1,0 +1,2302 @@
+{
+  "1": [
+    {
+      "uuid": "727fcf56-3065-4c08-a87f-46524c6d607b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\72\\727fcf56-3065-4c08-a87f-46524c6d607b.json"
+    }
+  ],
+  "2": [
+    {
+      "uuid": "fa340ceb-aa41-444e-a104-b955178bec4f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fa\\fa340ceb-aa41-444e-a104-b955178bec4f.json"
+    }
+  ],
+  "3": [
+    {
+      "uuid": "41a52da5-398c-4a14-9c1f-38382db8dd3a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\41\\41a52da5-398c-4a14-9c1f-38382db8dd3a.json"
+    }
+  ],
+  "4": [
+    {
+      "uuid": "f958ae4c-cdee-4939-a238-e4def971b853",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f9\\f958ae4c-cdee-4939-a238-e4def971b853.json"
+    }
+  ],
+  "5": [
+    {
+      "uuid": "f156637c-b49d-4932-813d-550e304d841a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f1\\f156637c-b49d-4932-813d-550e304d841a.json"
+    }
+  ],
+  "10": [
+    {
+      "uuid": "7e83fac3-8e3e-4a9f-9c10-4d4d97ea8ffe",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7e\\7e83fac3-8e3e-4a9f-9c10-4d4d97ea8ffe.json"
+    }
+  ],
+  "100": [
+    {
+      "uuid": "0831d801-7da2-4a8d-b0e8-dbc94c7da06a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\08\\0831d801-7da2-4a8d-b0e8-dbc94c7da06a.json"
+    }
+  ],
+  "500": [
+    {
+      "uuid": "87eb04b6-fc75-40f8-ab45-064fcfcc214e",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\87\\87eb04b6-fc75-40f8-ab45-064fcfcc214e.json"
+    }
+  ],
+  "1000": [
+    {
+      "uuid": "d8a56067-b414-44d4-adbf-6bcc343e84c3",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d8\\d8a56067-b414-44d4-adbf-6bcc343e84c3.json"
+    }
+  ],
+  "plist_puke_color_xl_big_0": [
+    {
+      "uuid": "002eaef0-562d-4d0a-a8cd-08ef2e1e1058",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\00\\002eaef0-562d-4d0a-a8cd-08ef2e1e1058.json"
+    }
+  ],
+  "hlssm_battle_xt_gray": [
+    {
+      "uuid": "01391384-aa53-4bbf-8719-a8b044f3f681",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\01\\01391384-aa53-4bbf-8719-a8b044f3f681.json"
+    }
+  ],
+  "plist_puke_value_0_11": [
+    {
+      "uuid": "014dbbef-5033-4ac8-a1a2-20268888ce7c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\01\\014dbbef-5033-4ac8-a1a2-20268888ce7c.json"
+    }
+  ],
+  "Brnn_openCard_11": [
+    {
+      "uuid": "01ac4fbb-06c4-42f6-8da6-8e27e6b337b1",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\01\\01ac4fbb-06c4-42f6-8da6-8e27e6b337b1.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt5": [
+    {
+      "uuid": "024b3682-60f8-436c-8902-d58ccaca3fa0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\02\\024b3682-60f8-436c-8902-d58ccaca3fa0.json"
+    }
+  ],
+  "Hlssm_Setting_bt1": [
+    {
+      "uuid": "03f8ca14-1188-45f0-9d1f-4beeff92c384",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\03\\03f8ca14-1188-45f0-9d1f-4beeff92c384.json"
+    }
+  ],
+  "plist_puke_color_xl_big_1": [
+    {
+      "uuid": "04051d71-c613-4ef4-88df-e2571bbf11ce",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\04\\04051d71-c613-4ef4-88df-e2571bbf11ce.json"
+    }
+  ],
+  "plist_puke_color_small_2": [
+    {
+      "uuid": "053f3003-6005-45b1-b5bb-4da648cb0bc0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\05\\053f3003-6005-45b1-b5bb-4da648cb0bc0.json"
+    }
+  ],
+  "Brnn_openCard_10": [
+    {
+      "uuid": "06b5107d-0ed7-4e8d-a8c0-2faca988e6db",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\06\\06b5107d-0ed7-4e8d-a8c0-2faca988e6db.json"
+    }
+  ],
+  "Hlssm_Bank_bt1": [
+    {
+      "uuid": "079a55ae-f27f-443c-8c65-2e57a4cd62e9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\07\\079a55ae-f27f-443c-8c65-2e57a4cd62e9.json"
+    }
+  ],
+  "plist_puke_value_0_6": [
+    {
+      "uuid": "0807f066-d948-4628-9737-74eedb672365",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\08\\0807f066-d948-4628-9737-74eedb672365.json"
+    }
+  ],
+  "plist_puke_joker_big_0": [
+    {
+      "uuid": "08dd477d-d182-4466-82b9-9107f76bf8bf",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\08\\08dd477d-d182-4466-82b9-9107f76bf8bf.json"
+    }
+  ],
+  "plist_puke_value_xl_0_4": [
+    {
+      "uuid": "095ae603-231c-4372-9c03-4d61bd459d7c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\09\\095ae603-231c-4372-9c03-4d61bd459d7c.json"
+    }
+  ],
+  "win20006": [
+    {
+      "uuid": "0b8b55d3-a729-44c0-af59-1aa046ea9682",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\0b\\0b8b55d3-a729-44c0-af59-1aa046ea9682.json"
+    }
+  ],
+  "f8ac1e19cdaa11430e1b0369c68fefde8": [
+    {
+      "uuid": "113bfa71-3ad2-46db-a4be-2ed6bb95e0ec",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\11\\113bfa71-3ad2-46db-a4be-2ed6bb95e0ec.json"
+    }
+  ],
+  "Hlssm_Battle_btn1": [
+    {
+      "uuid": "117117d5-3fbe-40ce-93a9-103f482f3779",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\11\\117117d5-3fbe-40ce-93a9-103f482f3779.json"
+    }
+  ],
+  "plist_puke_value_xl_0_11": [
+    {
+      "uuid": "1180adf0-545f-4d65-8b6f-706822aedf5d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\11\\1180adf0-545f-4d65-8b6f-706822aedf5d.json"
+    }
+  ],
+  "hlssm_txt_wxz": [
+    {
+      "uuid": "11fba302-299c-4800-aff1-74527481ce5a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\11\\11fba302-299c-4800-aff1-74527481ce5a.json"
+    }
+  ],
+  "b0f11246f2e5cb3542e7a0d1de1edbf2d": [
+    {
+      "uuid": "12bebc03-65ee-41ac-a3c0-24dcf575aa06",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\12\\12bebc03-65ee-41ac-a3c0-24dcf575aa06.json"
+    }
+  ],
+  "mybet": [
+    {
+      "uuid": "155a691c-9966-4968-9e60-835cd1a65191",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\15\\155a691c-9966-4968-9e60-835cd1a65191.json"
+    }
+  ],
+  "plist_puke_back_small_3": [
+    {
+      "uuid": "1708c58c-8981-4cec-ba8a-cd5559cb50a0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\17\\1708c58c-8981-4cec-ba8a-cd5559cb50a0.json"
+    }
+  ],
+  "hlssm_txt_js_5": [
+    {
+      "uuid": "1846ed86-3f24-4428-a026-7c8ad36017f3",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\18\\1846ed86-3f24-4428-a026-7c8ad36017f3.json"
+    }
+  ],
+  "Brnn_openCard_20": [
+    {
+      "uuid": "1b7b545f-9dcf-4eb8-a560-4bcb336905ff",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\1b\\1b7b545f-9dcf-4eb8-a560-4bcb336905ff.json"
+    }
+  ],
+  "e2f511b971c103a0df5f97881e78f308a": [
+    {
+      "uuid": "1ba95c0b-ba86-4e45-982b-2f627dba30fa",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\1b\\1ba95c0b-ba86-4e45-982b-2f627dba30fa.json"
+    }
+  ],
+  "Hlssm_Rule_tb1": [
+    {
+      "uuid": "2116520b-1751-47b8-85fe-a8704bd4be82",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\21\\2116520b-1751-47b8-85fe-a8704bd4be82.json"
+    }
+  ],
+  "751f1f6555e9b7c8856c285ef0ce5d54f": [
+    {
+      "uuid": "22958d3e-e847-472a-bc85-53d2d9bfc416",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\22\\22958d3e-e847-472a-bc85-53d2d9bfc416.json"
+    }
+  ],
+  "ef061f10694a2e6036d3ece402ebfc4f9": [
+    {
+      "uuid": "22dc57cf-976e-47b8-a587-17180f86f7f7",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\22\\22dc57cf-976e-47b8-a587-17180f86f7f7.json"
+    }
+  ],
+  "2a4711ecff94af994a1a903d420aae270": [
+    {
+      "uuid": "24276d10-07f0-490a-96a6-37575345cb1b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\24\\24276d10-07f0-490a-96a6-37575345cb1b.json"
+    }
+  ],
+  "Hlssm_Bank_tb2": [
+    {
+      "uuid": "25eb1278-9802-4920-a2bb-ea4555a7f2bb",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\25\\25eb1278-9802-4920-a2bb-ea4555a7f2bb.json"
+    }
+  ],
+  "root": [
+    {
+      "uuid": "2829ef70-b0f4-4da3-8315-655ae7cd09a5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\28\\2829ef70-b0f4-4da3-8315-655ae7cd09a5.json"
+    },
+    {
+      "uuid": "a6d137b5-b41b-4053-8aa4-89921ecd7f6a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a6\\a6d137b5-b41b-4053-8aa4-89921ecd7f6a.json"
+    },
+    {
+      "uuid": "e72b7e94-32f3-47ac-aef0-d094bfcd83f0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e7\\e72b7e94-32f3-47ac-aef0-d094bfcd83f0.json"
+    }
+  ],
+  "win20004": [
+    {
+      "uuid": "28d6a199-64bb-4433-a025-526f3a146e80",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\28\\28d6a199-64bb-4433-a025-526f3a146e80.json"
+    }
+  ],
+  "plist_puke_value_0_7": [
+    {
+      "uuid": "28e12da9-e61f-4c41-b20d-4634fe580124",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\28\\28e12da9-e61f-4c41-b20d-4634fe580124.json"
+    }
+  ],
+  "Brnn_openCard_13": [
+    {
+      "uuid": "2b1f20d9-2550-4c71-a3c3-0239bbf8a974",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\2b\\2b1f20d9-2550-4c71-a3c3-0239bbf8a974.json"
+    }
+  ],
+  "82c6152004af81eb0d8eff382f5b13677": [
+    {
+      "uuid": "2b78ae8d-2c98-4c40-b906-439d633477a7",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\2b\\2b78ae8d-2c98-4c40-b906-439d633477a7.json"
+    }
+  ],
+  "plist_puke_value_1_2": [
+    {
+      "uuid": "2bbf9935-97d3-4fbf-b744-07ec4d36a80c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\2b\\2bbf9935-97d3-4fbf-b744-07ec4d36a80c.json"
+    }
+  ],
+  "Hlssm_Menu_bt3": [
+    {
+      "uuid": "2c3441f9-5d7b-4251-b7b2-dc828f701974",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\2c\\2c3441f9-5d7b-4251-b7b2-dc828f701974.json"
+    }
+  ],
+  "xzbet": [
+    {
+      "uuid": "2f8444ef-e996-48bd-a80e-99a977fe380a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\2f\\2f8444ef-e996-48bd-a80e-99a977fe380a.json"
+    }
+  ],
+  "plist_puke_value_xl_1_8": [
+    {
+      "uuid": "30d24f5a-e64b-4aed-8c1f-66521f96d59d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\30\\30d24f5a-e64b-4aed-8c1f-66521f96d59d.json"
+    }
+  ],
+  "c57410882475a91d4aad43d63c5515acd": [
+    {
+      "uuid": "31810532-ef2f-44bc-9b0e-39071ae53c3e",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\31\\31810532-ef2f-44bc-9b0e-39071ae53c3e.json"
+    }
+  ],
+  "plist_puke_value_1_5": [
+    {
+      "uuid": "322576ca-e338-4185-a6d2-34f80c29375b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\32\\322576ca-e338-4185-a6d2-34f80c29375b.json"
+    }
+  ],
+  "Hlssm_Bank_jdt3": [
+    {
+      "uuid": "337d88d3-c362-449c-9363-25d0235675e4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\33\\337d88d3-c362-449c-9363-25d0235675e4.json"
+    }
+  ],
+  "plist_puke_value_xl_0_10": [
+    {
+      "uuid": "3422d323-cd31-4fab-95e8-3a53726d4cde",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\34\\3422d323-cd31-4fab-95e8-3a53726d4cde.json"
+    }
+  ],
+  "hlssm_point_9": [
+    {
+      "uuid": "34cef239-1124-4729-8e4e-55b49bc6f90c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\34\\34cef239-1124-4729-8e4e-55b49bc6f90c.json"
+    }
+  ],
+  "Hlssm_Setting_bg1": [
+    {
+      "uuid": "3545ddfe-1be0-45b2-a920-6a8eaa99485d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\35\\3545ddfe-1be0-45b2-a920-6a8eaa99485d.json"
+    }
+  ],
+  "Brnn_openCard_23": [
+    {
+      "uuid": "36ab93a2-c06d-4d27-9459-d6f197993b77",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\36\\36ab93a2-c06d-4d27-9459-d6f197993b77.json"
+    }
+  ],
+  "Hlssm_Menu_bt2": [
+    {
+      "uuid": "3760ac9f-dd2c-477a-be88-b52fde57583a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\37\\3760ac9f-dd2c-477a-be88-b52fde57583a.json"
+    }
+  ],
+  "plist_puke_back_small_1": [
+    {
+      "uuid": "388e77ac-26f5-49db-9d71-251610358bba",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\38\\388e77ac-26f5-49db-9d71-251610358bba.json"
+    }
+  ],
+  "44901281b3138fada10f915465289277b": [
+    {
+      "uuid": "39b4180a-b7a4-4395-a198-7514c869c2f6",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\39\\39b4180a-b7a4-4395-a198-7514c869c2f6.json"
+    }
+  ],
+  "hlssm_fail_guan": [
+    {
+      "uuid": "39dfce93-c386-4894-8010-e5fb35618cc2",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\39\\39dfce93-c386-4894-8010-e5fb35618cc2.json"
+    }
+  ],
+  "plist_puke_value_1_11": [
+    {
+      "uuid": "3acab38b-325b-4b17-be48-fa6d27522c86",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\3a\\3acab38b-325b-4b17-be48-fa6d27522c86.json"
+    }
+  ],
+  "Hlssm_Battle_SZjs": [
+    {
+      "uuid": "3b1a7177-f089-4798-b4af-1c232bf7232c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\3b\\3b1a7177-f089-4798-b4af-1c232bf7232c.json"
+    }
+  ],
+  "hlssm_setting_scenemode": [
+    {
+      "uuid": "3c27c237-77c1-4a1c-a324-f03fd2aaa753",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\3c\\3c27c237-77c1-4a1c-a324-f03fd2aaa753.json"
+    }
+  ],
+  "plist_puke_color_xl_small_3": [
+    {
+      "uuid": "3db27443-fdde-414c-885f-43db7957f64e",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\3d\\3db27443-fdde-414c-885f-43db7957f64e.json"
+    }
+  ],
+  "hlssm_room_head_bg": [
+    {
+      "uuid": "3dd4c3db-7069-4a62-b444-9662c11cf2ca",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\3d\\3dd4c3db-7069-4a62-b444-9662c11cf2ca.json"
+    }
+  ],
+  "hlssm_point_2": [
+    {
+      "uuid": "3fc2551f-51d6-4678-b29c-324c8b5df948",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\3f\\3fc2551f-51d6-4678-b29c-324c8b5df948.json"
+    }
+  ],
+  "72481463ae911d956147aa405662e0540": [
+    {
+      "uuid": "407cce1e-2b3c-4a48-869d-4fa7a25a8e91",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\40\\407cce1e-2b3c-4a48-869d-4fa7a25a8e91.json"
+    }
+  ],
+  "plist_puke_color_big_3": [
+    {
+      "uuid": "40c7783a-e975-43d9-be3e-9662e72f90bc",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\40\\40c7783a-e975-43d9-be3e-9662e72f90bc.json"
+    }
+  ],
+  "lose": [
+    {
+      "uuid": "42125e8e-3157-4591-93da-3c4b469d1c11",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\42\\42125e8e-3157-4591-93da-3c4b469d1c11.json"
+    }
+  ],
+  "25ee1af2d3d95facf2b455988a087ba43": [
+    {
+      "uuid": "42978938-5065-458c-8ae1-af7fca231ea0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\42\\42978938-5065-458c-8ae1-af7fca231ea0.json"
+    }
+  ],
+  "hlssm_luzi_item_5_1": [
+    {
+      "uuid": "43f9c72d-9f32-4f3f-8825-8d1f5ef0da2d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\43\\43f9c72d-9f32-4f3f-8825-8d1f5ef0da2d.json"
+    }
+  ],
+  "Brnn_openCard_06": [
+    {
+      "uuid": "442aed3a-f4df-4b8b-bacd-53544386d119",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\44\\442aed3a-f4df-4b8b-bacd-53544386d119.json"
+    }
+  ],
+  "ba351270dae4668a8fa136b6f9bda143f": [
+    {
+      "uuid": "44e20215-3e26-4c81-a41a-6e733aa2e269",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\44\\44e20215-3e26-4c81-a41a-6e733aa2e269.json"
+    }
+  ],
+  "hlssm_txt_rule": [
+    {
+      "uuid": "4660e059-2d11-4df8-bb53-f8c7877e9a16",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\46\\4660e059-2d11-4df8-bb53-f8c7877e9a16.json"
+    }
+  ],
+  "dzpk_nvheguan": [
+    {
+      "uuid": "47f9f163-0d76-4e6e-a3fb-a0265514c86c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\47\\47f9f163-0d76-4e6e-a3fb-a0265514c86c.json"
+    }
+  ],
+  "plist_puke_value_1_4": [
+    {
+      "uuid": "49c110b2-68d1-46ad-a1f7-fa48cc31e504",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\49\\49c110b2-68d1-46ad-a1f7-fa48cc31e504.json"
+    }
+  ],
+  "plist_puke_value_xl_0_6": [
+    {
+      "uuid": "4fdbd5ad-2a3e-400f-b853-d86cd4a4a825",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\4f\\4fdbd5ad-2a3e-400f-b853-d86cd4a4a825.json"
+    }
+  ],
+  "hlssm_txt_win": [
+    {
+      "uuid": "5074e7ee-ed8f-4057-b33c-d190e3e59c57",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\50\\5074e7ee-ed8f-4057-b33c-d190e3e59c57.json"
+    }
+  ],
+  "win20002": [
+    {
+      "uuid": "51615e17-bcf6-43c0-a1dd-d2da16d28251",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\51\\51615e17-bcf6-43c0-a1dd-d2da16d28251.json"
+    }
+  ],
+  "hlssm_txt_js_8": [
+    {
+      "uuid": "51bc8f0c-6154-46c8-9904-26e4db217f64",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\51\\51bc8f0c-6154-46c8-9904-26e4db217f64.json"
+    }
+  ],
+  "plist_puke_value_0_9": [
+    {
+      "uuid": "5315982e-9623-41d7-a3f2-1950ddbd9416",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\53\\5315982e-9623-41d7-a3f2-1950ddbd9416.json"
+    }
+  ],
+  "hlssm_point_1": [
+    {
+      "uuid": "532c77f7-90a7-47d2-a5ae-01270918c8a5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\53\\532c77f7-90a7-47d2-a5ae-01270918c8a5.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt4b": [
+    {
+      "uuid": "537097ae-473f-4b58-81da-dd5ac86bf329",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\53\\537097ae-473f-4b58-81da-dd5ac86bf329.json"
+    }
+  ],
+  "hlssm_room_bg": [
+    {
+      "uuid": "56954fda-d3ad-4d2b-b4a6-957d5d9e61e6",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\56\\56954fda-d3ad-4d2b-b4a6-957d5d9e61e6.json"
+    }
+  ],
+  "win20001": [
+    {
+      "uuid": "5992c37a-6458-4b4c-85ec-2a5bee46fd4f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\59\\5992c37a-6458-4b4c-85ec-2a5bee46fd4f.json"
+    }
+  ],
+  "Hlssm_Menu_bt4": [
+    {
+      "uuid": "599fed19-2d33-42e6-ad1e-5cbc99a62a13",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\59\\599fed19-2d33-42e6-ad1e-5cbc99a62a13.json"
+    }
+  ],
+  "hlssm_luzi_item_3_2": [
+    {
+      "uuid": "59bf29e5-72dc-4210-b859-408364b8afd2",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\59\\59bf29e5-72dc-4210-b859-408364b8afd2.json"
+    }
+  ],
+  "Hlssm_Bank_jdt1": [
+    {
+      "uuid": "59d16224-c16d-44f7-addf-a92eea5fbd18",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\59\\59d16224-c16d-44f7-addf-a92eea5fbd18.json"
+    }
+  ],
+  "238c1331d336a44977fc77b844f68ea26": [
+    {
+      "uuid": "59d19a67-3aaf-48fb-8e45-aae3a078b17f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\59\\59d19a67-3aaf-48fb-8e45-aae3a078b17f.json"
+    }
+  ],
+  "Brnn_openCard_08": [
+    {
+      "uuid": "5a1bcd5c-2c19-4c01-bbda-35cd2913c6eb",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5a\\5a1bcd5c-2c19-4c01-bbda-35cd2913c6eb.json"
+    }
+  ],
+  "f3d81cbd3a366de177de8d72099d1c598": [
+    {
+      "uuid": "5a5e9bce-e0a6-4499-93ec-3e0e33880723",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5a\\5a5e9bce-e0a6-4499-93ec-3e0e33880723.json"
+    }
+  ],
+  "plist_puke_value_0_8": [
+    {
+      "uuid": "5a631875-e532-40aa-982b-5d4a426ce857",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5a\\5a631875-e532-40aa-982b-5d4a426ce857.json"
+    }
+  ],
+  "plist_puke_value_xl_1_7": [
+    {
+      "uuid": "5bc1cd02-369c-4744-926b-ed77d06179cd",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5b\\5bc1cd02-369c-4744-926b-ed77d06179cd.json"
+    }
+  ],
+  "d2bf1ecfbdd48eba29451fe6eaf38c066": [
+    {
+      "uuid": "5c0bf078-c50d-40b7-b1a6-508901d20dcf",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5c\\5c0bf078-c50d-40b7-b1a6-508901d20dcf.json"
+    }
+  ],
+  "plist_puke_color_big_1": [
+    {
+      "uuid": "5d0a8d25-9269-4a6a-8a27-6024bfd1ac74",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5d\\5d0a8d25-9269-4a6a-8a27-6024bfd1ac74.json"
+    }
+  ],
+  "12be141627d6ccb5f6fbe94ffa38d3233": [
+    {
+      "uuid": "5dae4302-a762-4a64-9aff-076cad6fb78c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5d\\5dae4302-a762-4a64-9aff-076cad6fb78c.json"
+    }
+  ],
+  "75b2183601da372a8f9bd9e111ccef904": [
+    {
+      "uuid": "5f38713c-2c21-4b97-826e-9c8f37e56c26",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5f\\5f38713c-2c21-4b97-826e-9c8f37e56c26.json"
+    }
+  ],
+  "34561aed1c3add371bdd6a864f8e77e41": [
+    {
+      "uuid": "5f9248e2-c209-4a8e-9097-8b73870930ba",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\5f\\5f9248e2-c209-4a8e-9097-8b73870930ba.json"
+    }
+  ],
+  "hlssm_txt_js_7": [
+    {
+      "uuid": "609009e7-3ed0-497a-aa32-70fbc5949899",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\60\\609009e7-3ed0-497a-aa32-70fbc5949899.json"
+    }
+  ],
+  "plist_puke_value_0_5": [
+    {
+      "uuid": "6152df06-96fc-4284-af26-c9a05aa2cad5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\61\\6152df06-96fc-4284-af26-c9a05aa2cad5.json"
+    }
+  ],
+  "Hlssm_Rule_tb2": [
+    {
+      "uuid": "651873ea-a736-4177-8514-f2630d2d9dc7",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\65\\651873ea-a736-4177-8514-f2630d2d9dc7.json"
+    }
+  ],
+  "plist_puke_value_xl_1_3": [
+    {
+      "uuid": "652212eb-ab47-4499-af0b-a0e9a1b690e4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\65\\652212eb-ab47-4499-af0b-a0e9a1b690e4.json"
+    }
+  ],
+  "win20005": [
+    {
+      "uuid": "652b77e7-f865-4764-89b0-fe3122a1b664",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\65\\652b77e7-f865-4764-89b0-fe3122a1b664.json"
+    }
+  ],
+  "hlssm_txt_js_3": [
+    {
+      "uuid": "6590a88b-d3f0-4516-b532-7f7c455e0c1c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\65\\6590a88b-d3f0-4516-b532-7f7c455e0c1c.json"
+    }
+  ],
+  "plist_puke_value_1_1": [
+    {
+      "uuid": "66955d29-a4e2-4b53-8e0d-724d75eda680",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\66\\66955d29-a4e2-4b53-8e0d-724d75eda680.json"
+    }
+  ],
+  "win20003": [
+    {
+      "uuid": "6698e5e5-b4d9-43e6-acdc-61b392475403",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\66\\6698e5e5-b4d9-43e6-acdc-61b392475403.json"
+    }
+  ],
+  "hlssm_luzi_item_2_1": [
+    {
+      "uuid": "66f20204-efdf-4c1a-aee5-af264ad5d243",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\66\\66f20204-efdf-4c1a-aee5-af264ad5d243.json"
+    }
+  ],
+  "hlssm_btn_add": [
+    {
+      "uuid": "67fa3fcf-e080-4db7-b2ea-e9b66cadb67b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\67\\67fa3fcf-e080-4db7-b2ea-e9b66cadb67b.json"
+    }
+  ],
+  "06981117164646fd85e2772934c211416": [
+    {
+      "uuid": "68986a8c-5507-4c3f-9b7b-69813a770f43",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\68\\68986a8c-5507-4c3f-9b7b-69813a770f43.json"
+    }
+  ],
+  "Hlssm_Bank_srk": [
+    {
+      "uuid": "69097df2-2e24-463a-bb6d-7089d980f433",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\69\\69097df2-2e24-463a-bb6d-7089d980f433.json"
+    }
+  ],
+  "btnSwitch": [
+    {
+      "uuid": "69f2a02f-6254-475d-8f76-bec5cebc88f1",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\69\\69f2a02f-6254-475d-8f76-bec5cebc88f1.json"
+    }
+  ],
+  "plist_puke_joker_small_1": [
+    {
+      "uuid": "6b5198ec-4ae5-4782-bc21-c43d0de6a841",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6b\\6b5198ec-4ae5-4782-bc21-c43d0de6a841.json"
+    }
+  ],
+  "Brnn_openCard_14": [
+    {
+      "uuid": "6baa8a0d-9bc5-4ba2-a2dd-0c393cc16998",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6b\\6baa8a0d-9bc5-4ba2-a2dd-0c393cc16998.json"
+    }
+  ],
+  "Brnn_openCard_02": [
+    {
+      "uuid": "6c8fe32b-05b0-4595-8c06-c4b4efd8c184",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6c\\6c8fe32b-05b0-4595-8c06-c4b4efd8c184.json"
+    }
+  ],
+  "plist_puke_value_xl_0_9": [
+    {
+      "uuid": "6d3b1cd5-46b1-4822-8ac6-63e112f998c4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6d\\6d3b1cd5-46b1-4822-8ac6-63e112f998c4.json"
+    }
+  ],
+  "71fb185fee10169eaa716b513c7bf3c06": [
+    {
+      "uuid": "6d7eeb7f-b8a2-4738-b845-0185dbab6e1a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6d\\6d7eeb7f-b8a2-4738-b845-0185dbab6e1a.json"
+    }
+  ],
+  "plist_puke_value_1_13": [
+    {
+      "uuid": "6dad3525-b168-4f2b-8b5e-0d06ef4ea16d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6d\\6dad3525-b168-4f2b-8b5e-0d06ef4ea16d.json"
+    }
+  ],
+  "Hlssm_Battle_btn2": [
+    {
+      "uuid": "6e6395bd-650c-449e-8fcb-7a290c0b8371",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6e\\6e6395bd-650c-449e-8fcb-7a290c0b8371.json"
+    }
+  ],
+  "Hlssm_Rule_gb1btn": [
+    {
+      "uuid": "6e86479d-e0ef-44fc-aeac-0bb6ed4def69",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6e\\6e86479d-e0ef-44fc-aeac-0bb6ed4def69.json"
+    }
+  ],
+  "plist_puke_value_1_7": [
+    {
+      "uuid": "6ea489c1-1fa2-4445-85ed-556a7090343c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6e\\6ea489c1-1fa2-4445-85ed-556a7090343c.json"
+    }
+  ],
+  "winnum": [
+    {
+      "uuid": "6ea4bc2c-f098-42f9-a505-bdb19e5372f9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6e\\6ea4bc2c-f098-42f9-a505-bdb19e5372f9.json"
+    }
+  ],
+  "hlssm_luzi_item_bg_1": [
+    {
+      "uuid": "6efe37e2-e4f7-4bdf-b895-66a0c06be20d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6e\\6efe37e2-e4f7-4bdf-b895-66a0c06be20d.json"
+    }
+  ],
+  "Hlssm_Setting_zf3": [
+    {
+      "uuid": "6fc50b33-fe70-46fa-a048-818e9c01cb31",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\6f\\6fc50b33-fe70-46fa-a048-818e9c01cb31.json"
+    }
+  ],
+  "Hlssm_Battle_cmL1": [
+    {
+      "uuid": "703e9ccc-19be-4626-8234-2b0f8fa714f6",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\70\\703e9ccc-19be-4626-8234-2b0f8fa714f6.json"
+    }
+  ],
+  "plist_puke_back_small_2": [
+    {
+      "uuid": "710d4564-6d24-457b-8c20-68d53c4b9a20",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\71\\710d4564-6d24-457b-8c20-68d53c4b9a20.json"
+    }
+  ],
+  "18061486d26e36d51f56af7f174099add": [
+    {
+      "uuid": "71195328-c6a4-422d-b3e9-2f8e4899ce92",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\71\\71195328-c6a4-422d-b3e9-2f8e4899ce92.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt2": [
+    {
+      "uuid": "717aa722-bb42-4512-b2a0-0081c7b8ec97",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\71\\717aa722-bb42-4512-b2a0-0081c7b8ec97.json"
+    }
+  ],
+  "plist_puke_value_xl_1_9": [
+    {
+      "uuid": "7186a362-b1bd-4c65-ac72-99eed195582b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\71\\7186a362-b1bd-4c65-ac72-99eed195582b.json"
+    }
+  ],
+  "hl30m": [
+    {
+      "uuid": "720c08e6-61d7-4253-a4e2-4efe3edac169",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\72\\720c08e6-61d7-4253-a4e2-4efe3edac169.json"
+    }
+  ],
+  "Hlssm_Bank_qk1btn": [
+    {
+      "uuid": "74a1c45d-ab24-4d71-a5f9-7126d1a21c82",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\74\\74a1c45d-ab24-4d71-a5f9-7126d1a21c82.json"
+    }
+  ],
+  "hlssm_log_grid_right": [
+    {
+      "uuid": "7686faee-ef87-41d2-b5c5-98c198cd59f6",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\76\\7686faee-ef87-41d2-b5c5-98c198cd59f6.json"
+    }
+  ],
+  "hlssm_luzi_item_5_3": [
+    {
+      "uuid": "77174a31-130f-4996-af63-adaa1eee124d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\77\\77174a31-130f-4996-af63-adaa1eee124d.json"
+    }
+  ],
+  "Hlssm_Menu_bg1": [
+    {
+      "uuid": "78ecd422-f456-4b39-8d69-0484a6fb13c8",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\78\\78ecd422-f456-4b39-8d69-0484a6fb13c8.json"
+    }
+  ],
+  "hlssm_txt_js_1": [
+    {
+      "uuid": "792b560a-fa26-4c5b-9ab7-313d5436268d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\79\\792b560a-fa26-4c5b-9ab7-313d5436268d.json"
+    }
+  ],
+  "plist_puke_front_small": [
+    {
+      "uuid": "7b20da29-20d6-4e0a-aa38-33c30b7dc527",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7b\\7b20da29-20d6-4e0a-aa38-33c30b7dc527.json"
+    }
+  ],
+  "plist_puke_back_xl_2": [
+    {
+      "uuid": "7c2e67bc-0fae-4cdb-b198-33a1000f553f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7c\\7c2e67bc-0fae-4cdb-b198-33a1000f553f.json"
+    }
+  ],
+  "plist_puke_front_big": [
+    {
+      "uuid": "7ca0fa32-ee8b-497c-821a-0f618caac8e6",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7c\\7ca0fa32-ee8b-497c-821a-0f618caac8e6.json"
+    }
+  ],
+  "Brnn_openCard_22": [
+    {
+      "uuid": "7dafd705-b454-4d90-952f-aea2c957a45f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7d\\7dafd705-b454-4d90-952f-aea2c957a45f.json"
+    }
+  ],
+  "plist_puke_value_1_8": [
+    {
+      "uuid": "7ec8ed34-0ea1-4917-9ce4-3f9eeed56535",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7e\\7ec8ed34-0ea1-4917-9ce4-3f9eeed56535.json"
+    }
+  ],
+  "a5791baa94c7bbb404238bee276c0de15": [
+    {
+      "uuid": "7ed308d1-15e4-4dca-936b-07c7591fe490",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7e\\7ed308d1-15e4-4dca-936b-07c7591fe490.json"
+    }
+  ],
+  "plist_puke_value_xl_0_1": [
+    {
+      "uuid": "7ee2ba2f-a4ab-48c5-bed9-29fb2095018b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\7e\\7ee2ba2f-a4ab-48c5-bed9-29fb2095018b.json"
+    }
+  ],
+  "plist_puke_back_big_1": [
+    {
+      "uuid": "810b71cd-34b9-4665-a939-1a2054553f7f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\81\\810b71cd-34b9-4665-a939-1a2054553f7f.json"
+    }
+  ],
+  "hlssm_point_5": [
+    {
+      "uuid": "8192fc87-6adf-4d0f-a85f-5932e7f2a7ea",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\81\\8192fc87-6adf-4d0f-a85f-5932e7f2a7ea.json"
+    }
+  ],
+  "hlssm_point_7": [
+    {
+      "uuid": "83c2a5be-4e72-46b2-8f2a-ee4c6f88d32c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\83\\83c2a5be-4e72-46b2-8f2a-ee4c6f88d32c.json"
+    }
+  ],
+  "plist_puke_value_0_12": [
+    {
+      "uuid": "84ac5044-d648-4b51-80d3-3f6c272d591a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\84\\84ac5044-d648-4b51-80d3-3f6c272d591a.json"
+    }
+  ],
+  "c90518f171d8fb907a20190f7344d0136": [
+    {
+      "uuid": "87800ac0-b6d1-4b3c-ab61-c7c0bbf96b1b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\87\\87800ac0-b6d1-4b3c-ab61-c7c0bbf96b1b.json"
+    }
+  ],
+  "plist_puke_color_big_2": [
+    {
+      "uuid": "87b61ad0-a75d-4028-91e0-912c0d359152",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\87\\87b61ad0-a75d-4028-91e0-912c0d359152.json"
+    }
+  ],
+  "hlssm_luzi_item_dl_zhuang_dui": [
+    {
+      "uuid": "8861b77f-6b75-4376-9596-b20d2272b2ea",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\88\\8861b77f-6b75-4376-9596-b20d2272b2ea.json"
+    }
+  ],
+  "plist_puke_value_0_3": [
+    {
+      "uuid": "889dc195-20ae-4250-a5bc-bef82bd7c80f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\88\\889dc195-20ae-4250-a5bc-bef82bd7c80f.json"
+    }
+  ],
+  "hlssm_luzi_item_3_1": [
+    {
+      "uuid": "88d0c178-f9a3-430f-a42f-bbb94e15a376",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\88\\88d0c178-f9a3-430f-a42f-bbb94e15a376.json"
+    }
+  ],
+  "Brnn_openCard_17": [
+    {
+      "uuid": "88ef553c-be85-4c8d-afde-0010fb9f042d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\88\\88ef553c-be85-4c8d-afde-0010fb9f042d.json"
+    }
+  ],
+  "plist_puke_value_xl_0_5": [
+    {
+      "uuid": "88ef6b1d-9fc0-4437-80a9-3814f323359d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\88\\88ef6b1d-9fc0-4437-80a9-3814f323359d.json"
+    }
+  ],
+  "hlssm_luzi_item_2_2": [
+    {
+      "uuid": "8bda8bd8-5c9a-45a1-a9bb-0e108482416f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\8b\\8bda8bd8-5c9a-45a1-a9bb-0e108482416f.json"
+    }
+  ],
+  "18bf17e0ee288b958ca1d5340874ffb85": [
+    {
+      "uuid": "8cdc6410-5937-4628-bd23-f919d5ece870",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\8c\\8cdc6410-5937-4628-bd23-f919d5ece870.json"
+    }
+  ],
+  "fe58118c1a41ee0cd3b79b64375ffaab5": [
+    {
+      "uuid": "8ce75ca8-9909-4500-b838-26c65593fa46",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\8c\\8ce75ca8-9909-4500-b838-26c65593fa46.json"
+    }
+  ],
+  "plist_puke_joker_xl_0": [
+    {
+      "uuid": "8d890fd3-eb0d-4514-927c-29c1c176b9fa",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\8d\\8d890fd3-eb0d-4514-927c-29c1c176b9fa.json"
+    }
+  ],
+  "Brnn_openCard_09": [
+    {
+      "uuid": "8f1eeba7-9232-4393-b023-592423469cf5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\8f\\8f1eeba7-9232-4393-b023-592423469cf5.json"
+    }
+  ],
+  "Hlssm_Battle_fpq": [
+    {
+      "uuid": "9063ff56-acec-45c2-a66a-807628763735",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\90\\9063ff56-acec-45c2-a66a-807628763735.json"
+    }
+  ],
+  "f9ec118c142fbeb80d1f789d7ff09324f": [
+    {
+      "uuid": "907b6e77-e663-43df-9704-2410297cf760",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\90\\907b6e77-e663-43df-9704-2410297cf760.json"
+    }
+  ],
+  "plist_puke_value_xl_0_12": [
+    {
+      "uuid": "91606171-3f6a-4029-8f86-3e0ee7b59812",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\91\\91606171-3f6a-4029-8f86-3e0ee7b59812.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt4": [
+    {
+      "uuid": "9210481a-86b9-4c40-946f-f1cf3668128f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\92\\9210481a-86b9-4c40-946f-f1cf3668128f.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt2b": [
+    {
+      "uuid": "923fd12d-03cc-4bcc-9da8-bc27397f8fa0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\92\\923fd12d-03cc-4bcc-9da8-bc27397f8fa0.json"
+    }
+  ],
+  "Brnn_openCard_01": [
+    {
+      "uuid": "92a9d2b3-f8ba-43f3-af40-68e95c514411",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\92\\92a9d2b3-f8ba-43f3-af40-68e95c514411.json"
+    }
+  ],
+  "plist_puke_color_xl_big_2": [
+    {
+      "uuid": "93352747-34d2-4ba0-adb5-d06820a2f89d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\93\\93352747-34d2-4ba0-adb5-d06820a2f89d.json"
+    }
+  ],
+  "Brnn_openCard_21": [
+    {
+      "uuid": "93ded364-404a-457a-b175-59888a2b5f3f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\93\\93ded364-404a-457a-b175-59888a2b5f3f.json"
+    }
+  ],
+  "dcb41deb8569be6a8ef9b72fe4ebf1511": [
+    {
+      "uuid": "94c44fa9-16b7-4f71-8023-194105f79826",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\94\\94c44fa9-16b7-4f71-8023-194105f79826.json"
+    }
+  ],
+  "plist_puke_value_xl_1_2": [
+    {
+      "uuid": "950d8329-350e-4725-b1e7-2ad0e7cb052c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\95\\950d8329-350e-4725-b1e7-2ad0e7cb052c.json"
+    }
+  ],
+  "hlssm_point_3": [
+    {
+      "uuid": "966212a5-1a8a-4e3e-a903-c369c21a8622",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\96\\966212a5-1a8a-4e3e-a903-c369c21a8622.json"
+    }
+  ],
+  "plist_puke_big_small": [
+    {
+      "uuid": "96b6e7bb-bacd-4197-8dc6-ab1b7195d67d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\96\\96b6e7bb-bacd-4197-8dc6-ab1b7195d67d.json"
+    }
+  ],
+  "hlssm_txt_zhuang": [
+    {
+      "uuid": "978d1420-d62d-481c-9acd-361624a1150f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\97\\978d1420-d62d-481c-9acd-361624a1150f.json"
+    }
+  ],
+  "Brnn_openCard_03": [
+    {
+      "uuid": "99264432-49a0-4a26-8aa2-efdda364957f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\99\\99264432-49a0-4a26-8aa2-efdda364957f.json"
+    }
+  ],
+  "plist_puke_joker_small_0": [
+    {
+      "uuid": "9ada22c6-d057-4006-a1a1-eccb7be3b5d4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9a\\9ada22c6-d057-4006-a1a1-eccb7be3b5d4.json"
+    }
+  ],
+  "hlssm_luzi_item_5_2": [
+    {
+      "uuid": "9b07abc9-cab4-405a-90b4-e1a66346d028",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9b\\9b07abc9-cab4-405a-90b4-e1a66346d028.json"
+    }
+  ],
+  "plist_puke_value_0_13": [
+    {
+      "uuid": "9bb30be3-6f1d-49d1-982f-8cab305935ae",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9b\\9bb30be3-6f1d-49d1-982f-8cab305935ae.json"
+    }
+  ],
+  "Hlssm_Bank_clear": [
+    {
+      "uuid": "9e2711ba-d769-490a-93ce-c2de65684ff9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9e\\9e2711ba-d769-490a-93ce-c2de65684ff9.json"
+    }
+  ],
+  "plist_puke_back_big_3": [
+    {
+      "uuid": "9f425450-dd43-4331-83ed-88acef7e32c0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9f\\9f425450-dd43-4331-83ed-88acef7e32c0.json"
+    }
+  ],
+  "Hlssm_Setting_zf2": [
+    {
+      "uuid": "9fa74024-d11a-4f2a-a578-bb19bbddbfe7",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9f\\9fa74024-d11a-4f2a-a578-bb19bbddbfe7.json"
+    }
+  ],
+  "Brnn_openCard_15": [
+    {
+      "uuid": "9fc25cf4-6be1-428f-811c-98d829e27ea0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\9f\\9fc25cf4-6be1-428f-811c-98d829e27ea0.json"
+    }
+  ],
+  "plist_puke_value_0_1": [
+    {
+      "uuid": "a0df37fe-4395-470a-b812-eed17e5758f2",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a0\\a0df37fe-4395-470a-b812-eed17e5758f2.json"
+    }
+  ],
+  "plist_puke_back_big_2": [
+    {
+      "uuid": "a0f8f17a-8fcb-432c-b53c-acddbdec7eed",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a0\\a0f8f17a-8fcb-432c-b53c-acddbdec7eed.json"
+    }
+  ],
+  "Hlssm_Setting_zf5": [
+    {
+      "uuid": "a21634c8-ff00-4f25-b723-2efda90c627f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a2\\a21634c8-ff00-4f25-b723-2efda90c627f.json"
+    }
+  ],
+  "Hlssm_wanjia_bt1": [
+    {
+      "uuid": "a29bdcbe-dc5c-40f6-8a84-6a85768fa482",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a2\\a29bdcbe-dc5c-40f6-8a84-6a85768fa482.json"
+    }
+  ],
+  "plist_puke_front_xl": [
+    {
+      "uuid": "a3cac008-8ef5-4d95-a246-fd878c4a1b80",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a3\\a3cac008-8ef5-4d95-a246-fd878c4a1b80.json"
+    }
+  ],
+  "plist_puke_value_xl_0_8": [
+    {
+      "uuid": "a60c6717-8b53-4723-b7ae-52b661b20da5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a6\\a60c6717-8b53-4723-b7ae-52b661b20da5.json"
+    }
+  ],
+  "hlssm_txt_js_9": [
+    {
+      "uuid": "a79ee3d8-97e4-4ec8-86dd-0182bdc3db15",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a7\\a79ee3d8-97e4-4ec8-86dd-0182bdc3db15.json"
+    }
+  ],
+  "26851a0b32a485168173ebb28be0bc3b8": [
+    {
+      "uuid": "a7c55578-469f-4e6b-8e15-adc4ca05ac7a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a7\\a7c55578-469f-4e6b-8e15-adc4ca05ac7a.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt1": [
+    {
+      "uuid": "a9b0f200-0712-45b4-8589-f6fabb4ca3fc",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a9\\a9b0f200-0712-45b4-8589-f6fabb4ca3fc.json"
+    }
+  ],
+  "plist_puke_joker_xl_1": [
+    {
+      "uuid": "a9bb1c20-ebd8-4d81-91b6-b28341d75b57",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a9\\a9bb1c20-ebd8-4d81-91b6-b28341d75b57.json"
+    }
+  ],
+  "7bf017e7757f77bb366497082a1dd672c": [
+    {
+      "uuid": "a9e6c8dc-8870-4969-a978-bd4ccce36155",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\a9\\a9e6c8dc-8870-4969-a978-bd4ccce36155.json"
+    }
+  ],
+  "hlssm_luzi_item_4_1": [
+    {
+      "uuid": "aafb74b7-fb86-47d2-b0ee-45256c2bc07f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\aa\\aafb74b7-fb86-47d2-b0ee-45256c2bc07f.json"
+    }
+  ],
+  "Brnn_openCard_05": [
+    {
+      "uuid": "ab3e1d0c-fd65-4609-8396-8255f55cbdef",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ab\\ab3e1d0c-fd65-4609-8396-8255f55cbdef.json"
+    }
+  ],
+  "online": [
+    {
+      "uuid": "ad3420b4-58dd-438b-a8e6-44e188bf24b4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ad\\ad3420b4-58dd-438b-a8e6-44e188bf24b4.json"
+    }
+  ],
+  "plist_puke_color_small_1": [
+    {
+      "uuid": "ae2ad887-1a2c-4d9e-b23c-f4dd2bf51be9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ae\\ae2ad887-1a2c-4d9e-b23c-f4dd2bf51be9.json"
+    }
+  ],
+  "plist_puke_value_xl_1_12": [
+    {
+      "uuid": "afa3775d-3cd8-4aab-8d50-9d734776845d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\af\\afa3775d-3cd8-4aab-8d50-9d734776845d.json"
+    }
+  ],
+  "plist_puke_color_small_3": [
+    {
+      "uuid": "aff36c58-ffbb-4a25-ada3-063919b87aaf",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\af\\aff36c58-ffbb-4a25-ada3-063919b87aaf.json"
+    }
+  ],
+  "hlssm_h1": [
+    {
+      "uuid": "aff52a3c-b4be-4e77-9d0d-7728d194a072",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\af\\aff52a3c-b4be-4e77-9d0d-7728d194a072.json"
+    }
+  ],
+  "plist_puke_value_1_6": [
+    {
+      "uuid": "b05447d6-bef6-4946-828d-aeec65cfc76f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b0\\b05447d6-bef6-4946-828d-aeec65cfc76f.json"
+    }
+  ],
+  "plist_puke_value_0_2": [
+    {
+      "uuid": "b05cf249-d6f1-4714-ac5d-22b181351a41",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b0\\b05cf249-d6f1-4714-ac5d-22b181351a41.json"
+    }
+  ],
+  "dddb1cfbab8bdda8aefc89c57dca92a8d": [
+    {
+      "uuid": "b2736061-de56-4ea5-8867-6e0483c693d8",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b2\\b2736061-de56-4ea5-8867-6e0483c693d8.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt3b": [
+    {
+      "uuid": "b2cd39da-5dc0-442d-a048-0ac04261a3fe",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b2\\b2cd39da-5dc0-442d-a048-0ac04261a3fe.json"
+    }
+  ],
+  "plist_puke_color_big_0": [
+    {
+      "uuid": "b374904a-81c9-4c6f-a283-3433f6c4a0c9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b3\\b374904a-81c9-4c6f-a283-3433f6c4a0c9.json"
+    }
+  ],
+  "30ce123d762011c38815c91904be77d97": [
+    {
+      "uuid": "b3f9fcab-2598-4bf4-a169-d6c03bd333e0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b3\\b3f9fcab-2598-4bf4-a169-d6c03bd333e0.json"
+    }
+  ],
+  "plist_puke_value_0_10": [
+    {
+      "uuid": "b4b2f58d-ddf4-4293-b49a-b7e2c1a916f0",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b4\\b4b2f58d-ddf4-4293-b49a-b7e2c1a916f0.json"
+    }
+  ],
+  "Hlssm_Bank_jdt2": [
+    {
+      "uuid": "b6275a9e-8aba-4c97-8d75-cfbf040750c6",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b6\\b6275a9e-8aba-4c97-8d75-cfbf040750c6.json"
+    }
+  ],
+  "plist_puke_value_xl_1_1": [
+    {
+      "uuid": "b6c23a32-e03f-4747-a36e-103e30db4616",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b6\\b6c23a32-e03f-4747-a36e-103e30db4616.json"
+    }
+  ],
+  "plist_puke_value_xl_1_4": [
+    {
+      "uuid": "b6ef5eab-b3b4-4b99-b0ac-ad3f7c126897",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b6\\b6ef5eab-b3b4-4b99-b0ac-ad3f7c126897.json"
+    }
+  ],
+  "hlssm_luzi_item_zpl_xian_dui": [
+    {
+      "uuid": "b8063359-f67e-4c41-a4b1-844b2ea21ca5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\b8\\b8063359-f67e-4c41-a4b1-844b2ea21ca5.json"
+    }
+  ],
+  "c3a31ec68cbc5d4bac97f7bba6621391e": [
+    {
+      "uuid": "ba3cc4e2-0bb0-4cf3-a908-f7a30a5d9c39",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ba\\ba3cc4e2-0bb0-4cf3-a908-f7a30a5d9c39.json"
+    }
+  ],
+  "hlssm_txt_js_0": [
+    {
+      "uuid": "ba7a298b-750f-4860-b819-c5e18cc63696",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ba\\ba7a298b-750f-4860-b819-c5e18cc63696.json"
+    }
+  ],
+  "a56a19a87655f262d6490933e348b5371": [
+    {
+      "uuid": "ba889b15-c900-42d7-8c94-1b5bbd247797",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ba\\ba889b15-c900-42d7-8c94-1b5bbd247797.json"
+    }
+  ],
+  "plist_puke_color_xl_big_3": [
+    {
+      "uuid": "bb857158-c149-4fcc-a571-819be8f46168",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\bb\\bb857158-c149-4fcc-a571-819be8f46168.json"
+    }
+  ],
+  "Hlssm_Bank_tb1": [
+    {
+      "uuid": "bd5d6d2d-b042-4b42-b1ca-357cb702e8bf",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\bd\\bd5d6d2d-b042-4b42-b1ca-357cb702e8bf.json"
+    }
+  ],
+  "Hlssm_Battle_bg1": [
+    {
+      "uuid": "c1265996-c464-4474-9a24-8a4b26916e0b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c1\\c1265996-c464-4474-9a24-8a4b26916e0b.json"
+    }
+  ],
+  "plist_puke_color_xl_small_0": [
+    {
+      "uuid": "c1dd920e-cbae-4c84-ae3f-60bd1828c8de",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c1\\c1dd920e-cbae-4c84-ae3f-60bd1828c8de.json"
+    }
+  ],
+  "plist_puke_value_1_9": [
+    {
+      "uuid": "c1e7bde5-e659-4ca6-b7de-22e04a19c6ce",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c1\\c1e7bde5-e659-4ca6-b7de-22e04a19c6ce.json"
+    }
+  ],
+  "plist_puke_color_small_0": [
+    {
+      "uuid": "c36b06fb-181f-4747-9829-65a8f5a58792",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c3\\c36b06fb-181f-4747-9829-65a8f5a58792.json"
+    }
+  ],
+  "plist_puke_value_xl_1_10": [
+    {
+      "uuid": "c37bebf8-b376-4353-9d29-d360ff95c9ca",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c3\\c37bebf8-b376-4353-9d29-d360ff95c9ca.json"
+    }
+  ],
+  "Hlssm_Battle_jd1bg": [
+    {
+      "uuid": "c397715f-60f3-4daa-b3f2-edc97cba6b43",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c3\\c397715f-60f3-4daa-b3f2-edc97cba6b43.json"
+    }
+  ],
+  "Brnn_openCard_04": [
+    {
+      "uuid": "c47883a9-6ae5-4648-88a8-b0075fc49cc4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c4\\c47883a9-6ae5-4648-88a8-b0075fc49cc4.json"
+    }
+  ],
+  "06431157cfeef9f5322ad7d301ba005c6": [
+    {
+      "uuid": "c5373987-cef7-471a-b3c8-710e1c4f8651",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c5\\c5373987-cef7-471a-b3c8-710e1c4f8651.json"
+    }
+  ],
+  "Hlssm_Rule_bt1": [
+    {
+      "uuid": "c5f8e772-fdf5-4710-a63c-23d27f6aa393",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c5\\c5f8e772-fdf5-4710-a63c-23d27f6aa393.json"
+    }
+  ],
+  "plist_puke_value_xl_0_2": [
+    {
+      "uuid": "c6aeac03-4fae-455d-8a88-2a6906fbb4aa",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c6\\c6aeac03-4fae-455d-8a88-2a6906fbb4aa.json"
+    }
+  ],
+  "plist_puke_value_1_10": [
+    {
+      "uuid": "c6c1ed1a-e190-4b92-9f92-8533191e19cf",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c6\\c6c1ed1a-e190-4b92-9f92-8533191e19cf.json"
+    }
+  ],
+  "hlssm_txt_battle_zxz": [
+    {
+      "uuid": "c83fe6b2-8a9d-4b32-83d5-e44e10262e03",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c8\\c83fe6b2-8a9d-4b32-83d5-e44e10262e03.json"
+    }
+  ],
+  "Brnn_openCard_07": [
+    {
+      "uuid": "c872c029-6d11-4730-8e0a-7944ee2a3a10",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c8\\c872c029-6d11-4730-8e0a-7944ee2a3a10.json"
+    }
+  ],
+  "46be11ee9107f02f28d5a3c1c4767b1da": [
+    {
+      "uuid": "c903d247-9a94-4696-9bc9-1be1af4235fb",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c9\\c903d247-9a94-4696-9bc9-1be1af4235fb.json"
+    }
+  ],
+  "hlssm_txt_fail": [
+    {
+      "uuid": "c9919bb2-3fd2-4196-9357-98f4c8ca3155",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c9\\c9919bb2-3fd2-4196-9357-98f4c8ca3155.json"
+    }
+  ],
+  "hlssm_zhuang": [
+    {
+      "uuid": "c9b6e11c-32c3-4739-8d7f-b326579fab82",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\c9\\c9b6e11c-32c3-4739-8d7f-b326579fab82.json"
+    }
+  ],
+  "e3681ae6cf594ba68554d91032d7cac4b": [
+    {
+      "uuid": "cc1a623a-4678-485d-9ca8-54607d500b21",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\cc\\cc1a623a-4678-485d-9ca8-54607d500b21.json"
+    }
+  ],
+  "Hlssm_Game_Head_Bg_Boy": [
+    {
+      "uuid": "ccae533f-5f21-4447-881a-bd6d71e6dbfb",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\cc\\ccae533f-5f21-4447-881a-bd6d71e6dbfb.json"
+    }
+  ],
+  "plist_puke_value_0_4": [
+    {
+      "uuid": "cd28424d-41df-495d-8aee-a0e4ea7cfd1e",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\cd\\cd28424d-41df-495d-8aee-a0e4ea7cfd1e.json"
+    }
+  ],
+  "hlssm_point_8": [
+    {
+      "uuid": "cdd0d499-617c-4478-b839-7d06bb03e71d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\cd\\cdd0d499-617c-4478-b839-7d06bb03e71d.json"
+    }
+  ],
+  "hlssm_xiazhutip": [
+    {
+      "uuid": "cefaa64a-8a29-46bb-9158-ed1b10120445",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ce\\cefaa64a-8a29-46bb-9158-ed1b10120445.json"
+    }
+  ],
+  "time": [
+    {
+      "uuid": "d1272f64-9da6-4237-bfe8-00dccb8fef7c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d1\\d1272f64-9da6-4237-bfe8-00dccb8fef7c.json"
+    }
+  ],
+  "plist_puke_value_xl_0_7": [
+    {
+      "uuid": "d1fe3f97-9f38-4791-bc46-adc7d7cb3171",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d1\\d1fe3f97-9f38-4791-bc46-adc7d7cb3171.json"
+    }
+  ],
+  "hlssm_close": [
+    {
+      "uuid": "d3da339c-6694-4323-9297-38fdd05a0ced",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d3\\d3da339c-6694-4323-9297-38fdd05a0ced.json"
+    }
+  ],
+  "plist_puke_value_xl_1_6": [
+    {
+      "uuid": "d6f8b08f-7a80-4189-ac7c-9493cc8d9b33",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d6\\d6f8b08f-7a80-4189-ac7c-9493cc8d9b33.json"
+    }
+  ],
+  "hlssm_lose": [
+    {
+      "uuid": "d73af254-6ec7-4d2a-8326-628fec540326",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d7\\d73af254-6ec7-4d2a-8326-628fec540326.json"
+    }
+  ],
+  "plist_puke_value_xl_0_3": [
+    {
+      "uuid": "d84dd520-4c81-4414-bedb-8763e0f5fe28",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d8\\d84dd520-4c81-4414-bedb-8763e0f5fe28.json"
+    }
+  ],
+  "hlssm_txt_js_2": [
+    {
+      "uuid": "d852bfa5-649d-46b0-9145-c1650209361c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\d8\\d852bfa5-649d-46b0-9145-c1650209361c.json"
+    }
+  ],
+  "Brnn_openCard_12": [
+    {
+      "uuid": "da966866-9cd7-4440-84d3-42dcaa6973ec",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\da\\da966866-9cd7-4440-84d3-42dcaa6973ec.json"
+    }
+  ],
+  "5f2e17c88c31130eb8e738ec86040abea": [
+    {
+      "uuid": "dabb704a-a1be-46af-94b2-50b20d594990",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\da\\dabb704a-a1be-46af-94b2-50b20d594990.json"
+    }
+  ],
+  "Brnn_openCard_16": [
+    {
+      "uuid": "daf4b203-ace8-4b91-8586-89af2d2f0ecc",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\da\\daf4b203-ace8-4b91-8586-89af2d2f0ecc.json"
+    }
+  ],
+  "bc77109a9584f2f1bd0e492f8bd4a26f8": [
+    {
+      "uuid": "db2f5047-62ad-4641-aebf-bae3459836c5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\db\\db2f5047-62ad-4641-aebf-bae3459836c5.json"
+    }
+  ],
+  "hlssm_txt_xian": [
+    {
+      "uuid": "db7b5e9d-2fbd-4942-b72a-a69b934b3e4e",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\db\\db7b5e9d-2fbd-4942-b72a-a69b934b3e4e.json"
+    }
+  ],
+  "9cb91e1d1fd7875086aa037a0e93fde25": [
+    {
+      "uuid": "dbb026c2-233a-418a-94c0-bd8b7d25ba93",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\db\\dbb026c2-233a-418a-94c0-bd8b7d25ba93.json"
+    }
+  ],
+  "hlssm_luzi_item_bg_2": [
+    {
+      "uuid": "dbd8aefe-63c4-4672-9c2d-5b01d8f9225f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\db\\dbd8aefe-63c4-4672-9c2d-5b01d8f9225f.json"
+    }
+  ],
+  "Hlssm_Setting_zf4": [
+    {
+      "uuid": "dbfada9f-cb13-43fe-9de4-a524b2c960d2",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\db\\dbfada9f-cb13-43fe-9de4-a524b2c960d2.json"
+    }
+  ],
+  "2e7c1fa53784a766d5ebc5ac5c3a65ec9": [
+    {
+      "uuid": "ddf2ef17-ac2f-4af6-9548-dd3ddf78ca67",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\dd\\ddf2ef17-ac2f-4af6-9548-dd3ddf78ca67.json"
+    }
+  ],
+  "plist_puke_back_small_4": [
+    {
+      "uuid": "e244a0f9-752d-4ad9-ba49-862fe4fd4fec",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e2\\e244a0f9-752d-4ad9-ba49-862fe4fd4fec.json"
+    }
+  ],
+  "0dcc1befd18c9c7862bbff454d7ba07c0": [
+    {
+      "uuid": "e282f054-c774-4a4d-ab53-c8c17e4f8f9e",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e2\\e282f054-c774-4a4d-ab53-c8c17e4f8f9e.json"
+    }
+  ],
+  "hlssm_bg_1": [
+    {
+      "uuid": "e2d0b9c4-8924-422a-bd2c-e1ffec325adb",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e2\\e2d0b9c4-8924-422a-bd2c-e1ffec325adb.json"
+    }
+  ],
+  "win": [
+    {
+      "uuid": "e3c7b5f8-b64c-42a0-95e5-4722c4e23303",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e3\\e3c7b5f8-b64c-42a0-95e5-4722c4e23303.json"
+    }
+  ],
+  "Brnn_openCard_18": [
+    {
+      "uuid": "e5c0581f-7520-4349-9467-a9c52878a159",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e5\\e5c0581f-7520-4349-9467-a9c52878a159.json"
+    }
+  ],
+  "hlssm_luzi_battle_zpl_1": [
+    {
+      "uuid": "e72d6efa-ee14-46bd-90e5-b77147423e03",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e7\\e72d6efa-ee14-46bd-90e5-b77147423e03.json"
+    }
+  ],
+  "hlssm_you": [
+    {
+      "uuid": "e86333b4-8c53-418c-b83f-bf1f5fdb3d6c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e8\\e86333b4-8c53-418c-b83f-bf1f5fdb3d6c.json"
+    }
+  ],
+  "plist_puke_value_xl_1_13": [
+    {
+      "uuid": "e86f817b-afcb-4683-9be0-f7f4f1cad990",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\e8\\e86f817b-afcb-4683-9be0-f7f4f1cad990.json"
+    }
+  ],
+  "plist_puke_color_xl_small_2": [
+    {
+      "uuid": "ea425c36-14c6-4219-856a-9275cbb94911",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ea\\ea425c36-14c6-4219-856a-9275cbb94911.json"
+    }
+  ],
+  "hlssm_luzi_item_zpl_zhuang_dui": [
+    {
+      "uuid": "eb2d9fee-db81-4a59-aa54-6634412523bc",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\eb\\eb2d9fee-db81-4a59-aa54-6634412523bc.json"
+    }
+  ],
+  "plist_puke_value_1_3": [
+    {
+      "uuid": "ebfd49c0-9e91-4f7d-ab9f-668aae86003d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\eb\\ebfd49c0-9e91-4f7d-ab9f-668aae86003d.json"
+    }
+  ],
+  "Hlssm_Battle_cmD6bg": [
+    {
+      "uuid": "ec7af696-da5d-45d5-9fd1-60d7f57ce262",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ec\\ec7af696-da5d-45d5-9fd1-60d7f57ce262.json"
+    }
+  ],
+  "hlssm_h3": [
+    {
+      "uuid": "ec86992c-624b-4e39-b936-34e60ff8d54f",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ec\\ec86992c-624b-4e39-b936-34e60ff8d54f.json"
+    }
+  ],
+  "plist_puke_color_xl_small_1": [
+    {
+      "uuid": "eca146fb-77f3-4d8d-95f5-ac7e1952267b",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ec\\eca146fb-77f3-4d8d-95f5-ac7e1952267b.json"
+    }
+  ],
+  "30ad196e84f2aa3d793d05850cbdbf642": [
+    {
+      "uuid": "eccf772d-a9ac-4ec0-9fca-206794c55525",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ec\\eccf772d-a9ac-4ec0-9fca-206794c55525.json"
+    }
+  ],
+  "Hlssm_Setting_on": [
+    {
+      "uuid": "ecd2e211-3aab-4d2a-af25-e4ff19a06e49",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ec\\ecd2e211-3aab-4d2a-af25-e4ff19a06e49.json"
+    }
+  ],
+  "plist_puke_joker_big_1": [
+    {
+      "uuid": "ecefc6ab-04fd-4590-bd46-7234bf483b05",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ec\\ecefc6ab-04fd-4590-bd46-7234bf483b05.json"
+    }
+  ],
+  "hlssm_point_4": [
+    {
+      "uuid": "ed06078c-bcf6-4ec8-aebe-0958e64f0a82",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ed\\ed06078c-bcf6-4ec8-aebe-0958e64f0a82.json"
+    }
+  ],
+  "hlssm_point_6": [
+    {
+      "uuid": "ee6f7782-c42f-4e68-8a89-fece410b7725",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ee\\ee6f7782-c42f-4e68-8a89-fece410b7725.json"
+    }
+  ],
+  "Hlssm_Menu_bt1": [
+    {
+      "uuid": "ef6c1e15-65dc-4a8d-9970-bb50339b546d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ef\\ef6c1e15-65dc-4a8d-9970-bb50339b546d.json"
+    }
+  ],
+  "Hlssm_Setting_zf1": [
+    {
+      "uuid": "f04f1b50-0a70-4ecd-9cea-3dddadf9c509",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f0\\f04f1b50-0a70-4ecd-9cea-3dddadf9c509.json"
+    }
+  ],
+  "hlssm_h2": [
+    {
+      "uuid": "f1c81344-1756-4e4c-a286-c4a61b306d3c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f1\\f1c81344-1756-4e4c-a286-c4a61b306d3c.json"
+    }
+  ],
+  "hlssm_luzi_battle_zpl_2": [
+    {
+      "uuid": "f2906d3d-0ce2-44d4-9ba8-c818e19846de",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f2\\f2906d3d-0ce2-44d4-9ba8-c818e19846de.json"
+    }
+  ],
+  "plist_puke_value_1_12": [
+    {
+      "uuid": "f2dacded-99c2-4bc2-bc66-a13d07854990",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f2\\f2dacded-99c2-4bc2-bc66-a13d07854990.json"
+    }
+  ],
+  "plist_puke_value_xl_1_5": [
+    {
+      "uuid": "f374c533-eaa1-4509-b35f-b1ba7ca4537d",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f3\\f374c533-eaa1-4509-b35f-b1ba7ca4537d.json"
+    }
+  ],
+  "hlssm_txt_js_4": [
+    {
+      "uuid": "f40a266d-4b99-44eb-922f-514f1d2b0d53",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f4\\f40a266d-4b99-44eb-922f-514f1d2b0d53.json"
+    }
+  ],
+  "hlssm_luzi_item_dl_xian_dui": [
+    {
+      "uuid": "f42ba418-0da9-4214-a923-e4532a3c5e62",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f4\\f42ba418-0da9-4214-a923-e4532a3c5e62.json"
+    }
+  ],
+  "hlssm_txt_js_6": [
+    {
+      "uuid": "f4ac86e3-5bd5-4169-8333-92c21f4b8194",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f4\\f4ac86e3-5bd5-4169-8333-92c21f4b8194.json"
+    }
+  ],
+  "hlssm_point_0": [
+    {
+      "uuid": "f9f7a739-7e0a-4b41-ad5d-5e5ed1693f22",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\f9\\f9f7a739-7e0a-4b41-ad5d-5e5ed1693f22.json"
+    }
+  ],
+  "hlssm_luzi_battle_zpl_3": [
+    {
+      "uuid": "fa8ce7e7-0370-4371-a45f-f3624de85f0c",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fa\\fa8ce7e7-0370-4371-a45f-f3624de85f0c.json"
+    }
+  ],
+  "7adb1a844df37345ed572c2685a99779b": [
+    {
+      "uuid": "fb0af345-4f88-429e-894f-714bdcdbfb15",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fb\\fb0af345-4f88-429e-894f-714bdcdbfb15.json"
+    }
+  ],
+  "Brnn_openCard_19": [
+    {
+      "uuid": "fb677479-234f-417c-b34a-41482ca376d2",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fb\\fb677479-234f-417c-b34a-41482ca376d2.json"
+    }
+  ],
+  "Hlssm_Setting_off": [
+    {
+      "uuid": "fbd0a827-a19d-4535-83e9-a9376f340dc5",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fb\\fbd0a827-a19d-4535-83e9-a9376f340dc5.json"
+    }
+  ],
+  "hlssm_win_guan": [
+    {
+      "uuid": "fbe595e0-7942-49da-8f6a-756fc3be8424",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fb\\fbe595e0-7942-49da-8f6a-756fc3be8424.json"
+    }
+  ],
+  "plist_puke_value_xl_0_13": [
+    {
+      "uuid": "fd00e262-0f21-47c6-b3c0-269ba5e75053",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fd\\fd00e262-0f21-47c6-b3c0-269ba5e75053.json"
+    }
+  ],
+  "plist_puke_value_xl_1_11": [
+    {
+      "uuid": "fd2690fa-2b44-4be1-8595-837acbce87e4",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fd\\fd2690fa-2b44-4be1-8595-837acbce87e4.json"
+    }
+  ],
+  "Hlssm_Battle_XZzt3": [
+    {
+      "uuid": "fdb0398e-21fe-44e0-a397-ff7af3f8fc5a",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fd\\fdb0398e-21fe-44e0-a397-ff7af3f8fc5a.json"
+    }
+  ],
+  "hlssm_luzi_item_4_2": [
+    {
+      "uuid": "feab9029-f14b-4670-9f58-94040e6968f9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\fe\\feab9029-f14b-4670-9f58-94040e6968f9.json"
+    }
+  ],
+  "Hlssm_Rule_bg1": [
+    {
+      "uuid": "ffaccbbf-04f6-4c7d-ba19-eceded2967b9",
+      "type": "spriteframe",
+      "nativePath": "",
+      "jsonPath": "C:\\Users\\88903\\DoubaoWork\\chats\\2026-10-03\\new-chat-2\\728\\728_original\\client\\cocos-project\\assets\\resources\\728-games\\BJL\\import\\ff\\ffaccbbf-04f6-4c7d-ba19-eceded2967b9.json"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿=== 728 Cocos客户端联调测试 ===
+
+1. HTTP登录
+[PASS] HTTP登录: uid=1, gold=99395
+
+2. WS连接
+[PASS] WS连接
+
+3. Msg_Hall_Connect
+[FAIL] Msg_Hall_Connect: uid=0, gold=undefined
+
+4. Msg_Hall_Heart
+[PASS] 心跳响应: Msg_Hall_Heart
+
+5. Msg_Hall_GetGameList
+[FAIL] 游戏列表: 无响应
+
+6. 进入百家乐 (Msg_Game_GetState, gtype=8)
+[PASS] 百家乐游戏状态: Msg_BJL_GetState
+
+7. 百家乐下注 (Msg_Game_Bet, gtype=8)
+[PASS] 百家乐下注: Msg_BJL_Bet
+
+8. 进入龙虎斗 (Msg_Game_GetState, gtype=6)
+[PASS] 龙虎斗游戏状态: Msg_LHD_GetState
+
+=== 测试总结 ===
+通过: 6/8
+  [✓] HTTP登录
+  [✓] WS连接
+  [✗] Msg_Hall_Connect
+  [✓] 心跳响应
+  [✗] 游戏列表
+  [✓] 百家乐游戏状态
+  [✓] 百家乐下注
+  [✓] 龙虎斗游戏状态

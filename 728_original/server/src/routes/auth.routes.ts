@@ -43,7 +43,10 @@ function makePublicUser(u: typeof users.$inferSelect) {
 // POST /Login
 router.post("/Login", async (req, res) => {
   try {
-    const { uid, password, equipmentcard, type = 1, code = -1 } = req.body || {};
+    // 客户端格式: data={"event":"Msg_User_Login","data":{uid,password,...}}
+    // formDataParser解析后 req.body = {event, data:{...}}，实际参数在 data 中
+    const payload = (req.body && req.body.data) ? req.body.data : (req.body || {});
+    const { uid, password, equipmentcard, type = 1, code = -1 } = payload;
     const account = String(uid || "").trim();
     const pwd = String(password || "");
     const deviceId = String(equipmentcard || "").trim() || "unknown";
@@ -117,7 +120,8 @@ router.post("/Login", async (req, res) => {
 // POST /register
 router.post("/register", async (req, res) => {
   try {
-    const { uid, password, code, equipmentcard, type = 1 } = req.body || {};
+    const payload = (req.body && req.body.data) ? req.body.data : (req.body || {});
+    const { uid, password, code, equipmentcard, type = 1 } = payload;
     const account = String(uid || "").trim();
     const pwd = String(password || "");
     const inviteCode = String(code || "").trim();
@@ -214,7 +218,8 @@ router.post("/register", async (req, res) => {
 // POST /ChangePassword
 router.post("/ChangePassword", async (req, res) => {
   try {
-    const { uid, oldPassword, newPassword } = req.body || {};
+    const payload = (req.body && req.body.data) ? req.body.data : (req.body || {});
+    const { uid, oldPassword, newPassword } = payload;
     const account = String(uid || "").trim();
     if (!account || !oldPassword || !newPassword) {
       return sendLegacy(res, {}, 40001, "参数不完整");

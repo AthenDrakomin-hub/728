@@ -45,3 +45,42 @@ browser/screenshots/
 
 # Log files
 *.log
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+728_original/server/data/
+
+# Temp files
+728_original/server/0
+test-output.txt
+
+# Temp fix scripts (root)
+fix-*.js
+decode-*.js
+apply-fixes.js
+copy_*.js
+extract_*.js
+gen_*.js
+build_*_map.js
+full_*_mapping.js
+
+# Cocos Creator cache
+728_original/client/cocos-project/temp/
+728_original/client/cocos-project/library/
+728_original/client/cocos-project/local/
+728_original/client/cocos-project/assets/resources/728-games/*/import/
+
+# Reference projects (large third-party code)
+reference/
+728_platform_v2/
+
+# Large binaries / installers
+*.zip
+*.exe
+*.msi
+*.rar
+*.7z
+python*/
+tools/excel2ts/python*

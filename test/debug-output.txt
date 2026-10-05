@@ -1,0 +1,49 @@
+﻿=== 详细诊断 ===
+
+1. HTTP登录:
+  状态: 200
+  完整响应: {
+  "code": 20000,
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImFjY291bnQiOiJ0ZXN0MDAxIiwicm9sZSI6InBsYXllciIsImlhdCI6MTc5MTA1NTk2OSwiZXhwIjoxNzkxNjYwNzY5fQ.hcpdvknLXKjnGD4oRT9mcV0UyoSTIghnBu9JiE8CLbE",
+    "uid": 1,
+    "account": "test001",
+    "nickname": "测试玩家",
+    "headimgurl": "",
+    "pictureframe": "",
+    "gold": 99395,
+    "bank": 50000,
+    "rcard": 0,
+    "status": 1,
+    "agentPower": 0,
+    "power": 0,
+    "control": 0,
+    "controlGold": 0,
+    "monthlyend": "",
+    "income": 0,
+    "expenditure": 0,
+    "created": "2026-10-03T16:37:43.000Z",
+    "last_time": "2026-10-03T19:32:49.000Z",
+    "invite_code": "A00001",
+    "invited_by_code": ""
+  },
+  "message": ""
+}
+
+2. WS连接:
+  连接成功
+
+3. 尝试登录消息格式:
+  → 格式A: Msg_Hall_Login
+  ← 完整消息: {"event":"Msg_Hall_ERROR","area":0,"uid":0,"data":{"message":"未连接大厅"}}
+  → 格式B: 顶层password
+  ← 完整消息: {"event":"Msg_Hall_ERROR","area":0,"uid":0,"data":{"message":"未连接大厅"}}
+  → 格式C: Msg_Login
+  ← 完整消息: {"event":"Msg_Hall_ERROR","area":0,"uid":0,"data":{"message":"未连接大厅"}}
+
+4. 心跳:
+  → Msg_Hall_Heart
+  ← 完整消息: {"event":"Msg_Hall_ERROR","area":0,"uid":0,"data":{"message":"未连接大厅"}}
+
+=== 总结 ===
+总消息: 4

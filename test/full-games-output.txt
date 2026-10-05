@@ -1,0 +1,36 @@
+﻿=== 全量21款游戏联调测试 (Msg_Game_GetState) ===
+
+登录: uid=1, gold=99395
+WS连接+认证完成
+
+--- Msg_Hall_GetGameList ---
+PASS: 返回21款游戏
+
+--- 21款游戏 Msg_Game_GetState ---
+  [PASS] gtype=1 FQZS(飞禽走兽) -> Msg_FQZS_GetState
+  [PASS] gtype=2 BRNN(百人牛牛) -> Msg_BRNN_GetState
+  [PASS] gtype=3 HBSL(红包扫雷) -> Msg_HBSL_GetState
+  [PASS] gtype=6 LHD(龙虎斗) -> Msg_LHD_GetState
+  [PASS] gtype=7 BCBM(奔驰宝马) -> Msg_BCBM_GetState
+  [PASS] gtype=8 BJL(百家乐) -> Msg_BJL_GetState
+  [PASS] gtype=9 SDB(十点半) -> Msg_SDB_GetState
+  [PASS] gtype=13 DNTG(大闹天宫) -> Msg_DNTG_GetState
+  [PASS] gtype=14 QZNN(抢庄牛牛) -> Msg_QZNN_GetState
+  [PASS] gtype=15 ERNN(二人牛牛) -> Msg_ERNN_GetState
+  [PASS] gtype=16 HLWZ(欢乐五子) -> Msg_HLWZ_GetState
+  [PASS] gtype=17 ERQS(二人抢庄) -> Msg_ERQS_GetState
+  [PASS] gtype=18 TBNN(通比牛牛) -> Msg_TBNN_GetState
+  [PASS] gtype=19 DZPK(德州扑克) -> Msg_DZPK_GetState
+  [PASS] gtype=20 ZJH(炸金花) -> Msg_ZJH_GetState
+  [PASS] gtype=21 SRNN(百人牛牛2) -> Msg_SRNN_GetState
+  [PASS] gtype=22 JXLW(金龙揽月) -> Msg_JXLW_GetState
+  [PASS] gtype=23 SHZ(三张) -> Msg_SHZ_GetState
+  [PASS] gtype=26 DFDC(东方明珠) -> Msg_DFDC_GetState
+  [PASS] gtype=28 WZMJ(温州麻将) -> Msg_WZMJ_GetState
+  [PASS] gtype=1000 MJHJ(麻将胡了) -> Msg_MJHJ_GetState
+
+--- Msg_Hall_FinishLoad ---
+PASS {"event":"Msg_Hall_FinishLoad","area":0,"uid":0,"status":1,"data":{"status":1,"rid":80000001}}
+
+=== 总结 ===
+游戏状态: 21/21 PASS, 0 FAIL
